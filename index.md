@@ -6,6 +6,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
+[Archetypes index](./pages/archetypes_index.html).
+
+[Pauper pool](./pages/pauper_pool.html).
+
+[Set index](./pages/set_index.html).
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
