@@ -701,6 +701,22 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 684       | pafr          | Adventures in the Forgotten Realms Promos       | 2021-07-23   |
 | 685       | tafc          | Forgotten Realms Commander Tokens               | 2021-07-23   |
 | 686       | tafr          | Adventures in the Forgotten Realms Tokens       | 2021-07-23   |
+| 687       | mkhm          | Kaldheim Minigames                              | 2021-02-05   |
+| 688       | mstx          | Strixhaven: School of Mages Minigames           | 2021-04-23   |
+| 689       | mmh2          | Modern Horizons 2 Minigames                     | 2021-06-18   |
+| 690       | mafr          | Adventures in the Forgotten Realms Minigames    | 2021-07-23   |
+| 691       | oafc          | Forgotten Realms Commander Display Commanders   | 2021-07-23   |
+| 692       | htr20         | 2020 Heroes of the Realm                        | 2021-08-01   |
+| 693       | cmb2          | Mystery Booster Playtest Cards 2021             | 2021-08-20   |
+| 694       | j21           | Jumpstart: Historic Horizons                    | 2021-08-26   |
+| 695       | mic           | Midnight Hunt Commander                         | 2021-09-24   |
+| **696**   | **mid**       | **Innistrad: Midnight Hunt**                    | **2021-09-24** |
+| 697       | pmid          | Innistrad: Midnight Hunt Promos                 | 2021-09-24   |
+| 698       | smid          | Innistrad: Midnight Hunt Substitute Cards       | 2021-09-24   |
+| 699       | tmic          | Midnight Hunt Commander Tokens                  | 2021-09-24   |
+| 700       | tmid          | Innistrad: Midnight Hunt Tokens                 | 2021-09-24   |
+| 701       | vow           | Innistrad: Crimson Vow                          | 2021-11-19   |
+| 702       | cc2           | Commander Collection: Black                     | 2021-12-31   |
 
 
-*Last updated: 2021-10-08, 00:28:03.*
+*Last updated: 2021-10-08, 00:37:53.*

@@ -9,7 +9,7 @@ This page should be useful for Pauper players that haven't followed the latest r
 
 Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](set_index.html).
 
-The total number of cards in the Pauper pool is: 8037.
+The total number of cards in the Pauper pool is: 8126.
 
 ---
 Table of Contents
@@ -167,6 +167,7 @@ Table of Contents
 * [Strixhaven: School of Mages](#strixhaven-school-of-mages-stx) (*release: 2021-04-23 ~ p12e_code: 669*)
 * [Modern Horizons 2](#modern-horizons-2-mh2) (*release: 2021-06-18 ~ p12e_code: 676*)
 * [Adventures in the Forgotten Realms](#adventures-in-the-forgotten-realms-afr) (*release: 2021-07-23 ~ p12e_code: 683*)
+* [Innistrad: Midnight Hunt](#innistrad-midnight-hunt-mid) (*release: 2021-09-24 ~ p12e_code: 696*)
 
 ---
 
@@ -9584,6 +9585,104 @@ Table of Contents
 </details>
 []()
 
+## Innistrad: Midnight Hunt (mid)
+*release: 2021-09-24 | p12e_code: 696*
+
+<details>
+  <summary>Click to see 89 new cards</summary>
+
+<a href="https://scryfall.com/card/mid/127/abandon-the-post?utm_source=api">Abandon the Post</a><br/>
+<a href="https://scryfall.com/card/mid/128/ardent-elementalist?utm_source=api">Ardent Elementalist</a><br/>
+<a href="https://scryfall.com/card/mid/84/arrogant-outlaw?utm_source=api">Arrogant Outlaw</a><br/>
+<a href="https://scryfall.com/card/mid/42/baithook-angler-hook-haunt-drifter?utm_source=api">Baithook Angler // Hook-Haunt Drifter</a><br/>
+<a href="https://scryfall.com/card/mid/86/bat-whisperer?utm_source=api">Bat Whisperer</a><br/>
+<a href="https://scryfall.com/card/mid/169/bird-admirer-wing-shredder?utm_source=api">Bird Admirer // Wing Shredder</a><br/>
+<a href="https://scryfall.com/card/mid/5/blessed-defiance?utm_source=api">Blessed Defiance</a><br/>
+<a href="https://scryfall.com/card/mid/88/blood-pact?utm_source=api">Blood Pact</a><br/>
+<a href="https://scryfall.com/card/mid/170/bounding-wolf?utm_source=api">Bounding Wolf</a><br/>
+<a href="https://scryfall.com/card/mid/171/bramble-armor?utm_source=api">Bramble Armor</a><br/>
+<a href="https://scryfall.com/card/mid/130/brimstone-vandal?utm_source=api">Brimstone Vandal</a><br/>
+<a href="https://scryfall.com/card/mid/132/burn-the-accursed?utm_source=api">Burn the Accursed</a><br/>
+<a href="https://scryfall.com/card/mid/8/candlegrove-witch?utm_source=api">Candlegrove Witch</a><br/>
+<a href="https://scryfall.com/card/mid/175/candlelit-cavalry?utm_source=api">Candlelit Cavalry</a><br/>
+<a href="https://scryfall.com/card/mid/9/candletrap?utm_source=api">Candletrap</a><br/>
+<a href="https://scryfall.com/card/mid/10/cathar-commando?utm_source=api">Cathar Commando</a><br/>
+<a href="https://scryfall.com/card/mid/12/celestus-sanctifier?utm_source=api">Celestus Sanctifier</a><br/>
+<a href="https://scryfall.com/card/mid/14/clarion-cathars?utm_source=api">Clarion Cathars</a><br/>
+<a href="https://scryfall.com/card/mid/43/component-collector?utm_source=api">Component Collector</a><br/>
+<a href="https://scryfall.com/card/mid/44/consider?utm_source=api">Consider</a><br/>
+<a href="https://scryfall.com/card/mid/93/crawl-from-the-cellar?utm_source=api">Crawl from the Cellar</a><br/>
+<a href="https://scryfall.com/card/mid/253/crossroads-candleguide?utm_source=api">Crossroads Candleguide</a><br/>
+<a href="https://scryfall.com/card/mid/180/dawnhart-rejuvenator?utm_source=api">Dawnhart Rejuvenator</a><br/>
+<a href="https://scryfall.com/card/mid/95/defenestrate?utm_source=api">Defenestrate</a><br/>
+<a href="https://scryfall.com/card/mid/96/diregraf-horde?utm_source=api">Diregraf Horde</a><br/>
+<a href="https://scryfall.com/card/mid/50/drownyard-amalgam?utm_source=api">Drownyard Amalgam</a><br/>
+<a href="https://scryfall.com/card/mid/184/duel-for-dominance?utm_source=api">Duel for Dominance</a><br/>
+<a href="https://scryfall.com/card/mid/99/eaten-alive?utm_source=api">Eaten Alive</a><br/>
+<a href="https://scryfall.com/card/mid/185/eccentric-farmer?utm_source=api">Eccentric Farmer</a><br/>
+<a href="https://scryfall.com/card/mid/100/ecstatic-awakener-awoken-demon?utm_source=api">Ecstatic Awakener // Awoken Demon</a><br/>
+<a href="https://scryfall.com/card/mid/135/electric-revelation?utm_source=api">Electric Revelation</a><br/>
+<a href="https://scryfall.com/card/mid/52/falcon-abomination?utm_source=api">Falcon Abomination</a><br/>
+<a href="https://scryfall.com/card/mid/136/falkenrath-perforator?utm_source=api">Falkenrath Perforator</a><br/>
+<a href="https://scryfall.com/card/mid/138/famished-foragers?utm_source=api">Famished Foragers</a><br/>
+<a href="https://scryfall.com/card/mid/140/festival-crasher?utm_source=api">Festival Crasher</a><br/>
+<a href="https://scryfall.com/card/mid/19/flare-of-faith?utm_source=api">Flare of Faith</a><br/>
+<a href="https://scryfall.com/card/mid/54/flip-the-switch?utm_source=api">Flip the Switch</a><br/>
+<a href="https://scryfall.com/card/mid/55/galedrifter-waildrifter?utm_source=api">Galedrifter // Waildrifter</a><br/>
+<a href="https://scryfall.com/card/mid/21/gavony-silversmith?utm_source=api">Gavony Silversmith</a><br/>
+<a href="https://scryfall.com/card/mid/22/gavony-trapper?utm_source=api">Gavony Trapper</a><br/>
+<a href="https://scryfall.com/card/mid/56/geistwave?utm_source=api">Geistwave</a><br/>
+<a href="https://scryfall.com/card/mid/143/harvesttide-infiltrator-harvesttide-assailant?utm_source=api">Harvesttide Infiltrator // Harvesttide Assailant</a><br/>
+<a href="https://scryfall.com/card/mid/186/harvesttide-sentry?utm_source=api">Harvesttide Sentry</a><br/>
+<a href="https://scryfall.com/card/mid/23/hedgewitchs-mask?utm_source=api">Hedgewitch's Mask</a><br/>
+<a href="https://scryfall.com/card/mid/106/hobbling-zombie?utm_source=api">Hobbling Zombie</a><br/>
+<a href="https://scryfall.com/card/mid/24/homestead-courage?utm_source=api">Homestead Courage</a><br/>
+<a href="https://scryfall.com/card/mid/188/howl-of-the-hunt?utm_source=api">Howl of the Hunt</a><br/>
+<a href="https://scryfall.com/card/mid/254/jack-o-lantern?utm_source=api">Jack-o'-Lantern</a><br/>
+<a href="https://scryfall.com/card/mid/145/lambholt-harrier?utm_source=api">Lambholt Harrier</a><br/>
+<a href="https://scryfall.com/card/mid/58/larder-zombie?utm_source=api">Larder Zombie</a><br/>
+<a href="https://scryfall.com/card/mid/60/locked-in-the-cemetery?utm_source=api">Locked in the Cemetery</a><br/>
+<a href="https://scryfall.com/card/mid/27/lunarch-veteran-luminous-phantom?utm_source=api">Lunarch Veteran // Luminous Phantom</a><br/>
+<a href="https://scryfall.com/card/mid/189/might-of-the-old-ways?utm_source=api">Might of the Old Ways</a><br/>
+<a href="https://scryfall.com/card/mid/148/moonragers-slash?utm_source=api">Moonrager's Slash</a><br/>
+<a href="https://scryfall.com/card/mid/114/morkrut-behemoth?utm_source=api">Morkrut Behemoth</a><br/>
+<a href="https://scryfall.com/card/mid/150/mounted-dreadknight?utm_source=api">Mounted Dreadknight</a><br/>
+<a href="https://scryfall.com/card/mid/28/mourning-patrol-morning-apparition?utm_source=api">Mourning Patrol // Morning Apparition</a><br/>
+<a href="https://scryfall.com/card/mid/151/neonates-rush?utm_source=api">Neonate's Rush</a><br/>
+<a href="https://scryfall.com/card/mid/117/novice-occultist?utm_source=api">Novice Occultist</a><br/>
+<a href="https://scryfall.com/card/mid/116/no-way-out?utm_source=api">No Way Out</a><br/>
+<a href="https://scryfall.com/card/mid/118/olivias-midnight-ambush?utm_source=api">Olivia's Midnight Ambush</a><br/>
+<a href="https://scryfall.com/card/mid/66/organ-hoarder?utm_source=api">Organ Hoarder</a><br/>
+<a href="https://scryfall.com/card/mid/67/otherworldly-gaze?utm_source=api">Otherworldly Gaze</a><br/>
+<a href="https://scryfall.com/card/mid/153/packs-betrayal?utm_source=api">Pack's Betrayal</a><br/>
+<a href="https://scryfall.com/card/mid/191/path-to-the-festival?utm_source=api">Path to the Festival</a><br/>
+<a href="https://scryfall.com/card/mid/192/pestilent-wolf?utm_source=api">Pestilent Wolf</a><br/>
+<a href="https://scryfall.com/card/mid/156/raze-the-effigy?utm_source=api">Raze the Effigy</a><br/>
+<a href="https://scryfall.com/card/mid/72/revenge-of-the-drowned?utm_source=api">Revenge of the Drowned</a><br/>
+<a href="https://scryfall.com/card/mid/30/ritual-guardian?utm_source=api">Ritual Guardian</a><br/>
+<a href="https://scryfall.com/card/mid/119/rotten-reunion?utm_source=api">Rotten Reunion</a><br/>
+<a href="https://scryfall.com/card/mid/32/search-party-captain?utm_source=api">Search Party Captain</a><br/>
+<a href="https://scryfall.com/card/mid/73/secrets-of-the-key?utm_source=api">Secrets of the Key</a><br/>
+<a href="https://scryfall.com/card/mid/198/shadowbeast-sighting?utm_source=api">Shadowbeast Sighting</a><br/>
+<a href="https://scryfall.com/card/mid/120/shady-traveler-stalking-predator?utm_source=api">Shady Traveler // Stalking Predator</a><br/>
+<a href="https://scryfall.com/card/mid/74/shipwreck-sifters?utm_source=api">Shipwreck Sifters</a><br/>
+<a href="https://scryfall.com/card/mid/121/siege-zombie?utm_source=api">Siege Zombie</a><br/>
+<a href="https://scryfall.com/card/mid/258/silver-bolt?utm_source=api">Silver Bolt</a><br/>
+<a href="https://scryfall.com/card/mid/199/snarling-wolf?utm_source=api">Snarling Wolf</a><br/>
+<a href="https://scryfall.com/card/mid/35/soul-guide-gryff?utm_source=api">Soul-Guide Gryff</a><br/>
+<a href="https://scryfall.com/card/mid/78/startle?utm_source=api">Startle</a><br/>
+<a href="https://scryfall.com/card/mid/161/stolen-vitality?utm_source=api">Stolen Vitality</a><br/>
+<a href="https://scryfall.com/card/mid/259/stuffed-bear?utm_source=api">Stuffed Bear</a><br/>
+<a href="https://scryfall.com/card/mid/36/sungold-barrage?utm_source=api">Sungold Barrage</a><br/>
+<a href="https://scryfall.com/card/mid/201/tapping-at-the-window?utm_source=api">Tapping at the Window</a><br/>
+<a href="https://scryfall.com/card/mid/163/tavern-ruffian-tavern-smasher?utm_source=api">Tavern Ruffian // Tavern Smasher</a><br/>
+<a href="https://scryfall.com/card/mid/39/thraben-exorcism?utm_source=api">Thraben Exorcism</a><br/>
+<a href="https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api">Tireless Hauler // Dire-Strain Brawler</a><br/>
+<a href="https://scryfall.com/card/mid/82/unblinking-observer?utm_source=api">Unblinking Observer</a><br/>
+<a href="https://scryfall.com/card/mid/167/voldaren-stinger?utm_source=api">Voldaren Stinger</a><br/>
+</details>
+[]()
 
 
-*Last updated: 2021-10-08, 00:21:00.*
+
+*Last updated: 2021-10-08, 00:38:30.*
