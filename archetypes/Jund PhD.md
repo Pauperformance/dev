@@ -34,4 +34,4 @@
 [Jund PhD 669.002.Milkk](https://deckstats.net/decks/181430/2131690-jund-phd-669-002-milkk) | *2021-06-30, 22:59:58* | YouTube -Pauper League - Jund Ph.D. | THIS DECK STARTED OUT AS A MEME BUT IT'S ACTUALLY JUST CRACKED! (Snap Bolt)  
 
 
-*Last updated: 2021-07-25, 20:19:26.*
+*Last updated: 2021-10-08, 00:17:59.*

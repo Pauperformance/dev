@@ -46,4 +46,4 @@
 [Affinity 501.001.Shika93](https://deckstats.net/decks/78813/2119103-affinity-501-001) | *2021-06-21, 20:22:19* |   
 
 
-*Last updated: 2021-07-25, 20:19:48.*
+*Last updated: 2021-10-08, 00:18:05.*

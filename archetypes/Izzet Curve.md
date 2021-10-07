@@ -42,4 +42,4 @@
 [Izzet Curve 676.001._INVISIBLEKID_](https://deckstats.net/decks/181430/2131661-izzet-curve-676-001-invisiblek) | *2021-06-30, 22:35:15* | Top 16 - Pauper Royale 7.03 2021-06-24  
 
 
-*Last updated: 2021-07-25, 20:19:18.*
+*Last updated: 2021-10-08, 00:18:00.*

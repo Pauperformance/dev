@@ -21,4 +21,4 @@
 [Atog Shift 612.001.Matteo Mazzola](https://deckstats.net/decks/181430/2120618-atog-shift-612-001-matteo-mazz) | *2021-06-22, 19:47:20* | Paupergeddon Milano 2020  
 
 
-*Last updated: 2021-07-25, 20:20:00.*
+*Last updated: 2021-10-08, 00:17:53.*

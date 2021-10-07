@@ -43,4 +43,4 @@
 [Eggs 518.002.Shika93](https://deckstats.net/decks/78813/2125521-eggs-518-002) | *2021-06-26, 10:45:37* |   
 
 
-*Last updated: 2021-07-25, 20:19:37.*
+*Last updated: 2021-10-08, 00:18:03.*

@@ -51,4 +51,4 @@
 [One Land Spy 433.001.Matteo Burello](https://deckstats.net/decks/181430/2126701-one-land-spy-433-001-matteo-bu) | *2021-06-27, 10:39:56* |   
 
 
-*Last updated: 2021-07-25, 20:19:31.*
+*Last updated: 2021-10-08, 00:17:55.*

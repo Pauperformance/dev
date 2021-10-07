@@ -60,4 +60,4 @@
 [Flicker Tron 560.001.Birbman263](https://deckstats.net/decks/181430/2118936-flicker-tron-560-001-birbman26) | *2021-06-21, 18:23:40* |   
 
 
-*Last updated: 2021-07-25, 20:20:05.*
+*Last updated: 2021-10-08, 00:18:01.*

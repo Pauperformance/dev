@@ -38,4 +38,4 @@
 [MonoW Heroic 584.001.dhalsinbh1](https://deckstats.net/decks/181430/2120544-monow-heroic-584-001-dhalsinbh) | *2021-06-22, 19:11:45* |   
 
 
-*Last updated: 2021-07-25, 20:19:28.*
+*Last updated: 2021-10-08, 00:18:24.*

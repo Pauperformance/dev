@@ -31,7 +31,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 14        | phpr          | HarperPrism Book Promos                         | 1994-09-01   |
 | **15**    | **fem**       | **Fallen Empires**                              | **1994-11-01** |
 | 16        | plgm          | DCI Legend Membership                           | 1995-01-01   |
-| **17**    | **pmei**      | **Magazine Inserts**                            | **1995-01-01** |
+| **17**    | **pmei**      | **Media Inserts**                               | **1995-01-01** |
 | **18**    | **4bb**       | **Fourth Edition Foreign Black Border**         | **1995-04-01** |
 | 19        | 4ed           | Fourth Edition                                  | 1995-04-01   |
 | **20**    | **ice**       | **Ice Age**                                     | **1995-06-03** |
@@ -125,7 +125,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **108**   | **tor**       | **Torment**                                     | **2002-02-04** |
 | **109**   | **jud**       | **Judgment**                                    | **2002-05-27** |
 | 110       | pjud          | Judgment Promos                                 | 2002-05-27   |
-| **111**   | **prm**       | **Magic Online Promos**                         | **2002-06-24** |
+| 111       | prm           | Magic Online Promos                             | 2002-06-24   |
 | 112       | phj           | Hobby Japan Promos                              | 2002-07-01   |
 | 113       | wc02          | World Championship Decks 2002                   | 2002-08-14   |
 | **114**   | **ons**       | **Onslaught**                                   | **2002-10-07** |
@@ -250,7 +250,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **233**   | **con**       | **Conflux**                                     | **2009-02-06** |
 | 234       | pcon          | Conflux Promos                                  | 2009-02-06   |
 | 235       | tcon          | Conflux Tokens                                  | 2009-02-06   |
-| **236**   | **purl**      | **URL/Convention Promos**                       | **2009-02-08** |
+| 236       | purl          | URL/Convention Promos                           | 2009-02-08   |
 | 237       | ddc           | Duel Decks: Divine vs. Demonic                  | 2009-04-10   |
 | 238       | tddc          | Duel Decks: Divine vs. Demonic Tokens           | 2009-04-10   |
 | **239**   | **arb**       | **Alara Reborn**                                | **2009-04-30** |
@@ -276,7 +276,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 259       | pdp10         | Duels of the Planeswalkers 2010 Promos          | 2010-01-01   |
 | 260       | pmps10        | Magic Premiere Shop 2010                        | 2010-01-01   |
 | 261       | pwp10         | Wizards Play Network 2010                       | 2010-01-01   |
-| **262**   | **pwwk**      | **Worldwake Promos**                            | **2010-02-05** |
+| 262       | pwwk          | Worldwake Promos                                | 2010-02-05   |
 | 263       | twwk          | Worldwake Tokens                                | 2010-02-05   |
 | **264**   | **wwk**       | **Worldwake**                                   | **2010-02-05** |
 | 265       | dde           | Duel Decks: Phyrexia vs. the Coalition          | 2010-03-19   |
@@ -317,7 +317,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **300**   | **nph**       | **New Phyrexia**                                | **2011-05-13** |
 | 301       | tnph          | New Phyrexia Tokens                             | 2011-05-13   |
 | 302       | td2           | Duel Decks: Mirrodin Pure vs. New Phyrexia      | 2011-05-14   |
-| 303       | cmd           | Commander 2011                                  | 2011-06-17   |
+| **303**   | **cmd**       | **Commander 2011**                              | **2011-06-17** |
 | 304       | ocmd          | Commander 2011 Oversized                        | 2011-06-17   |
 | 305       | pcmd          | Commander 2011 Launch Party                     | 2011-06-17   |
 | 306       | pm12          | Magic 2012 Promos                               | 2011-07-14   |
@@ -436,7 +436,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 419       | f15           | Friday Night Magic 2015                         | 2015-01-01   |
 | 420       | j15           | Judge Gift Cards 2015                           | 2015-01-01   |
 | 421       | l15           | League Tokens 2015                              | 2015-01-01   |
-| 422       | ugin          | Ugin's Fate                                     | 2015-01-17   |
+| **422**   | **ugin**      | **Ugin's Fate**                                 | **2015-01-17** |
 | 423       | cp2           | Fate Reforged Clash Pack                        | 2015-01-23   |
 | **424**   | **frf**       | **Fate Reforged**                               | **2015-01-23** |
 | 425       | pfrf          | Fate Reforged Promos                            | 2015-01-23   |
@@ -490,7 +490,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 473       | pkld          | Kaladesh Promos                                 | 2016-09-30   |
 | 474       | tkld          | Kaladesh Tokens                                 | 2016-09-30   |
 | 475       | ps16          | San Diego Comic-Con 2016                        | 2016-10-01   |
-| 476       | c16           | Commander 2016                                  | 2016-11-11   |
+| **476**   | **c16**       | **Commander 2016**                              | **2016-11-11** |
 | 477       | oc16          | Commander 2016 Oversized                        | 2016-11-11   |
 | 478       | tc16          | Commander 2016 Tokens                           | 2016-11-11   |
 | **479**   | **pz2**       | **Treasure Chest**                              | **2016-11-16** |
@@ -546,7 +546,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **529**   | **rix**       | **Rivals of Ixalan**                            | **2018-01-19** |
 | 530       | trix          | Rivals of Ixalan Tokens                         | 2018-01-19   |
 | 531       | pnat          | Nationals Promos                                | 2018-01-25   |
-| 532       | plny          | 2018 Lunar New Year                             | 2018-02-16   |
+| 532       | plny          | Lunar New Year 2018                             | 2018-02-16   |
 | **533**   | **a25**       | **Masters 25**                                  | **2018-03-16** |
 | 534       | ta25          | Masters 25 Tokens                               | 2018-03-16   |
 | 535       | ddu           | Duel Decks: Elves vs. Inventors                 | 2018-04-06   |
@@ -589,7 +589,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **572**   | **uma**       | **Ultimate Masters**                            | **2018-12-07** |
 | 573       | opca          | Planechase Anthology Planes                     | 2018-12-25   |
 | 574       | pf19          | MagicFest 2019                                  | 2019-01-01   |
-| **575**   | **prna**      | **Ravnica Allegiance Promos**                   | **2019-01-25** |
+| 575       | prna          | Ravnica Allegiance Promos                       | 2019-01-25   |
 | **576**   | **rna**       | **Ravnica Allegiance**                          | **2019-01-25** |
 | 577       | trna          | Ravnica Allegiance Tokens                       | 2019-01-25   |
 | 578       | gk2           | RNA Guild Kit                                   | 2019-02-15   |
@@ -617,7 +617,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **600**   | **eld**       | **Throne of Eldraine**                          | **2019-10-04** |
 | 601       | peld          | Throne of Eldraine Promos                       | 2019-10-04   |
 | 602       | ptg           | Ponies: The Galloping                           | 2019-10-22   |
-| 603       | cmb1          | Mystery Booster Playtest Cards                  | 2019-11-07   |
+| 603       | cmb1          | Mystery Booster Playtest Cards 2019             | 2019-11-07   |
 | 604       | mb1           | Mystery Booster                                 | 2019-11-07   |
 | 605       | gn2           | Game Night 2019                                 | 2019-11-15   |
 | 606       | tgn2          | Game Night 2019 Tokens                          | 2019-11-15   |
@@ -663,13 +663,13 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 646       | znc           | Zendikar Rising Commander                       | 2020-09-25   |
 | 647       | zne           | Zendikar Rising Expeditions                     | 2020-09-25   |
 | **648**   | **znr**       | **Zendikar Rising**                             | **2020-09-25** |
-| 649       | plist         | The List                                        | 2020-09-26   |
+| **649**   | **plist**     | **The List**                                    | **2020-09-26** |
 | 650       | klr           | Kaladesh Remastered                             | 2020-11-12   |
 | **651**   | **cmr**       | **Commander Legends**                           | **2020-11-20** |
 | 652       | tcmr          | Commander Legends Tokens                        | 2020-11-20   |
 | 653       | cc1           | Commander Collection: Green                     | 2020-12-04   |
-| 654       | j21           | Judge Gift Cards 2021                           | 2021-01-01   |
-| 655       | pl21          | 2021 Lunar New Year                             | 2021-01-25   |
+| 654       | pj21          | Judge Gift Cards 2021                           | 2021-01-01   |
+| 655       | pl21          | Year of the Ox 2021                             | 2021-01-25   |
 | 656       | akhm          | Kaldheim Art Series                             | 2021-02-05   |
 | 657       | khc           | Kaldheim Commander                              | 2021-02-05   |
 | **658**   | **khm**       | **Kaldheim**                                    | **2021-02-05** |
@@ -681,12 +681,12 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 664       | ttsr          | Time Spiral Remastered Tokens                   | 2021-03-19   |
 | 665       | astx          | Strixhaven Art Series                           | 2021-04-23   |
 | **666**   | **c21**       | **Commander 2021**                              | **2021-04-23** |
-| 667       | oc21          | Commander 2021 Display Commanders               | 2021-04-23   |
+| 667       | pstx          | Strixhaven: School of Mages Promos              | 2021-04-23   |
 | 668       | sta           | Strixhaven Mystical Archive                     | 2021-04-23   |
 | **669**   | **stx**       | **Strixhaven: School of Mages**                 | **2021-04-23** |
 | 670       | tc21          | Commander 2021 Tokens                           | 2021-04-23   |
-| 671       | tstx          | Strixhaven: School of Mages Tokens              | 2021-04-23   |
-| 672       | pstx          | Strixhaven: School of Mages Promos              | 2021-04-24   |
+| 671       | oc21          | Commander 2021 Display Commanders               | 2021-04-23   |
+| 672       | tstx          | Strixhaven: School of Mages Tokens              | 2021-04-23   |
 | 673       | ha5           | Historic Anthology 5                            | 2021-05-27   |
 | 674       | amh2          | Modern Horizons 2 Art Series                    | 2021-06-18   |
 | 675       | h1r           | Modern Horizons 1 Timeshifts                    | 2021-06-18   |
@@ -703,4 +703,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 686       | tafr          | Adventures in the Forgotten Realms Tokens       | 2021-07-23   |
 
 
-*Last updated: 2021-07-25, 21:09:04.*
+*Last updated: 2021-10-08, 00:28:03.*
