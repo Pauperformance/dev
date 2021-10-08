@@ -43,4 +43,4 @@
 [Azorius Caw Blade 493.001.gabripo93](https://deckstats.net/decks/181430/2124908-azorius-caw-blade-493-001-gabr) | *2021-06-25, 22:36:48* |   
 
 
-*Last updated: 2021-10-08, 00:18:17.*
+*Last updated: 2021-10-08, 02:05:35.*

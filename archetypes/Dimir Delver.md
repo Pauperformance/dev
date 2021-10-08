@@ -44,4 +44,4 @@
 [Dimir Delver 584.001.MTGPRO69](https://deckstats.net/decks/181430/2120535-dimir-delver-584-001-mtgpro69) | *2021-06-22, 19:06:49* |   
 
 
-*Last updated: 2021-10-08, 00:18:20.*
+*Last updated: 2021-10-08, 02:05:39.*

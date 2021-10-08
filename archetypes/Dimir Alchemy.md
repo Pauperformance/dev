@@ -46,4 +46,4 @@
 [Dimir Alchemy 529.001.The Professor (Brian Lewis)](https://deckstats.net/decks/181430/2131674-dimir-alchemy-529-001-the-prof) | *2021-06-30, 22:45:53* | YouTube - MTG - Get dirty! With Dimir Alchemy, a Powerful Control Deck in Pauper for Magic: The Gathering (Tolarian Community College)  
 
 
-*Last updated: 2021-10-08, 00:18:04.*
+*Last updated: 2021-10-08, 02:05:23.*

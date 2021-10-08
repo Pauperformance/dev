@@ -40,4 +40,4 @@
 [Turbo Slivers 560.001.frucile](https://deckstats.net/decks/181430/2131713-turbo-slivers-560-001-frucile) | *2021-06-30, 23:12:38* | SaffronOlive 2018-10-31  
 
 
-*Last updated: 2021-10-08, 00:18:10.*
+*Last updated: 2021-10-08, 02:05:28.*

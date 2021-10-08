@@ -42,4 +42,4 @@
 [Aristocrats 501.001.Shika93](https://deckstats.net/decks/78813/2119339-aristocrats-501-001) | *2021-06-21, 23:02:24* |   
 
 
-*Last updated: 2021-10-08, 00:18:25.*
+*Last updated: 2021-10-08, 02:05:45.*

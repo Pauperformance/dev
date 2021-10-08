@@ -41,4 +41,4 @@
 [Rakdos Reanimator 669.001.OlavoJusMTM](https://deckstats.net/decks/181430/2131668-rakdos-reanimator-669-001-olav) | *2021-06-30, 22:41:48* | MTGO Pauper League 2021-05-05  
 
 
-*Last updated: 2021-10-08, 00:18:08.*
+*Last updated: 2021-10-08, 02:05:26.*

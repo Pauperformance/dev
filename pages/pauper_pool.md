@@ -22,7 +22,7 @@ Table of Contents
 * [The Dark](#the-dark-drk) (*release: 1994-08-01 ~ p12e_code: 13*)
 * [Fallen Empires](#fallen-empires-fem) (*release: 1994-11-01 ~ p12e_code: 15*)
 * [Media Inserts](#media-inserts-pmei) (*release: 1995-01-01 ~ p12e_code: 17*)
-* [Fourth Edition Foreign Black Border](#fourth-edition-foreign-black-border-4bb) (*release: 1995-04-01 ~ p12e_code: 18*)
+* [Fourth Edition](#fourth-edition-4ed) (*release: 1995-04-01 ~ p12e_code: 19*)
 * [Ice Age](#ice-age-ice) (*release: 1995-06-03 ~ p12e_code: 20*)
 * [Chronicles](#chronicles-chr) (*release: 1995-07-01 ~ p12e_code: 21*)
 * [Homelands](#homelands-hml) (*release: 1995-10-01 ~ p12e_code: 24*)
@@ -535,21 +535,21 @@ Table of Contents
 </details>
 []()
 
-## Fourth Edition Foreign Black Border (4bb)
-*release: 1995-04-01 | p12e_code: 18*
+## Fourth Edition (4ed)
+*release: 1995-04-01 | p12e_code: 19*
 
 <details>
   <summary>Click to see 9 new cards</summary>
 
-<a href="https://scryfall.com/card/4bb/61/es/aprendiz-de-brujo?utm_source=api">Apprentice Wizard</a><br/>
-<a href="https://scryfall.com/card/4bb/178/es/ansia-de-sangre?utm_source=api">Blood Lust</a><br/>
-<a href="https://scryfall.com/card/4bb/179/es/hermanos-del-fuego?utm_source=api">Brothers of Fire</a><br/>
-<a href="https://scryfall.com/card/4bb/190/es/guerrero-eterno?utm_source=api">Eternal Warrior</a><br/>
-<a href="https://scryfall.com/card/4bb/73/es/inundaci%C3%B3n?utm_source=api">Flood</a><br/>
-<a href="https://scryfall.com/card/4bb/26/es/area-fortifcada?utm_source=api">Fortified Area</a><br/>
-<a href="https://scryfall.com/card/4bb/49/es/esp%C3%ADritu?utm_source=api">Seeker</a><br/>
-<a href="https://scryfall.com/card/4bb/221/es/hermanas-de-la-llama?utm_source=api">Sisters of the Flame</a><br/>
-<a href="https://scryfall.com/card/4bb/356/es/muro-de-lanzas?utm_source=api">Wall of Spears</a><br/>
+<a href="https://scryfall.com/card/4ed/61/apprentice-wizard?utm_source=api">Apprentice Wizard</a><br/>
+<a href="https://scryfall.com/card/4ed/178/blood-lust?utm_source=api">Blood Lust</a><br/>
+<a href="https://scryfall.com/card/4ed/179/brothers-of-fire?utm_source=api">Brothers of Fire</a><br/>
+<a href="https://scryfall.com/card/4ed/190/eternal-warrior?utm_source=api">Eternal Warrior</a><br/>
+<a href="https://scryfall.com/card/4ed/73/flood?utm_source=api">Flood</a><br/>
+<a href="https://scryfall.com/card/4ed/26/fortified-area?utm_source=api">Fortified Area</a><br/>
+<a href="https://scryfall.com/card/4ed/49/seeker?utm_source=api">Seeker</a><br/>
+<a href="https://scryfall.com/card/4ed/221/sisters-of-the-flame?utm_source=api">Sisters of the Flame</a><br/>
+<a href="https://scryfall.com/card/4ed/356/wall-of-spears?utm_source=api">Wall of Spears</a><br/>
 </details>
 []()
 
@@ -9685,4 +9685,4 @@ Table of Contents
 
 
 
-*Last updated: 2021-10-08, 00:38:30.*
+*Last updated: 2021-10-08, 02:11:54.*

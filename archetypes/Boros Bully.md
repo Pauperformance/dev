@@ -41,4 +41,4 @@
 [Boros Bully 576.001.deluxeicoff](https://deckstats.net/decks/181430/2119095-boros-bully-576-001-deluxeicof) | *2021-06-21, 20:18:08* |   
 
 
-*Last updated: 2021-10-08, 00:18:16.*
+*Last updated: 2021-10-08, 02:05:35.*

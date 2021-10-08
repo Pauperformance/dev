@@ -32,8 +32,8 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **15**    | **fem**       | **Fallen Empires**                              | **1994-11-01** |
 | 16        | plgm          | DCI Legend Membership                           | 1995-01-01   |
 | **17**    | **pmei**      | **Media Inserts**                               | **1995-01-01** |
-| **18**    | **4bb**       | **Fourth Edition Foreign Black Border**         | **1995-04-01** |
-| 19        | 4ed           | Fourth Edition                                  | 1995-04-01   |
+| 18        | 4bb           | Fourth Edition Foreign Black Border             | 1995-04-01   |
+| **19**    | **4ed**       | **Fourth Edition**                              | **1995-04-01** |
 | **20**    | **ice**       | **Ice Age**                                     | **1995-06-03** |
 | **21**    | **chr**       | **Chronicles**                                  | **1995-07-01** |
 | 22        | ren           | Renaissance                                     | 1995-08-01   |
@@ -719,4 +719,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 702       | cc2           | Commander Collection: Black                     | 2021-12-31   |
 
 
-*Last updated: 2021-10-08, 00:37:53.*
+*Last updated: 2021-10-08, 02:11:54.*

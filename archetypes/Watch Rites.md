@@ -44,4 +44,4 @@
 [Watch Rites 424.001.Matteo Burello](https://deckstats.net/decks/181430/2139159-watch-rites-424-001-matteo-bur) | *2021-07-06, 18:01:05* | Metageme.it - RUG Watch Rites by Matteo Burello 2021-02-05  
 
 
-*Last updated: 2021-10-08, 00:18:12.*
+*Last updated: 2021-10-08, 02:05:30.*
