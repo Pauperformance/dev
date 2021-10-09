@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
-**Type**: `Aggro`, `Combo`
+**Type**: `Aggro`/`Combo`
 
 **Description**: TODO.
 
@@ -41,4 +41,4 @@
 [Rakdos Reanimator 669.001.OlavoJusMTM](https://www.mtggoldfish.com/deck/4351132) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

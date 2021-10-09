@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
-**Type**: `Aggro`, `Combo`
+**Type**: `Aggro`/`Combo`
 
 **Description**: TODO.
 
@@ -40,4 +40,4 @@
 [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

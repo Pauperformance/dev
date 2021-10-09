@@ -56,4 +56,4 @@
 [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

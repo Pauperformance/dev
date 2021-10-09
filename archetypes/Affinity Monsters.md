@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/>
 
-**Type**: `Midrange`, `Combo`
+**Type**: `Midrange`/`Combo`
 
 **Description**: TODO.
 
@@ -46,4 +46,4 @@
 [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | *2021-10-09*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

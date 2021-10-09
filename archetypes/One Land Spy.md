@@ -51,4 +51,4 @@
 [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

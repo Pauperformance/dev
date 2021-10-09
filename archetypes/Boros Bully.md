@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Midrange`, `Combo`
+**Type**: `Midrange`/`Combo`
 
 **Description**: TODO.
 
@@ -41,4 +41,4 @@
 [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

@@ -45,4 +45,4 @@
 [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

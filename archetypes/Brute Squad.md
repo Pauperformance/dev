@@ -21,4 +21,4 @@
 [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

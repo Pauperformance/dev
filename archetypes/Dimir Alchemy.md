@@ -46,4 +46,4 @@
 [Dimir Alchemy 612.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351767) | *2021-10-09*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Control`, `Combo`
+**Type**: `Control`/`Combo`
 
 **Description**: TODO.
 
@@ -49,4 +49,4 @@
 [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*

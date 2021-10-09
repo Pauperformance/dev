@@ -719,4 +719,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 702       | cc2           | Commander Collection: Black                     | 2021-12-31   |
 
 
-*Last updated: 2021-10-08, 19:07:26.*
+*Last updated: 2021-10-09, 21:03:14.*

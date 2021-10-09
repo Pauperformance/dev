@@ -43,4 +43,4 @@
 [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | *2021-10-08*
 
 
-*Last updated: 2021-10-09, 20:51:53.*
+*Last updated: 2021-10-09, 21:03:21.*
