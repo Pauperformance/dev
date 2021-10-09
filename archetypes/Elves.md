@@ -35,8 +35,8 @@
 
 ## **Decks**
 
-[Elves 576.001.TheMaverickGal](https://deckstats.net/decks/181430/2119106-elves-576-001-themaverickgal) | *2021-06-21, 20:23:49* |   
-[Elves 560.001.TheMaverickGal](https://deckstats.net/decks/181430/2119100-elves-560-001-themaverickgal) | *2021-06-21, 20:20:40* |   
+[Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | *2021-10-08*
+[Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:45.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -35,8 +35,8 @@
 
 ## **Decks**
 
-[Izzet Blitz 584.001.Amoras27](https://deckstats.net/decks/181430/2120546-izzet-blitz-584-001-amoras27) | *2021-06-22, 19:12:27* |   
-[Izzet Blitz 479.001.gabripo93](https://deckstats.net/decks/181430/2127243-izzet-blitz-479-001-gabripo93) | *2021-06-27, 19:51:25* |   
+[Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | *2021-10-08*
+[Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:11.*
+*Last updated: 2021-10-09, 20:51:53.*

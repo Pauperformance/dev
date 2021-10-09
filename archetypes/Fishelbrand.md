@@ -42,9 +42,9 @@
 
 ## **Decks**
 
-[Fishelbrand 600.003.gannoncd](https://deckstats.net/decks/181430/2125045-fishelbrand-600-003-gannoncd) | *2021-06-26, 00:26:25* |   
-[Fishelbrand 600.001.gannoncd](https://deckstats.net/decks/181430/2125048-fishelbrand-600-001-gannoncd) | *2021-06-26, 00:28:40* |   
-[Fishelbrand 600.002.gannoncd](https://deckstats.net/decks/181430/2125050-fishelbrand-600-002-gannoncd) | *2021-06-26, 00:29:16* |   
+[Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | *2021-10-08*
+[Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | *2021-10-08*
+[Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:27.*
+*Last updated: 2021-10-09, 20:51:53.*

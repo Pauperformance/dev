@@ -39,8 +39,8 @@
 
 ## **Decks**
 
-[Azorius Caw Blade 529.001.eternalgathering](https://deckstats.net/decks/181430/2124904-azorius-caw-blade-529-001-eter) | *2021-06-25, 22:35:21* |   
-[Azorius Caw Blade 493.001.gabripo93](https://deckstats.net/decks/181430/2124908-azorius-caw-blade-493-001-gabr) | *2021-06-25, 22:36:48* |   
+[Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | *2021-10-08*
+[Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:35.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -30,8 +30,8 @@
 
 ## **Decks**
 
-[Midnight Gond 488.001.eternalgathering](https://deckstats.net/decks/181430/2124886-midnight-gond-488-001-eternalg) | *2021-06-25, 22:23:35* |   
-[Midnight Gond 488.002.eternalgathering](https://deckstats.net/decks/181430/2124887-midnight-gond-488-002-eternalg) | *2021-06-25, 22:24:03* |   
+[Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | *2021-10-08*
+[Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:36.*
+*Last updated: 2021-10-09, 20:51:53.*

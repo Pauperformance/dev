@@ -46,9 +46,9 @@
 
 ## **Decks**
 
-[One Land Spy 658.001.BluStalker](https://deckstats.net/decks/181430/2126710-one-land-spy-658-001-blustalke) | *2021-06-27, 10:46:42* | Pauper League 2021-02-24  
-[One Land Spy 537.001.Miura Akiyoshi](https://deckstats.net/decks/181430/2126705-one-land-spy-537-001-miura-aki) | *2021-06-27, 10:42:24* |   
-[One Land Spy 433.001.Matteo Burello](https://deckstats.net/decks/181430/2126701-one-land-spy-433-001-matteo-bu) | *2021-06-27, 10:39:56* |   
+[One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | *2021-10-08*
+[One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | *2021-10-08*
+[One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:14.*
+*Last updated: 2021-10-09, 20:51:53.*

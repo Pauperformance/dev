@@ -40,8 +40,8 @@
 
 ## **Decks**
 
-[Dimir Delver 648.001.Hamuda](https://deckstats.net/decks/181430/2127248-dimir-delver-648-001-hamuda) | *2021-06-27, 19:54:08* |   
-[Dimir Delver 584.001.MTGPRO69](https://deckstats.net/decks/181430/2120535-dimir-delver-584-001-mtgpro69) | *2021-06-22, 19:06:49* |   
+[Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | *2021-10-08*
+[Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:39.*
+*Last updated: 2021-10-09, 20:51:53.*

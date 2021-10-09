@@ -39,11 +39,11 @@
 
 ## **Decks**
 
-[Affinity Monsters 676.001.Shika93](https://deckstats.net/decks/78813/2103919-affinity-monsters-676-001) | *2021-06-10, 17:17:10* |   
-[Affinity Monsters 676.002.Shika93](https://deckstats.net/decks/78813/2103920-affinity-monsters-676-002) | *2021-06-10, 17:17:38* |   
-[Affinity Monsters 676.003.Shika93](https://deckstats.net/decks/78813/2103921-affinity-monsters-676-003) | *2021-06-10, 17:18:30* |   
-[Affinity Monsters 600.001.Shika93](https://deckstats.net/decks/78813/2120597-affinity-monsters-600-001) | *2021-06-22, 19:36:33* |   
-[Affinity Monsters 590.001.Shika93](https://deckstats.net/decks/78813/2120613-affinity-monsters-590-001) | *2021-06-22, 19:44:48* |   
+[Affinity Monsters 590.001.Shika93](https://www.mtggoldfish.com/deck/4351752) | *2021-10-09*
+[Affinity Monsters 600.001.Shika93](https://www.mtggoldfish.com/deck/4351749) | *2021-10-09*
+[Affinity Monsters 676.001.Shika93](https://www.mtggoldfish.com/deck/4351734) | *2021-10-09*
+[Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | *2021-10-09*
+[Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:41.*
+*Last updated: 2021-10-09, 20:51:53.*

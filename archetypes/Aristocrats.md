@@ -38,8 +38,8 @@
 
 ## **Decks**
 
-[Aristocrats 676.001.MrEvilEye](https://deckstats.net/decks/72056/2059767-aristocrats-676-001) | *2021-05-09, 14:19:47* |   
-[Aristocrats 501.001.Shika93](https://deckstats.net/decks/78813/2119339-aristocrats-501-001) | *2021-06-21, 23:02:24* |   
+[Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | *2021-10-09*
+[Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:45.*
+*Last updated: 2021-10-09, 20:51:53.*

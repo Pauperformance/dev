@@ -34,8 +34,8 @@
 
 ## **Decks**
 
-[Stompy 669.001.Shika93](https://deckstats.net/decks/78813/2078446-stompy-669-001) | *2021-05-23, 16:39:07* |   
-[Stompy 537.001.Shika93](https://deckstats.net/decks/78813/2118919-stompy-537-001) | *2021-06-21, 18:14:19* |   
+[Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | *2021-10-09*
+[Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:09.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[MonoB Suicide 584.001.Lazoreoc](https://deckstats.net/decks/181430/2125458-monob-suicide-584-001-lazoreoc) | *2021-06-26, 09:26:47* |   
+[MonoB Suicide 584.001.Lazoreoc](https://www.mtggoldfish.com/deck/4351098) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:43.*
+*Last updated: 2021-10-09, 20:51:53.*

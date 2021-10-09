@@ -41,9 +41,9 @@
 
 ## **Decks**
 
-[Dimir Alchemy 612.001.MrEvilEye](https://deckstats.net/decks/72056/2131648-dimir-alchemy-612-001) | *2021-06-30, 22:21:49* |   
-[Dimir Alchemy 560.001.Simone Capuzzi](https://deckstats.net/decks/181430/2124867-dimir-alchemy-560-001-simone-c) | *2021-06-25, 22:08:15* |   
-[Dimir Alchemy 529.001.The Professor (Brian Lewis)](https://deckstats.net/decks/181430/2131674-dimir-alchemy-529-001-the-prof) | *2021-06-30, 22:45:53* | YouTube - MTG - Get dirty! With Dimir Alchemy, a Powerful Control Deck in Pauper for Magic: The Gathering (Tolarian Community College)  
+[Dimir Alchemy 529.001.The Professor (Brian Lewis)](https://www.mtggoldfish.com/deck/4351133) | *2021-10-08*
+[Dimir Alchemy 560.001.Simone Capuzzi](https://www.mtggoldfish.com/deck/4351083) | *2021-10-08*
+[Dimir Alchemy 612.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351767) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:23.*
+*Last updated: 2021-10-09, 20:51:53.*

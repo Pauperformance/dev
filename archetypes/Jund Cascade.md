@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[Jund Cascade 658.001.Milkk](https://deckstats.net/decks/181430/2127226-jund-cascade-658-001-milkk) | *2021-06-27, 19:43:12* |   
+[Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:21.*
+*Last updated: 2021-10-09, 20:51:53.*

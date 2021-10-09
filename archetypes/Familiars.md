@@ -26,7 +26,7 @@
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f3843e98-192c-44a2-be54-9ba79e51657c.jpg?1562443053" width="300"/>](https://scryfall.com/card/a25/51/court-hussar)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a7a6d2d-be31-474b-811d-3802e32f3768.jpg?1568003973" width="300"/>](https://scryfall.com/card/c19/83/deep-analysis)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55cd75bc-5ec7-45b2-9231-85a321ecd786.jpg?1568003983" width="300"/>](https://scryfall.com/card/c19/84/echoing-truth)
-[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1623188989" width="300"/>](https://scryfall.com/card/mh2/290/fire-ice)
+[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980" width="300"/>](https://scryfall.com/card/mh2/290/fire-ice)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15affc1b-2ebb-4934-87a2-10e89eafe894.jpg?1576382839" width="300"/>](https://scryfall.com/card/cn2/157/flame-slash)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2ecf2ee8-6b93-4757-89c4-f1e76509a217.jpg?1619394224" width="300"/>](https://scryfall.com/card/tsr/69/foresee)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/30202613-d05f-4f47-af97-d0b75ccac293.jpg?1580014031" width="300"/>](https://scryfall.com/card/ema/60/memory-lapse)
@@ -43,10 +43,10 @@
 
 ## **Decks**
 
-[Familiars 584.001.420Dragon](https://deckstats.net/decks/181430/2120559-familiars-584-001-420dragon) | *2021-06-22, 19:18:49* |   
-[Familiars 584.002.420Dragon](https://deckstats.net/decks/181430/2120562-familiars-584-002-420dragon) | *2021-06-22, 19:19:40* |   
-[Familiars 584.003.420Dragon](https://deckstats.net/decks/181430/2120570-familiars-584-003-420dragon) | *2021-06-22, 19:21:58* |   
-[Familiars 533.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2125528-familiars-533-001-a-adeptoterr) | *2021-06-26, 10:55:29* |   
+[Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | *2021-10-08*
+[Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | *2021-10-08*
+[Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | *2021-10-08*
+[Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:10.*
+*Last updated: 2021-10-09, 20:51:53.*

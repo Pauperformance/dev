@@ -45,10 +45,10 @@
 
 ## **Decks**
 
-[Canadian Threshold 518.001.eternalgathering](https://deckstats.net/decks/181430/2124831-canadian-threshold-518-001-ete) | *2021-06-25, 21:36:07* |   
-[Canadian Threshold 488.001.alwayshalfchub](https://deckstats.net/decks/181430/2124812-canadian-threshold-488-001-alw) | *2021-06-25, 21:25:24* |   
-[Canadian Threshold 488.001.Federico Vaglio](https://deckstats.net/decks/181430/2124818-canadian-threshold-488-001-fed) | *2021-06-25, 21:29:19* |   
-[Canadian Threshold 488.002.Federico Vaglio](https://deckstats.net/decks/181430/2124824-canadian-threshold-488-002-fed) | *2021-06-25, 21:31:18* |   
+[Canadian Threshold 488.001.Federico Vaglio](https://www.mtggoldfish.com/deck/4351949) | *2021-10-09*
+[Canadian Threshold 488.001.alwayshalfchub](https://www.mtggoldfish.com/deck/4351076) | *2021-10-08*
+[Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | *2021-10-09*
+[Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:40.*
+*Last updated: 2021-10-09, 20:51:53.*

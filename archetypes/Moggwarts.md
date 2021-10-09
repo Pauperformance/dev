@@ -40,9 +40,9 @@
 
 ## **Decks**
 
-[Moggwarts 669.001.Milkk](https://deckstats.net/decks/181430/2125462-moggwarts-669-001-milkk) | *2021-06-26, 09:30:05* |   
-[Moggwarts 669.001.Hamuda](https://deckstats.net/decks/181430/2125537-moggwarts-669-001-hamuda) | *2021-06-26, 11:05:50* |   
-[Moggwarts 669.001.pepeisra](https://deckstats.net/decks/181430/2125540-moggwarts-669-001-pepeisra) | *2021-06-26, 11:07:04* |   
+[Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | *2021-10-08*
+[Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | *2021-10-08*
+[Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:25.*
+*Last updated: 2021-10-09, 20:51:53.*

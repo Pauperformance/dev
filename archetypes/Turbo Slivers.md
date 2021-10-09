@@ -35,9 +35,9 @@
 
 ## **Decks**
 
-[Turbo Slivers 600.001.gannoncd](https://deckstats.net/decks/181430/2102506-turbo-slivers-600-001-gannoncd) | *2021-06-09, 15:34:28* |   
-[Turbo Slivers 590.001.gannoncd](https://deckstats.net/decks/181430/2131697-turbo-slivers-590-001-gannoncd) | *2021-06-30, 23:04:28* | YouTube - MTG Pauper Turbo Slivers A Busted Deck For Only 5 Tix?!? (Caleb Gannon MTG) 2019-11-08  
-[Turbo Slivers 560.001.frucile](https://deckstats.net/decks/181430/2131713-turbo-slivers-560-001-frucile) | *2021-06-30, 23:12:38* | SaffronOlive 2018-10-31  
+[Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | *2021-10-08*
+[Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | *2021-10-08*
+[Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:28.*
+*Last updated: 2021-10-09, 20:51:53.*

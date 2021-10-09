@@ -38,8 +38,8 @@
 
 ## **Decks**
 
-[Izzet Curve 676.001.killersuv](https://deckstats.net/decks/181430/2127271-izzet-curve-676-001-killersuv) | *2021-06-27, 20:15:13* | PAUPER CHALLENGE #12291660  
-[Izzet Curve 676.001._INVISIBLEKID_](https://deckstats.net/decks/181430/2131661-izzet-curve-676-001-invisiblek) | *2021-06-30, 22:35:15* | Top 16 - Pauper Royale 7.03 2021-06-24  
+[Izzet Curve 676.001._INVISIBLEKID_](https://www.mtggoldfish.com/deck/4351130) | *2021-10-08*
+[Izzet Curve 676.001.killersuv](https://www.mtggoldfish.com/deck/4351129) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:18.*
+*Last updated: 2021-10-09, 20:51:53.*

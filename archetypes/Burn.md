@@ -30,9 +30,9 @@
 
 ## **Decks**
 
-[Burn 676.001.MrEvilEye](https://deckstats.net/decks/72056/2119224-burn-676-001) | *2021-06-21, 21:34:58* |   
-[Burn 584.001.SuperCow12653](https://deckstats.net/decks/181430/2120541-burn-584-001-supercow12653) | *2021-06-22, 19:09:54* |   
-[Burn 560.001.Shika93](https://deckstats.net/decks/78813/2118928-burn-560-001) | *2021-06-21, 18:19:19* |   
+[Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | *2021-10-09*
+[Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | *2021-10-08*
+[Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:38.*
+*Last updated: 2021-10-09, 20:51:53.*

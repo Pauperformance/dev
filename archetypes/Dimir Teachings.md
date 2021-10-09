@@ -52,8 +52,8 @@
 
 ## **Decks**
 
-[Dimir Teachings 454.001.Jake Stiles](https://deckstats.net/decks/181430/2124876-dimir-teachings-454-001-jake-s) | *2021-06-25, 22:14:13* |   
-[Dimir Teachings 454.001.Caiusthethief](https://deckstats.net/decks/181430/2124877-dimir-teachings-454-001-caiust) | *2021-06-25, 22:17:43* |   
+[Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | *2021-10-08*
+[Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:44.*
+*Last updated: 2021-10-09, 20:51:53.*

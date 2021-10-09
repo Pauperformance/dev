@@ -40,9 +40,9 @@
 
 ## **Decks**
 
-[Boros Monarch 658.001.Rsousa](https://deckstats.net/decks/181430/2127022-boros-monarch-658-001-rsousa) | *2021-06-27, 17:00:15* | Top16 - I Sextooouuu Pauper 2021-03-19  
-[Boros Monarch 658.001.Chronicle](https://deckstats.net/decks/181430/2127027-boros-monarch-658-001-chronicl) | *2021-06-27, 17:02:35* | Top8 - Play Away Pauper Invitational 2021-03-28  
-[Boros Monarch 560.001.Thraben27](https://deckstats.net/decks/181430/2119099-boros-monarch-560-001-thraben2) | *2021-06-21, 20:19:23* |   
+[Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | *2021-10-08*
+[Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | *2021-10-08*
+[Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:24.*
+*Last updated: 2021-10-09, 20:51:53.*

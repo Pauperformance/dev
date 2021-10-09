@@ -47,9 +47,9 @@
 
 ## **Decks**
 
-[Golgari TortEx 669.001.Shika93](https://deckstats.net/decks/78813/2103917-golgari-tortex-669-001) | *2021-06-10, 17:16:00* |   
-[Golgari TortEx 600.001.Shika93](https://deckstats.net/decks/78813/2120598-golgari-tortex-600-001) | *2021-06-22, 19:37:43* |   
-[Golgari TortEx 537.001.Shika93](https://deckstats.net/decks/78813/2118924-golgari-tortex-537-001) | *2021-06-21, 18:17:49* |   
+[Golgari TortEx 537.001.Shika93](https://www.mtggoldfish.com/deck/4351741) | *2021-10-09*
+[Golgari TortEx 600.001.Shika93](https://www.mtggoldfish.com/deck/4351750) | *2021-10-09*
+[Golgari TortEx 669.001.Shika93](https://www.mtggoldfish.com/deck/4351733) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:16.*
+*Last updated: 2021-10-09, 20:51:53.*

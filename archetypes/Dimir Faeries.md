@@ -36,8 +36,8 @@
 
 ## **Decks**
 
-[Dimir Faeries 669.001.Matteo Lugli](https://deckstats.net/decks/181430/2126968-dimir-faeries-669-001-matteo-l) | *2021-06-27, 16:19:16* | 8th Place - Pauperwave League 6th Event 2021-05-30  
-[Dimir Faeries 669.001.MrEvilEye](https://deckstats.net/decks/72056/2119217-dimir-faeries-669-001) | *2021-06-21, 21:31:45* |   
+[Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | *2021-10-08*
+[Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:06.*
+*Last updated: 2021-10-09, 20:51:53.*

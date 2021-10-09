@@ -44,9 +44,9 @@
 
 ## **Decks**
 
-[Goblins 669.001.Jeremiaa](https://deckstats.net/decks/181430/2131717-goblins-669-001-jeremiaa) | *2021-06-30, 23:15:00* | Top16 in League of Paradise 2.3.8 2021-06-11  
-[Goblins 669.001.ZeMotinha](https://deckstats.net/decks/181430/2131721-goblins-669-001-zemotinha) | *2021-06-30, 23:16:59* | Top8 in Fuguete League 3.03 2021-06-09  
-[Goblins 600.001.walterr25](https://deckstats.net/decks/181430/2120608-goblins-600-001-walterr25) | *2021-06-22, 19:41:57* |   
+[Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | *2021-10-08*
+[Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | *2021-10-08*
+[Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:13.*
+*Last updated: 2021-10-09, 20:51:53.*

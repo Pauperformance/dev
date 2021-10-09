@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[Rakdos Control 540.001.Bruno dos Santos Silva](https://deckstats.net/decks/181430/2108327-rakdos-control-540-001-bruno-d) | *2021-06-13, 22:57:44* |   
+[Rakdos Control 540.001.Bruno dos Santos Silva](https://www.mtggoldfish.com/deck/4351050) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:32.*
+*Last updated: 2021-10-09, 20:51:53.*

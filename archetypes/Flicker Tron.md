@@ -52,12 +52,12 @@
 
 ## **Decks**
 
-[Flicker Tron 651.001.Milkk](https://deckstats.net/decks/181430/2127231-flicker-tron-651-001-milkk) | *2021-06-27, 19:46:34* |   
-[Flicker Tron 612.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2124795-flicker-tron-612-001-a-adeptot) | *2021-06-25, 21:14:10* | Paupergeddon Milano 2020  
-[Flicker Tron 576.001.Birbman263](https://deckstats.net/decks/181430/2120571-flicker-tron-576-001-birbman26) | *2021-06-22, 19:23:20* |   
-[Flicker Tron 576.001.Mathonical](https://deckstats.net/decks/181430/2120574-flicker-tron-576-001-mathonica) | *2021-06-22, 19:25:26* |   
-[Flicker Tron 576.001.Patrick](https://deckstats.net/decks/181430/2120582-flicker-tron-576-001-patrick) | *2021-06-22, 19:27:52* |   
-[Flicker Tron 560.001.Birbman263](https://deckstats.net/decks/181430/2118936-flicker-tron-560-001-birbman26) | *2021-06-21, 18:23:40* |   
+[Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | *2021-10-08*
+[Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | *2021-10-08*
+[Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | *2021-10-08*
+[Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | *2021-10-08*
+[Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | *2021-10-08*
+[Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:20.*
+*Last updated: 2021-10-09, 20:51:53.*

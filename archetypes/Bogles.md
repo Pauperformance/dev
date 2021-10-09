@@ -37,10 +37,10 @@
 
 ## **Decks**
 
-[Bogles 648.001.Mathonical](https://deckstats.net/decks/181430/2127264-bogles-648-001-mathonical) | *2021-06-27, 20:05:36* | Pauper Challenge #12225889, 3rd Place  
-[Bogles 597.001.Mathonical](https://deckstats.net/decks/181430/2120594-bogles-597-001-mathonical) | *2021-06-22, 19:32:50* |   
-[Bogles 584.001.Jail0Breaker](https://deckstats.net/decks/181430/2119341-bogles-584-001-jail0breaker) | *2021-06-21, 23:03:27* |   
-[Bogles 584.001.TheMaverickGirl](https://deckstats.net/decks/181430/2120567-bogles-584-001-themaverickgirl) | *2021-06-22, 19:20:46* |   
+[Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | *2021-10-08*
+[Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | *2021-10-08*
+[Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | *2021-10-08*
+[Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:15.*
+*Last updated: 2021-10-09, 20:51:53.*

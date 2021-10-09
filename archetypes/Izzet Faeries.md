@@ -29,17 +29,17 @@
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.jpg?1562939587" width="300"/>](https://scryfall.com/card/bfz/76/dispel)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/8/28aa0337-94bd-4274-b2ee-6f43747c77b3.jpg?1592516372" width="300"/>](https://scryfall.com/card/m20/58/faerie-miscreant)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d1fcfeb4-1818-4e08-be4c-27b8a9dc12e6.jpg?1562201375" width="300"/>](https://scryfall.com/card/mh1/51/faerie-seer)
-[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1623188989" width="300"/>](https://scryfall.com/card/mh2/290/fire-ice)
+[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980" width="300"/>](https://scryfall.com/card/mh2/290/fire-ice)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1.jpg?1562378488" width="300"/>](https://scryfall.com/card/jvc/27/gush)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cee2eb1-f60e-4626-ba4a-b543142ca950.jpg?1617910474" width="300"/>](https://scryfall.com/card/c21/125/ponder)
 
 
 ## **Decks**
 
-[Izzet Faeries 676.001.MrEvilEye](https://deckstats.net/decks/72056/2119223-izzet-faeries-676-001) | *2021-06-21, 21:34:31* |   
-[Izzet Faeries 676.002.MrEvilEye](https://deckstats.net/decks/72056/2119255-izzet-faeries-676-002) | *2021-06-21, 21:58:38* |   
-[Izzet Faeries 584.001.PIETART](https://deckstats.net/decks/181430/2120533-izzet-faeries-584-001-pietart) | *2021-06-22, 19:05:52* |   
-[Izzet Faeries 584.001.Mengucci](https://deckstats.net/decks/181430/2120539-izzet-faeries-584-001-mengucci) | *2021-06-22, 19:08:06* |   
+[Izzet Faeries 584.001.Mengucci](https://www.mtggoldfish.com/deck/4351059) | *2021-10-08*
+[Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | *2021-10-08*
+[Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | *2021-10-09*
+[Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:28.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[Orzhov Pestilence 584.001.Shika93](https://deckstats.net/decks/78813/2120551-orzhov-pestilence-584-001) | *2021-06-22, 19:14:24* |   
+[Orzhov Pestilence 584.001.Shika93](https://www.mtggoldfish.com/deck/4351746) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:34.*
+*Last updated: 2021-10-09, 20:51:53.*

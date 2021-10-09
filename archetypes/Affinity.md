@@ -41,9 +41,9 @@
 
 ## **Decks**
 
-[Affinity 676.002.MrEvilEye](https://deckstats.net/decks/72056/2119213-affinity-676-002) | *2021-06-21, 21:30:15* |   
-[Affinity 676.001.MrEvilEye](https://deckstats.net/decks/72056/2119215-affinity-676-001) | *2021-06-21, 21:30:44* |   
-[Affinity 501.001.Shika93](https://deckstats.net/decks/78813/2119103-affinity-501-001) | *2021-06-21, 20:22:19* |   
+[Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | *2021-10-09*
+[Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | *2021-10-09*
+[Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:23.*
+*Last updated: 2021-10-09, 20:51:53.*

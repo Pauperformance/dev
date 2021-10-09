@@ -29,9 +29,9 @@
 
 ## **Decks**
 
-[Jund PhD 669.001.CooperTheRed](https://deckstats.net/decks/181430/2131682-jund-phd-669-001-cooperthered) | *2021-06-30, 22:52:09* | YouTube - Pauper MtG: Jund PhD (Cooper the Red)  
-[Jund PhD 669.001.Milkk](https://deckstats.net/decks/181430/2131689-jund-phd-669-001-milkk) | *2021-06-30, 22:57:56* | YouTube - Pauper League - Jund, Ph.D. | WE GOTTA LEARN A LOT IF WE WANT TO BE DR. JUND! (Snap Bolt)  
-[Jund PhD 669.002.Milkk](https://deckstats.net/decks/181430/2131690-jund-phd-669-002-milkk) | *2021-06-30, 22:59:58* | YouTube -Pauper League - Jund Ph.D. | THIS DECK STARTED OUT AS A MEME BUT IT'S ACTUALLY JUST CRACKED! (Snap Bolt)  
+[Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | *2021-10-08*
+[Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | *2021-10-08*
+[Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:18.*
+*Last updated: 2021-10-09, 20:51:53.*

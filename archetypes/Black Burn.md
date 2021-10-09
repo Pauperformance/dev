@@ -33,8 +33,8 @@
 
 ## **Decks**
 
-[Black Burn 669.001.Ditoo](https://deckstats.net/decks/181430/2126986-black-burn-669-001-ditoo) | *2021-06-27, 16:34:10* | Top 8 - Tropical Pauper 3.08 2021-06-26  
-[Black Burn 662.001.Grakon](https://deckstats.net/decks/181430/2126981-black-burn-662-001-grakon) | *2021-06-27, 16:31:42* | Pauper League 2020-05-13  
+[Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | *2021-10-08*
+[Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:07.*
+*Last updated: 2021-10-09, 20:51:53.*

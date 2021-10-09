@@ -41,8 +41,8 @@
 
 ## **Decks**
 
-[Walls 658.001.Mathonical](https://deckstats.net/decks/181430/2127262-walls-658-001-mathonical) | *2021-06-27, 20:03:40* | Pauper Challenge #12282973, 3rd Place  
-[Walls 612.001.Diego_Brando](https://deckstats.net/decks/181430/2125467-walls-612-001-diego-brando) | *2021-06-26, 09:36:04* |   
+[Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | *2021-10-08*
+[Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:19.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -38,11 +38,11 @@
 
 ## **Decks**
 
-[Mono Black Control 612.001.Shika93](https://deckstats.net/decks/78813/2120615-mono-black-control-612-001) | *2021-06-22, 19:46:05* |   
-[Mono Black Control 597.001.Shika93](https://deckstats.net/decks/78813/2120596-mono-black-control-597-001) | *2021-06-22, 19:34:49* |   
-[Mono Black Control 597.002.Shika93](https://deckstats.net/decks/78813/2120600-mono-black-control-597-002) | *2021-06-22, 19:38:57* |   
-[Mono Black Control 584.001.Shika93](https://deckstats.net/decks/78813/2120578-mono-black-control-584-001) | *2021-06-22, 19:26:46* |   
-[Mono Black Control 537.001.Shika93](https://deckstats.net/decks/78813/2108334-mono-black-control-537-001) | *2021-06-13, 23:01:01* |   
+[Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | *2021-10-09*
+[Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | *2021-10-09*
+[Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | *2021-10-09*
+[Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | *2021-10-09*
+[Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:31.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[MonoU Faeries 540.001.Shika93](https://deckstats.net/decks/78813/2118921-monou-faeries-540-001) | *2021-06-21, 18:15:54* |   
+[MonoU Faeries 540.001.Shika93](https://www.mtggoldfish.com/deck/4351740) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:43.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -37,8 +37,8 @@
 
 ## **Decks**
 
-[Rakdos Reanimator 669.001.Gorlewski](https://deckstats.net/decks/181430/2131665-rakdos-reanimator-669-001-gorl) | *2021-06-30, 22:39:04* | Top16 in Magic Online Society Pauper FNM @The Magic Online 2021-05-28  
-[Rakdos Reanimator 669.001.OlavoJusMTM](https://deckstats.net/decks/181430/2131668-rakdos-reanimator-669-001-olav) | *2021-06-30, 22:41:48* | MTGO Pauper League 2021-05-05  
+[Rakdos Reanimator 669.001.Gorlewski](https://www.mtggoldfish.com/deck/4351131) | *2021-10-08*
+[Rakdos Reanimator 669.001.OlavoJusMTM](https://www.mtggoldfish.com/deck/4351132) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:26.*
+*Last updated: 2021-10-09, 20:51:53.*

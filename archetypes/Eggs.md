@@ -38,9 +38,9 @@
 
 ## **Decks**
 
-[Eggs 533.001.fedetoro](https://deckstats.net/decks/181430/2125523-eggs-533-001-fedetoro) | *2021-06-26, 10:47:43* |   
-[Eggs 518.001.Shika93](https://deckstats.net/decks/78813/2125520-eggs-518-001) | *2021-06-26, 10:43:21* |   
-[Eggs 518.002.Shika93](https://deckstats.net/decks/78813/2125521-eggs-518-002) | *2021-06-26, 10:45:37* |   
+[Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | *2021-10-09*
+[Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | *2021-10-09*
+[Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:22.*
+*Last updated: 2021-10-09, 20:51:53.*

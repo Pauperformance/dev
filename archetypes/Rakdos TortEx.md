@@ -37,9 +37,9 @@
 
 ## **Decks**
 
-[Rakdos TortEx 683.001.Shika93](https://deckstats.net/decks/78813/2165186-rakdos-tortex-683-001) | *2021-07-25, 22:34:53* |   
-[Rakdos TortEx 683.002.Shika93](https://deckstats.net/decks/78813/2168772-rakdos-tortex-683-002) | *2021-07-28, 12:17:30* |   
-[Rakdos TortEx 518.001.Fran Blanco](https://deckstats.net/decks/181430/2108200-rakdos-tortex-518-001-fran-bla) | *2021-06-13, 21:15:32* |   
+[Rakdos TortEx 518.001.Fran Blanco](https://www.mtggoldfish.com/deck/4351049) | *2021-10-08*
+[Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | *2021-10-09*
+[Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | *2021-10-09*
 
 
-*Last updated: 2021-10-08, 02:05:33.*
+*Last updated: 2021-10-09, 20:51:53.*

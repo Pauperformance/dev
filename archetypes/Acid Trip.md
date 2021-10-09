@@ -40,8 +40,8 @@
 
 ## **Decks**
 
-[Acid Trip 576.001.anynewprovince](https://deckstats.net/decks/181430/2125491-acid-trip-576-001-anynewprovin) | *2021-06-26, 10:08:05* |   
-[Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://deckstats.net/decks/181430/2125506-acid-trip-576-001-azoriusflavo) | *2021-06-26, 10:27:46* |   
+[Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | *2021-10-08*
+[Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:08.*
+*Last updated: 2021-10-09, 20:51:53.*

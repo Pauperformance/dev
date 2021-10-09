@@ -36,9 +36,9 @@
 
 ## **Decks**
 
-[Boros Bully 669.001.Mirco Ciavatta](https://deckstats.net/decks/181430/2127008-boros-bully-669-001-mirco-ciav) | *2021-06-27, 16:48:33* | 1st Palce - Pauperwave League 5th Event 2021-04-25  
-[Boros Bully 669.001.Franco Cicchini](https://deckstats.net/decks/181430/2127012-boros-bully-669-001-franco-cic) | *2021-06-27, 16:50:37* | 2nd Place - Pauperwave League 5th Event 2021-04-25  
-[Boros Bully 576.001.deluxeicoff](https://deckstats.net/decks/181430/2119095-boros-bully-576-001-deluxeicof) | *2021-06-21, 20:18:08* |   
+[Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | *2021-10-08*
+[Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | *2021-10-08*
+[Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:35.*
+*Last updated: 2021-10-09, 20:51:53.*

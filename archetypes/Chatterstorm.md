@@ -36,9 +36,9 @@
 
 ## **Decks**
 
-[Chatterstorm 676.001.gannoncd](https://deckstats.net/decks/181430/2141920-chatterstorm-676-001-gannoncd) | *2021-07-08, 18:32:38* |   
-[Chatterstorm 676.002.gannoncd](https://deckstats.net/decks/181430/2141925-chatterstorm-676-002-gannoncd) | *2021-07-08, 18:34:30* |   
-[Chatterstorm 676.003.gannoncd](https://deckstats.net/decks/181430/2141928-chatterstorm-676-003-gannoncd) | *2021-07-08, 18:35:32* |   
+[Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | *2021-10-08*
+[Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | *2021-10-08*
+[Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:12.*
+*Last updated: 2021-10-09, 20:51:53.*

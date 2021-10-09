@@ -34,8 +34,8 @@
 
 ## **Decks**
 
-[MonoW Heroic 651.001.Mathonical](https://deckstats.net/decks/181430/2127259-monow-heroic-651-001-mathonica) | *2021-06-27, 20:00:56* | Pauper Challenge #12231152, 22nd Place  
-[MonoW Heroic 584.001.dhalsinbh1](https://deckstats.net/decks/181430/2120544-monow-heroic-584-001-dhalsinbh) | *2021-06-22, 19:11:45* |   
+[MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | *2021-10-08*
+[MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:43.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[White Weenie 447.001.Matteo Burello](https://deckstats.net/decks/181430/2125479-white-weenie-447-001-matteo-bu) | *2021-06-26, 09:56:19* |   
+[White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:13:08.*
+*Last updated: 2021-10-09, 20:51:53.*

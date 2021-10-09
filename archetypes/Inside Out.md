@@ -44,10 +44,10 @@
 
 ## **Decks**
 
-[Inside Out 612.001.Mathonical](https://deckstats.net/decks/181430/2127266-inside-out-612-001-mathonical) | *2021-06-27, 20:08:07* | Pauper League 2020-02-26, 5-0  
-[Inside Out 600.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2120604-inside-out-600-001-a-adeptoter) | *2021-06-22, 19:40:13* |   
-[Inside Out 584.001.Entropy263](https://deckstats.net/decks/181430/2120550-inside-out-584-001-entropy263) | *2021-06-22, 19:13:44* |   
-[Inside Out 540.001.Shika93](https://deckstats.net/decks/78813/2108319-inside-out-540-001) | *2021-06-13, 22:52:07* |   
+[Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | *2021-10-09*
+[Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | *2021-10-08*
+[Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | *2021-10-08*
+[Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:37.*
+*Last updated: 2021-10-09, 20:51:53.*

@@ -41,8 +41,8 @@
 
 ## **Decks**
 
-[Petal Festival 669.001.saidin.rake](https://deckstats.net/decks/181430/2125550-petal-festival-669-001-saidin-) | *2021-06-26, 11:11:18* |   
-[Petal Festival 658.001.MTGDelphi](https://deckstats.net/decks/181430/2125533-petal-festival-658-001-mtgdelp) | *2021-06-26, 11:02:57* |   
+[Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | *2021-10-08*
+[Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | *2021-10-08*
 
 
-*Last updated: 2021-10-08, 02:05:33.*
+*Last updated: 2021-10-09, 20:51:53.*
