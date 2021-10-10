@@ -40,8 +40,8 @@
 
 ## **Decks**
 
-[Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | *2021-10-08*
-[Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | *2021-10-08*
+[Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | *2021-10-08* | Ban 🔨
+[Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:39.*

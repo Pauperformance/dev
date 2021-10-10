@@ -44,10 +44,10 @@
 
 ## **Decks**
 
-[Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | *2021-10-09*
-[Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | *2021-10-08*
-[Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | *2021-10-08*
-[Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | *2021-10-08*
+[Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | *2021-10-09* | Ban 🔨
+[Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | *2021-10-08* | 
+[Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | *2021-10-08* | 
+[Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | *2021-10-08* | Ban 🔨
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:39.*

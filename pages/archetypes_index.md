@@ -45,8 +45,8 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Izzet Curve](../archetypes/Izzet%20Curve.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange, Combo | [            ](../families/.html) |
 [Izzet Faeries](../archetypes/Izzet%20Faeries.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           | [Faeries     ](../families/Faeries.html) |
 [Jeskai Snow](../archetypes/Jeskai%20Snow.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
-[Jund Cascade](../archetypes/Jund%20Cascade.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [Jund        ](../families/Jund.html) |
-[Jund PhD](../archetypes/Jund%20PhD.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [Jund        ](../families/Jund.html) |
+[Jund Cascade](../archetypes/Jund%20Cascade.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [Cascade     ](../families/Cascade.html) |
+[Jund PhD](../archetypes/Jund%20PhD.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Midnight Gond](../archetypes/Midnight%20Gond.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Moggwarts](../archetypes/Moggwarts.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Mono Black Control](../archetypes/Mono%20Black%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> | Control         | [            ](../families/.html) |
@@ -67,6 +67,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Slivers](../archetypes/Slivers.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [Slivers     ](../families/Slivers.html) |
 [Soul Sisters](../archetypes/Soul%20Sisters.html) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    | [            ](../families/.html) |
 [Stompy](../archetypes/Stompy.html) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           | [            ](../families/.html) |
+[Temur Cascade](../archetypes/Temur%20Cascade.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [Cascade     ](../families/Cascade.html) |
 [Turbo Slivers](../archetypes/Turbo%20Slivers.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    | [Slivers     ](../families/Slivers.html) |
 [Turbofog](../archetypes/Turbofog.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         | [            ](../families/.html) |
 [Walls](../archetypes/Walls.html) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
@@ -75,4 +76,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-10-09, 21:03:14.*
+*Last updated: 2021-10-10, 16:38:09.*

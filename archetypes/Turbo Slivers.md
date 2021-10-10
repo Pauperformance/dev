@@ -35,9 +35,9 @@
 
 ## **Decks**
 
-[Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | *2021-10-08*
-[Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | *2021-10-08*
-[Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | *2021-10-08*
+[Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | *2021-10-08* | 
+[Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | *2021-10-08* | 
+[Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

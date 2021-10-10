@@ -34,8 +34,8 @@
 
 ## **Decks**
 
-[Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | *2021-10-08*
-[Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | *2021-10-08*
+[Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | *2021-10-08* | 
+[Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

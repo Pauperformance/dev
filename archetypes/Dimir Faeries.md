@@ -36,8 +36,8 @@
 
 ## **Decks**
 
-[Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | *2021-10-08*
-[Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | *2021-10-09*
+[Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | *2021-10-08* | 
+[Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | *2021-10-09* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

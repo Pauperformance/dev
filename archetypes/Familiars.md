@@ -43,10 +43,10 @@
 
 ## **Decks**
 
-[Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | *2021-10-08*
-[Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | *2021-10-08*
-[Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | *2021-10-08*
-[Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | *2021-10-08*
+[Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | *2021-10-08* | Ban 🔨
+[Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | *2021-10-08* | 
+[Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | *2021-10-08* | 
+[Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

@@ -44,9 +44,9 @@
 
 ## **Decks**
 
-[Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | *2021-10-08*
-[Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | *2021-10-08*
-[Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | *2021-10-08*
+[Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | *2021-10-08* | 
+[Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | *2021-10-08* | 
+[Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

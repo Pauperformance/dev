@@ -29,9 +29,9 @@
 
 ## **Decks**
 
-[Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | *2021-10-08*
-[Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | *2021-10-08*
-[Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | *2021-10-08*
+[Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | *2021-10-08* | 
+[Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | *2021-10-08* | 
+[Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

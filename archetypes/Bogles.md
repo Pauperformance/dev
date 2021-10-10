@@ -37,10 +37,10 @@
 
 ## **Decks**
 
-[Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | *2021-10-08*
-[Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | *2021-10-08*
-[Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | *2021-10-08*
-[Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | *2021-10-08*
+[Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | *2021-10-08* | 
+[Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | *2021-10-08* | 
+[Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | *2021-10-08* | Ban 🔨
+[Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

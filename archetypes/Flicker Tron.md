@@ -52,12 +52,12 @@
 
 ## **Decks**
 
-[Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | *2021-10-08*
-[Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | *2021-10-08*
-[Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | *2021-10-08*
-[Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | *2021-10-08*
-[Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | *2021-10-08*
-[Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | *2021-10-08*
+[Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | *2021-10-08* | Ban 🔨
+[Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | *2021-10-08* | Ban 🔨
+[Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | *2021-10-08* | Ban 🔨
+[Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | *2021-10-08* | Ban 🔨
+[Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | *2021-10-08* | Ban 🔨
+[Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

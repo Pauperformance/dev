@@ -36,9 +36,9 @@
 
 ## **Decks**
 
-[Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | *2021-10-08*
-[Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | *2021-10-08*
-[Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | *2021-10-08*
+[Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | *2021-10-08* | 
+[Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | *2021-10-08* | 
+[Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:39.*

@@ -37,9 +37,9 @@
 
 ## **Decks**
 
-[Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | *2021-10-08*
-[Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | *2021-10-09*
-[Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | *2021-10-08*
+[Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | *2021-10-08* | 
+[Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | *2021-10-09* | 
+[Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

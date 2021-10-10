@@ -40,8 +40,8 @@
 
 ## **Decks**
 
-[Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | *2021-10-08*
-[Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | *2021-10-08*
+[Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | *2021-10-08* | 
+[Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

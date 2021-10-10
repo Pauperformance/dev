@@ -40,9 +40,9 @@
 
 ## **Decks**
 
-[Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | *2021-10-08*
-[Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | *2021-10-08*
-[Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | *2021-10-08*
+[Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | *2021-10-08* | 
+[Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | *2021-10-08* | 
+[Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*

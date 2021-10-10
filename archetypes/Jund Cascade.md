@@ -1,6 +1,6 @@
 # Jund Cascade
 
-**Aliases**: 
+**Aliases**: `Jund Wildfire`
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -18,7 +18,7 @@
 
 ## **Decks**
 
-[Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | *2021-10-08*
+[Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | *2021-10-08* | 
 
 
-*Last updated: 2021-10-09, 21:03:21.*
+*Last updated: 2021-10-10, 19:28:38.*
