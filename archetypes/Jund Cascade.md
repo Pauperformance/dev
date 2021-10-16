@@ -20,5 +20,3 @@
 
 [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

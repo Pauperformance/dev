@@ -36,5 +36,3 @@
 [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | *2021-10-10* | 
 [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | *2021-10-10* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

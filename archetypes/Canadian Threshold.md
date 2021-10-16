@@ -50,5 +50,3 @@
 [Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | *2021-10-09* | Ban 🔨
 [Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | *2021-10-08* | Ban 🔨
 
-
-*Last updated: 2021-10-10, 19:28:39.*

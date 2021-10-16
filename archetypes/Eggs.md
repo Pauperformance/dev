@@ -42,5 +42,3 @@
 [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | *2021-10-09* | 
 [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

@@ -42,5 +42,3 @@
 [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | *2021-10-08* | Ban 🔨
 [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

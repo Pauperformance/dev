@@ -717,6 +717,5 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 700       | tmid          | Innistrad: Midnight Hunt Tokens                 | 2021-09-24   |
 | 701       | vow           | Innistrad: Crimson Vow                          | 2021-11-19   |
 | 702       | cc2           | Commander Collection: Black                     | 2021-12-31   |
+| 703       | q06           | Pioneer Challenge Decks 2021                    | 2021-10-15   |
 
-
-*Last updated: 2021-10-10, 16:38:09.*

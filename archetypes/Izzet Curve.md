@@ -41,5 +41,3 @@
 [Izzet Curve 676.001._INVISIBLEKID_](https://www.mtggoldfish.com/deck/4351130) | *2021-10-08* | 
 [Izzet Curve 676.001.killersuv](https://www.mtggoldfish.com/deck/4351129) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

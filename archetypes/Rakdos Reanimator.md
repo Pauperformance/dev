@@ -40,5 +40,3 @@
 [Rakdos Reanimator 669.001.Gorlewski](https://www.mtggoldfish.com/deck/4351131) | *2021-10-08* | 
 [Rakdos Reanimator 669.001.OlavoJusMTM](https://www.mtggoldfish.com/deck/4351132) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

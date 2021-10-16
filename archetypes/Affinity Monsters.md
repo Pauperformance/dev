@@ -45,5 +45,3 @@
 [Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | *2021-10-09* | Ban 🔨
 [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | *2021-10-09* | Ban 🔨
 
-
-*Last updated: 2021-10-10, 19:28:40.*

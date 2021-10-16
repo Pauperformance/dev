@@ -74,6 +74,3 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Watch Rites](../archetypes/Watch%20Rites.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
 [White Weenie](../archetypes/White%20Weenie.html) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 
-
-
-*Last updated: 2021-10-10, 16:38:09.*

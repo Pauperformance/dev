@@ -41,5 +41,3 @@
 [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | *2021-10-09* | 
 [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

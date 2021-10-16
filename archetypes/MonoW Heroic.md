@@ -37,5 +37,3 @@
 [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | *2021-10-08* | 
 [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:42.*

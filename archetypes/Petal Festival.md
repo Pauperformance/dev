@@ -44,5 +44,3 @@
 [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | *2021-10-08* | 
 [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

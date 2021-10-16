@@ -36,5 +36,3 @@
 [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | *2021-10-08* | 
 [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

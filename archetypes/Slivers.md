@@ -20,5 +20,3 @@
 
 [Slivers 600.001.HANSDAMPF](https://www.mtggoldfish.com/deck/4351097) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

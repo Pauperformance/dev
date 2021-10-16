@@ -20,5 +20,3 @@
 
 [Orzhov Pestilence 584.001.Shika93](https://www.mtggoldfish.com/deck/4351746) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

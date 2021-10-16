@@ -50,5 +50,3 @@
 [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | *2021-10-08* | Ban 🔨
 [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

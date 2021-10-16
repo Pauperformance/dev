@@ -38,5 +38,3 @@
 [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | *2021-10-08* | Ban 🔨
 [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

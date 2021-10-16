@@ -41,5 +41,3 @@
 [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | *2021-10-09* | 
 [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:42.*

@@ -46,5 +46,3 @@
 [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | *2021-10-08* | 
 [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

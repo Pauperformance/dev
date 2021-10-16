@@ -59,5 +59,3 @@
 [Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | *2021-10-08* | Ban 🔨
 [Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

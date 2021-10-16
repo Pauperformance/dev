@@ -42,5 +42,3 @@
 [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | *2021-10-08* | 
 [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:39.*

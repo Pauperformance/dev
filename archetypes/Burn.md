@@ -34,5 +34,3 @@
 [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | *2021-10-08* | 
 [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:39.*

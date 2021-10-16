@@ -48,5 +48,3 @@
 [Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | *2021-10-08* | 
 [Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

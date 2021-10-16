@@ -55,5 +55,3 @@
 [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | *2021-10-08* | 
 [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:42.*

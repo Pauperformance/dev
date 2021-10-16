@@ -51,5 +51,3 @@
 [Golgari TortEx 600.001.Shika93](https://www.mtggoldfish.com/deck/4351750) | *2021-10-09* | 
 [Golgari TortEx 669.001.Shika93](https://www.mtggoldfish.com/deck/4351733) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

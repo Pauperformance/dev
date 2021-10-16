@@ -49,5 +49,3 @@
 [Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | *2021-10-08* | 
 [Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | *2021-10-08* | Ban 🔨
 
-
-*Last updated: 2021-10-10, 19:28:39.*

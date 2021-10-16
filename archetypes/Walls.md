@@ -44,5 +44,3 @@
 [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | *2021-10-08* | 
 [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

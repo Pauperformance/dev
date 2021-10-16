@@ -33,5 +33,3 @@
 [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | *2021-10-08* | 
 [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:39.*

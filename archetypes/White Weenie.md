@@ -20,5 +20,3 @@
 
 [White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

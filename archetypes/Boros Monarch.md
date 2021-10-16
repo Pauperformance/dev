@@ -44,5 +44,3 @@
 [Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | *2021-10-08* | 
 [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | *2021-10-08* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

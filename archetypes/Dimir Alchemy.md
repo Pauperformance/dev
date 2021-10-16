@@ -45,5 +45,3 @@
 [Dimir Alchemy 560.001.Simone Capuzzi](https://www.mtggoldfish.com/deck/4351083) | *2021-10-08* | 
 [Dimir Alchemy 612.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351767) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*

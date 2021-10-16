@@ -8,5 +8,3 @@
 [Affinity](../archetypes/Affinity.html)  
 [Affinity Monsters](../archetypes/Affinity%20Monsters.html)  
 
-
-*Last updated: 2021-10-10, 16:38:20.*

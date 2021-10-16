@@ -41,5 +41,3 @@
 [Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | *2021-10-09* | 
 [Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | *2021-10-09* | 
 
-
-*Last updated: 2021-10-10, 19:28:38.*
