@@ -8,6 +8,8 @@ layout: default
 
 [Set index](./pages/set_index.html).
 
+[Format Timeline](./pages/format_timeline.html).
+
 * * *
 
 [Default index](./default-index.html).
