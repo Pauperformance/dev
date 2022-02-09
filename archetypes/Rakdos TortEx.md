@@ -37,7 +37,10 @@
 
 ## **Decks**
 
-[Rakdos TortEx 518.001.Fran Blanco](https://www.mtggoldfish.com/deck/4351049) | *2021-10-08* | 
-[Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | *2021-10-09* | 
-[Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | *2021-10-09* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | 2021-10-09 | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
+| [Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | 2021-10-09 | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
+| [Rakdos TortEx 518.001.Fran Blanco](https://www.mtggoldfish.com/deck/4351049) | 2021-10-08 | Iconic Masters | 2017-11-17 | ✅ |
+
 

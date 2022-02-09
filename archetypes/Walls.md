@@ -41,6 +41,16 @@
 
 ## **Decks**
 
-[Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | *2021-10-08* | 
-[Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+| [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Anyway, Here's Wonderwalls](https://www.coolstuffinc.com/a/kendrasmith-02122020-anyway-heres-wonderwalls) | Paige Smith | 2020-02-12   |
 

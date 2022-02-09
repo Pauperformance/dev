@@ -37,7 +37,18 @@
 
 ## **Decks**
 
-[Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | *2021-10-08* | 
-[Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | *2021-10-09* | 
-[Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| [Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+| [Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | 2021-10-08 | Fate Reforged | 2015-01-23 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper] Temur Watch Rites by Leonardo Borghi](http://www.magictitans.it/pauper-temur-watch-rites-by-leonardo-borghi/) | Leonardo Borghi | 2018-12-06   |
+| 🇮🇹 | [Watch Rites combo – il lupo travestito da agnello](https://eternalgathering.altervista.org/watch-rites-combo/) | eternalgathering | 2017-04-18   |
 

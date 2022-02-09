@@ -38,6 +38,9 @@
 
 ## **Decks**
 
-[Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | *2021-10-09* | 
-[Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | *2021-10-09* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | 2021-10-09 | Hour of Devastation | 2017-07-14 | ✅ |
+
 

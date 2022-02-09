@@ -44,8 +44,11 @@
 
 ## **Decks**
 
-[Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | *2021-10-09* | Ban 🔨
-[Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | *2021-10-08* | 
-[Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | *2021-10-08* | 
-[Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | *2021-10-08* | Ban 🔨
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | 2021-10-09 | Battlebond | 2018-06-08 | Ban 🔨 |
+
 

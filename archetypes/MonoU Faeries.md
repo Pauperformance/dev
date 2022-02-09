@@ -18,5 +18,8 @@
 
 ## **Decks**
 
-[MonoU Faeries 540.001.Shika93](https://www.mtggoldfish.com/deck/4351740) | *2021-10-09* | Ban 🔨
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [MonoU Faeries 540.001.Shika93](https://www.mtggoldfish.com/deck/4351740) | 2021-10-09 | Battlebond | 2018-06-08 | Ban 🔨 |
+
 

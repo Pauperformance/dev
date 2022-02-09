@@ -34,6 +34,9 @@
 
 ## **Decks**
 
-[Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | *2021-10-08* | 
-[Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+
 

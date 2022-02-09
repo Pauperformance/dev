@@ -52,6 +52,17 @@
 
 ## **Decks**
 
-[Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | *2021-10-08* | 
-[Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
+| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Playing Pauper: Dimir Teachings](https://www.mtggoldfish.com/articles/playing-pauper-dimir-teachings) | Jake Stiles | 2016-03-30   |
+| 🇮🇹 | [DECK ANALISI - UB TEACHINGS IN PAUPER](http://www.metagame.it/articoli-pauper/1730-deck-analisi-ub-teachings.html) | Giorgio "Caiusthethief" Iaderosa | 2016-01-31   |
 

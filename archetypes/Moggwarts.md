@@ -40,7 +40,10 @@
 
 ## **Decks**
 
-[Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | *2021-10-08* | 
-[Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | *2021-10-08* | 
-[Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+
 

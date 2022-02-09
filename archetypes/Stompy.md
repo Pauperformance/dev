@@ -34,6 +34,9 @@
 
 ## **Decks**
 
-[Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | *2021-10-09* | 
-[Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | *2021-10-09* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | 2021-10-09 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
+
 

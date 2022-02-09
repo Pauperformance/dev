@@ -40,6 +40,9 @@
 
 ## **Decks**
 
-[Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | *2021-10-08* | Ban 🔨
-[Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | 2021-10-08 | Zendikar Rising | 2020-09-25 | ✅ |
+| [Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | 2021-10-08 | War of the Spark | 2019-05-03 | Ban 🔨 |
+
 

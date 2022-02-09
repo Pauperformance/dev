@@ -38,7 +38,17 @@
 
 ## **Decks**
 
-[Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | *2021-10-09* | 
-[Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | *2021-10-09* | 
-[Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | 2021-10-08 | Masters 25 | 2018-03-16 | Ban 🔨 |
+| [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| [Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [BUILDING ON A BUDGET: PAUPER EGGS](http://www.metagame.it/articoli-pauper/3341-building-on-a-budget-pauper-eggs.html) | Federico Cazzaniga - fedetoro | 2018-03-30   |
 

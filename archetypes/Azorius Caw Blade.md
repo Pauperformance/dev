@@ -39,6 +39,16 @@
 
 ## **Decks**
 
-[Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | *2021-10-08* | 
-[Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | 2021-10-08 | Rivals of Ixalan | 2018-01-19 | ✅ |
+| [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | 2021-10-08 | Amonkhet | 2017-04-28 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [UW Caw Blade – un midrange atipico](https://eternalgathering.altervista.org/caw-blade/) | eternalgathering | 2018-02-23   |
 

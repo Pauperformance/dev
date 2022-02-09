@@ -36,7 +36,10 @@
 
 ## **Decks**
 
-[Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | *2021-10-08* | Ban 🔨
-[Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | *2021-10-08* | Ban 🔨
-[Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | *2021-10-08* | Ban 🔨
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+
 

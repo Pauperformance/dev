@@ -45,8 +45,20 @@
 
 ## **Decks**
 
-[Canadian Threshold 488.001.Federico Vaglio](https://www.mtggoldfish.com/deck/4351949) | *2021-10-09* | Ban 🔨
-[Canadian Threshold 488.001.alwayshalfchub](https://www.mtggoldfish.com/deck/4351076) | *2021-10-08* | 
-[Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | *2021-10-09* | Ban 🔨
-[Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | *2021-10-08* | Ban 🔨
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | 2021-10-08 | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| [Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+| [Canadian Threshold 488.001.alwayshalfchub](https://www.mtggoldfish.com/deck/4351076) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+| [Canadian Threshold 488.001.Federico Vaglio](https://www.mtggoldfish.com/deck/4351949) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [The Canadian Job, ovvero la grande bellezza](https://eternalgathering.altervista.org/the-canadian-job-ovvero-la-grande-bellezza/) | eternalgathering | 2017-11-17   |
+| 🇬🇧 | [Pauper Ponderings: Canadian Threshold](http://themanabase.wpengine.com/pauper-ponderings-canadian-threshold/) | Austen Hoey | 2017-04-27   |
+| 🇮🇹 | [CANADIAN THRESHOLD](https://paupernexus.wixsite.com/paupernexus/primer-canadian-threshold) | Federico Vaglio | 2016-06-15   |
 

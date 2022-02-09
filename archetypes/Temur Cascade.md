@@ -33,6 +33,9 @@
 
 ## **Decks**
 
-[Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | *2021-10-10* | 
-[Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | *2021-10-10* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | Ban 🔨 |
+
 

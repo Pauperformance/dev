@@ -36,8 +36,11 @@
 
 ## **Decks**
 
-[Izzet Faeries 584.001.Mengucci](https://www.mtggoldfish.com/deck/4351059) | *2021-10-08* | 
-[Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | *2021-10-08* | Ban 🔨
-[Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | *2021-10-09* | 
-[Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | *2021-10-09* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | 2021-10-08 | War of the Spark | 2019-05-03 | Ban 🔨 |
+| [Izzet Faeries 584.001.Mengucci](https://www.mtggoldfish.com/deck/4351059) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+
 

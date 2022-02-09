@@ -30,6 +30,16 @@
 
 ## **Decks**
 
-[Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | *2021-10-08* | 
-[Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [Midnight combo, gli manca solo la pescata(?)](https://eternalgathering.altervista.org/midnight-combo-gli-manca-solo-la-pescata/) | eternalgathering | 2017-03-19   |
 

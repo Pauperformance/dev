@@ -18,4 +18,7 @@
 
 ## **Decks**
 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
 

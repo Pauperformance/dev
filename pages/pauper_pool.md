@@ -9,7 +9,7 @@ This page should be useful for Pauper players that haven't followed the latest r
 
 Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](set_index.html).
 
-The total number of cards in the Pauper pool is: 8126.
+The total number of cards in the Pauper pool is: 8216.
 
 ---
 Table of Contents
@@ -168,6 +168,7 @@ Table of Contents
 * [Modern Horizons 2](#modern-horizons-2-mh2) (*release: 2021-06-18 ~ p12e_code: 676*)
 * [Adventures in the Forgotten Realms](#adventures-in-the-forgotten-realms-afr) (*release: 2021-07-23 ~ p12e_code: 683*)
 * [Innistrad: Midnight Hunt](#innistrad-midnight-hunt-mid) (*release: 2021-09-24 ~ p12e_code: 696*)
+* [Innistrad: Double Feature](#innistrad-double-feature-dbl) (*release: 2022-01-28 ~ p12e_code: 719*)
 
 ---
 
@@ -9680,6 +9681,105 @@ Table of Contents
 <a href="https://scryfall.com/card/mid/203/tireless-hauler-dire-strain-brawler?utm_source=api">Tireless Hauler // Dire-Strain Brawler</a><br/>
 <a href="https://scryfall.com/card/mid/82/unblinking-observer?utm_source=api">Unblinking Observer</a><br/>
 <a href="https://scryfall.com/card/mid/167/voldaren-stinger?utm_source=api">Voldaren Stinger</a><br/>
+</details>
+[]()
+
+## Innistrad: Double Feature (dbl)
+*release: 2022-01-28 | p12e_code: 719*
+
+<details>
+  <summary>Click to see 90 new cards</summary>
+
+<a href="https://scryfall.com/card/dbl/359/aim-for-the-head?utm_source=api">Aim for the Head</a><br/>
+<a href="https://scryfall.com/card/dbl/314/alchemists-retrieval?utm_source=api">Alchemist's Retrieval</a><br/>
+<a href="https://scryfall.com/card/dbl/409/ancestral-anger?utm_source=api">Ancestral Anger</a><br/>
+<a href="https://scryfall.com/card/dbl/452/apprentice-sharpshooter?utm_source=api">Apprentice Sharpshooter</a><br/>
+<a href="https://scryfall.com/card/dbl/411/belligerent-guest?utm_source=api">Belligerent Guest</a><br/>
+<a href="https://scryfall.com/card/dbl/315/binding-geist-spectral-binding?utm_source=api">Binding Geist // Spectral Binding</a><br/>
+<a href="https://scryfall.com/card/dbl/361/bleed-dry?utm_source=api">Bleed Dry</a><br/>
+<a href="https://scryfall.com/card/dbl/363/bloodcrazed-socialite?utm_source=api">Bloodcrazed Socialite</a><br/>
+<a href="https://scryfall.com/card/dbl/362/blood-fountain?utm_source=api">Blood Fountain</a><br/>
+<a href="https://scryfall.com/card/dbl/413/blood-petal-celebrant?utm_source=api">Blood Petal Celebrant</a><br/>
+<a href="https://scryfall.com/card/dbl/519/blood-servitor?utm_source=api">Blood Servitor</a><br/>
+<a href="https://scryfall.com/card/dbl/414/bloody-betrayal?utm_source=api">Bloody Betrayal</a><br/>
+<a href="https://scryfall.com/card/dbl/521/ceremonial-knife?utm_source=api">Ceremonial Knife</a><br/>
+<a href="https://scryfall.com/card/dbl/318/chill-of-the-grave?utm_source=api">Chill of the Grave</a><br/>
+<a href="https://scryfall.com/card/dbl/369/courier-bat?utm_source=api">Courier Bat</a><br/>
+<a href="https://scryfall.com/card/dbl/321/cradle-of-safety?utm_source=api">Cradle of Safety</a><br/>
+<a href="https://scryfall.com/card/dbl/322/cruel-witness?utm_source=api">Cruel Witness</a><br/>
+<a href="https://scryfall.com/card/dbl/463/dawnhart-disciple?utm_source=api">Dawnhart Disciple</a><br/>
+<a href="https://scryfall.com/card/dbl/420/daybreak-combatants?utm_source=api">Daybreak Combatants</a><br/>
+<a href="https://scryfall.com/card/dbl/371/desperate-farmer-depraved-harvester?utm_source=api">Desperate Farmer // Depraved Harvester</a><br/>
+<a href="https://scryfall.com/card/dbl/372/diregraf-scavenger?utm_source=api">Diregraf Scavenger</a><br/>
+<a href="https://scryfall.com/card/dbl/324/dreadlight-monstrosity?utm_source=api">Dreadlight Monstrosity</a><br/>
+<a href="https://scryfall.com/card/dbl/277/drogskol-infantry-drogskol-armaments?utm_source=api">Drogskol Infantry // Drogskol Armaments</a><br/>
+<a href="https://scryfall.com/card/dbl/422/end-the-festivities?utm_source=api">End the Festivities</a><br/>
+<a href="https://scryfall.com/card/dbl/278/estwald-shieldbasher?utm_source=api">Estwald Shieldbasher</a><br/>
+<a href="https://scryfall.com/card/dbl/423/falkenrath-celebrants?utm_source=api">Falkenrath Celebrants</a><br/>
+<a href="https://scryfall.com/card/dbl/424/fearful-villager-fearsome-werewolf?utm_source=api">Fearful Villager // Fearsome Werewolf</a><br/>
+<a href="https://scryfall.com/card/dbl/326/fear-of-death?utm_source=api">Fear of Death</a><br/>
+<a href="https://scryfall.com/card/dbl/280/fierce-retribution?utm_source=api">Fierce Retribution</a><br/>
+<a href="https://scryfall.com/card/dbl/425/flame-blessed-bolt?utm_source=api">Flame-Blessed Bolt</a><br/>
+<a href="https://scryfall.com/card/dbl/466/flourishing-hunter?utm_source=api">Flourishing Hunter</a><br/>
+<a href="https://scryfall.com/card/dbl/380/gift-of-fangs?utm_source=api">Gift of Fangs</a><br/>
+<a href="https://scryfall.com/card/dbl/381/gluttonous-guest?utm_source=api">Gluttonous Guest</a><br/>
+<a href="https://scryfall.com/card/dbl/383/grisly-ritual?utm_source=api">Grisly Ritual</a><br/>
+<a href="https://scryfall.com/card/dbl/282/gryff-rider?utm_source=api">Gryff Rider</a><br/>
+<a href="https://scryfall.com/card/dbl/286/heron-blessed-geist?utm_source=api">Heron-Blessed Geist</a><br/>
+<a href="https://scryfall.com/card/dbl/285/heron-of-hope?utm_source=api">Heron of Hope</a><br/>
+<a href="https://scryfall.com/card/dbl/524/honored-heirloom?utm_source=api">Honored Heirloom</a><br/>
+<a href="https://scryfall.com/card/dbl/470/hookhand-mariner-riphook-raider?utm_source=api">Hookhand Mariner // Riphook Raider</a><br/>
+<a href="https://scryfall.com/card/dbl/428/hungry-ridgewolf?utm_source=api">Hungry Ridgewolf</a><br/>
+<a href="https://scryfall.com/card/dbl/431/kessig-flamebreather?utm_source=api">Kessig Flamebreather</a><br/>
+<a href="https://scryfall.com/card/dbl/289/kindly-ancestor-ancestors-embrace?utm_source=api">Kindly Ancestor // Ancestor's Embrace</a><br/>
+<a href="https://scryfall.com/card/dbl/433/lacerate-flesh?utm_source=api">Lacerate Flesh</a><br/>
+<a href="https://scryfall.com/card/dbl/333/lantern-bearer-lanterns-lift?utm_source=api">Lantern Bearer // Lanterns' Lift</a><br/>
+<a href="https://scryfall.com/card/dbl/435/lightning-wolf?utm_source=api">Lightning Wolf</a><br/>
+<a href="https://scryfall.com/card/dbl/475/massive-might?utm_source=api">Massive Might</a><br/>
+<a href="https://scryfall.com/card/dbl/291/militia-rallier?utm_source=api">Militia Rallier</a><br/>
+<a href="https://scryfall.com/card/dbl/389/mindleech-ghoul?utm_source=api">Mindleech Ghoul</a><br/>
+<a href="https://scryfall.com/card/dbl/476/moldgraf-millipede?utm_source=api">Moldgraf Millipede</a><br/>
+<a href="https://scryfall.com/card/dbl/478/natures-embrace?utm_source=api">Nature's Embrace</a><br/>
+<a href="https://scryfall.com/card/dbl/292/nebelgast-beguiler?utm_source=api">Nebelgast Beguiler</a><br/>
+<a href="https://scryfall.com/card/dbl/293/nurturing-presence?utm_source=api">Nurturing Presence</a><br/>
+<a href="https://scryfall.com/card/dbl/296/parish-blade-trainee?utm_source=api">Parish-Blade Trainee</a><br/>
+<a href="https://scryfall.com/card/dbl/392/persistent-specimen?utm_source=api">Persistent Specimen</a><br/>
+<a href="https://scryfall.com/card/dbl/297/piercing-light?utm_source=api">Piercing Light</a><br/>
+<a href="https://scryfall.com/card/dbl/393/pointed-discussion?utm_source=api">Pointed Discussion</a><br/>
+<a href="https://scryfall.com/card/dbl/440/pyre-spawn?utm_source=api">Pyre Spawn</a><br/>
+<a href="https://scryfall.com/card/dbl/394/ragged-recluse-odious-witch?utm_source=api">Ragged Recluse // Odious Witch</a><br/>
+<a href="https://scryfall.com/card/dbl/441/reckless-impulse?utm_source=api">Reckless Impulse</a><br/>
+<a href="https://scryfall.com/card/dbl/340/repository-skaab?utm_source=api">Repository Skaab</a><br/>
+<a href="https://scryfall.com/card/dbl/396/rot-tide-gargantua?utm_source=api">Rot-Tide Gargantua</a><br/>
+<a href="https://scryfall.com/card/dbl/483/rural-recruit?utm_source=api">Rural Recruit</a><br/>
+<a href="https://scryfall.com/card/dbl/300/sanctify?utm_source=api">Sanctify</a><br/>
+<a href="https://scryfall.com/card/dbl/341/scattered-thoughts?utm_source=api">Scattered Thoughts</a><br/>
+<a href="https://scryfall.com/card/dbl/343/selhoff-entomber?utm_source=api">Selhoff Entomber</a><br/>
+<a href="https://scryfall.com/card/dbl/344/serpentine-ambush?utm_source=api">Serpentine Ambush</a><br/>
+<a href="https://scryfall.com/card/dbl/485/sheltering-boughs?utm_source=api">Sheltering Boughs</a><br/>
+<a href="https://scryfall.com/card/dbl/302/sigardas-imprisonment?utm_source=api">Sigarda's Imprisonment</a><br/>
+<a href="https://scryfall.com/card/dbl/345/skywarp-skaab?utm_source=api">Skywarp Skaab</a><br/>
+<a href="https://scryfall.com/card/dbl/490/sporeback-wolf?utm_source=api">Sporeback Wolf</a><br/>
+<a href="https://scryfall.com/card/dbl/489/spore-crawler?utm_source=api">Spore Crawler</a><br/>
+<a href="https://scryfall.com/card/dbl/347/steelclad-spirit?utm_source=api">Steelclad Spirit</a><br/>
+<a href="https://scryfall.com/card/dbl/348/stitched-assistant?utm_source=api">Stitched Assistant</a><br/>
+<a href="https://scryfall.com/card/dbl/304/supernatural-rescue?utm_source=api">Supernatural Rescue</a><br/>
+<a href="https://scryfall.com/card/dbl/351/syphon-essence?utm_source=api">Syphon Essence</a><br/>
+<a href="https://scryfall.com/card/dbl/491/toxic-scorpion?utm_source=api">Toxic Scorpion</a><br/>
+<a href="https://scryfall.com/card/dbl/306/traveling-minister?utm_source=api">Traveling Minister</a><br/>
+<a href="https://scryfall.com/card/dbl/401/undying-malice?utm_source=api">Undying Malice</a><br/>
+<a href="https://scryfall.com/card/dbl/402/unhallowed-phalanx?utm_source=api">Unhallowed Phalanx</a><br/>
+<a href="https://scryfall.com/card/dbl/308/unholy-officiant?utm_source=api">Unholy Officiant</a><br/>
+<a href="https://scryfall.com/card/dbl/403/vampires-kiss?utm_source=api">Vampire's Kiss</a><br/>
+<a href="https://scryfall.com/card/dbl/310/vampire-slayer?utm_source=api">Vampire Slayer</a><br/>
+<a href="https://scryfall.com/card/dbl/449/voldaren-epicure?utm_source=api">Voldaren Epicure</a><br/>
+<a href="https://scryfall.com/card/dbl/353/wanderlight-spirit?utm_source=api">Wanderlight Spirit</a><br/>
+<a href="https://scryfall.com/card/dbl/451/weary-prisoner-wrathful-jailbreaker?utm_source=api">Weary Prisoner // Wrathful Jailbreaker</a><br/>
+<a href="https://scryfall.com/card/dbl/493/weaver-of-blossoms-blossom-clad-werewolf?utm_source=api">Weaver of Blossoms // Blossom-Clad Werewolf</a><br/>
+<a href="https://scryfall.com/card/dbl/527/wedding-invitation?utm_source=api">Wedding Invitation</a><br/>
+<a href="https://scryfall.com/card/dbl/494/witchs-web?utm_source=api">Witch's Web</a><br/>
+<a href="https://scryfall.com/card/dbl/495/wolf-strike?utm_source=api">Wolf Strike</a><br/>
+<a href="https://scryfall.com/card/dbl/358/wretched-throng?utm_source=api">Wretched Throng</a><br/>
 </details>
 []()
 

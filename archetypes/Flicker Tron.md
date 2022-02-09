@@ -52,10 +52,13 @@
 
 ## **Decks**
 
-[Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | *2021-10-08* | Ban 🔨
-[Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | *2021-10-08* | Ban 🔨
-[Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | *2021-10-08* | Ban 🔨
-[Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | *2021-10-08* | Ban 🔨
-[Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | *2021-10-08* | Ban 🔨
-[Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | 2021-10-08 | Commander Legends | 2020-11-20 | Ban 🔨 |
+| [Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
+| [Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
+| [Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
+| [Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | Ban 🔨 |
+
 

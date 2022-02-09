@@ -34,6 +34,9 @@
 
 ## **Decks**
 
-[MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | *2021-10-08* | 
-[MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | 2021-10-08 | Commander Legends | 2020-11-20 | ✅ |
+| [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+
 

@@ -18,5 +18,8 @@
 
 ## **Decks**
 
-[MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | *2021-10-09* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | 2021-10-09 | Battlebond | 2018-06-08 | ✅ |
+
 

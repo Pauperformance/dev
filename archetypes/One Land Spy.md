@@ -46,7 +46,17 @@
 
 ## **Decks**
 
-[One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | *2021-10-08* | Ban 🔨
-[One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | *2021-10-08* | Ban 🔨
-[One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+| [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | 2021-10-08 | Dominaria | 2018-04-27 | Ban 🔨 |
+| [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | 2021-10-08 | Modern Masters 2015 | 2015-05-22 | Ban 🔨 |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [PAUPER DECK ANALISI - BALUSTRADE COMBO](http://www.metagame.it/articoli-pauper/2261-pauper-deck-analisi-one-land-one-shot.html) | Matteo Burello | 2015-05-24   |
 

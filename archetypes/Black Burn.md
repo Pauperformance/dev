@@ -33,6 +33,9 @@
 
 ## **Decks**
 
-[Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | *2021-10-08* | 
-[Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | 2021-10-08 | Historic Anthology 4 | 2021-03-11 | ✅ |
+
 

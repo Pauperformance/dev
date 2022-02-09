@@ -18,5 +18,15 @@
 
 ## **Decks**
 
-[Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | *2021-10-08* | 
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Deck Guide: Pauper Brute Squad](https://strategy.channelfireball.com/all-strategy/home/deck-guide-pauper-brute-squad/) | Alex Ullman | 2021-04-09   |
 
