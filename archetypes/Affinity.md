@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/mm2/224/myr-enforcer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/f/dff51ae7-4b68-4770-915b-fb6bcf9ca1ed.jpg?1562268373" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -43,16 +41,14 @@
 <a href="https://scryfall.com/card/2xm/291/springleaf-drum"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f3b3869b-6da1-4b01-a2e7-2018d478b6e5.jpg?1599709959" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/417/temur-battle-rage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d344f38d-0ef2-434b-914c-934c639e7e18.jpg?1608912292" width="300"/></a>
 <a href="https://scryfall.com/card/eld/74/witching-well"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | 2021-10-09 | Hour of Devastation | 2017-07-14 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
+| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
+| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | 2021-10-09   | Hour of Devastation                             | 2017-07-14   | Ban 🔨 |
 
 

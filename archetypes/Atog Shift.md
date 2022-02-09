@@ -25,23 +25,19 @@
 <a href="https://scryfall.com/card/cmr/417/temur-battle-rage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d344f38d-0ef2-434b-914c-934c639e7e18.jpg?1608912292" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
 <a href="https://scryfall.com/card/eld/74/witching-well"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
-| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | 2021-10-17 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | 2021-10-08   | Theros Beyond Death                             | 2020-01-24   | Ban 🔨 |
+| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | 2021-10-17   | Theros Beyond Death                             | 2020-01-24   | Ban 🔨 |
 
 

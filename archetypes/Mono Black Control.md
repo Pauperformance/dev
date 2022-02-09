@@ -23,9 +23,7 @@
 <a href="https://scryfall.com/card/cmr/142/phyrexian-rager"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac.jpg?1608909883" width="300"/></a>
 <a href="https://scryfall.com/card/wth/81/spinning-darkness"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58e64a8e-84b1-416c-9fa7-8b10130dc9e9.jpg?1562800960" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/145/tendrils-of-corruption"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c338b459-6bb8-4bc7-a6b5-945a09589c05.jpg?1619396480" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -40,18 +38,16 @@
 <a href="https://scryfall.com/card/cm2/77/sign-in-blood"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/61388c28-9428-473c-973a-0a82b6b83d62.jpg?1562274085" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/113/unearth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767" width="300"/></a>
 <a href="https://scryfall.com/card/ima/115/wrench-mind"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/360a6ada-b257-44b8-b830-aaa122474bce.jpg?1562847480" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | 2021-10-09 | Theros Beyond Death | 2020-01-24 | ✅ |
-| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
-| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
-| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | 2021-10-09 | War of the Spark | 2019-05-03 | ✅ |
-| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | 2021-10-09   | Theros Beyond Death                             | 2020-01-24   | ✅     |
+| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | 2021-10-09   | Commander 2019                                  | 2019-08-23   | ✅     |
+| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | 2021-10-09   | Commander 2019                                  | 2019-08-23   | ✅     |
+| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | 2021-10-09   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | 2021-10-09   | Dominaria                                       | 2018-04-27   | ✅     |
 
 

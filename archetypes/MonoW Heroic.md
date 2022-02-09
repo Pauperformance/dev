@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/uma/21/hyena-umbra"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87128a82-bcde-4def-9447-0ab8165d6b5e.jpg?1547515597" width="300"/></a>
 <a href="https://scryfall.com/card/jou/14/lagonna-band-trailblazer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38a6f533-6acb-4c24-ae9d-fe4977230156.jpg?1593095258" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/149/mutagenic-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -36,15 +34,13 @@
 <a href="https://scryfall.com/card/thb/26/karametras-blessing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156" width="300"/></a>
 <a href="https://scryfall.com/card/ima/29/seeker-of-the-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52d7aafb-969f-4a39-9af3-125f7f5c99f3.jpg?1562848916" width="300"/></a>
 <a href="https://scryfall.com/card/thb/36/sentinels-eyes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | 2021-10-08 | Commander Legends | 2020-11-20 | ✅ |
-| [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | 2021-10-08   | Commander Legends                               | 2020-11-20   | ✅     |
+| [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
 
 

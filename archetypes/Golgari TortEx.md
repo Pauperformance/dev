@@ -25,9 +25,7 @@
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
 <a href="https://scryfall.com/card/sth/74/tortured-existence"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/1754b92b-d6f9-4503-af01-dee03f72a048.jpg?1562595922" width="300"/></a>
 <a href="https://scryfall.com/card/a25/193/vessel-of-nascency"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/d/9d502ecf-b3a5-4657-8718-104e8f0ab9af.jpg?1562439034" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -49,16 +47,14 @@
 <a href="https://scryfall.com/card/tsp/137/traitors-clutch"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/6313a601-5d26-487b-a70c-2c7184b7cc91.jpg?1562915705" width="300"/></a>
 <a href="https://scryfall.com/card/m15/204/undergrowth-scavenger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/f/4f8dc77e-f003-4c25-8394-cda22e3ea039.jpg?1562786819" width="300"/></a>
 <a href="https://scryfall.com/card/ema/191/werebear"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/224ea635-b95b-4803-8716-edd4cb655923.jpg?1580014964" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Golgari TortEx 669.001.Shika93](https://www.mtggoldfish.com/deck/4351733) | 2021-10-09 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Golgari TortEx 600.001.Shika93](https://www.mtggoldfish.com/deck/4351750) | 2021-10-09 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Golgari TortEx 537.001.Shika93](https://www.mtggoldfish.com/deck/4351741) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Golgari TortEx 669.001.Shika93](https://www.mtggoldfish.com/deck/4351733) | 2021-10-09   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Golgari TortEx 600.001.Shika93](https://www.mtggoldfish.com/deck/4351750) | 2021-10-09   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| [Golgari TortEx 537.001.Shika93](https://www.mtggoldfish.com/deck/4351741) | 2021-10-09   | Dominaria                                       | 2018-04-27   | ✅     |
 
 

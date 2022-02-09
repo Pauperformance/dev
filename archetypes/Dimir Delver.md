@@ -21,9 +21,7 @@
 <a href="https://scryfall.com/card/uma/102/gurmag-angler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/cedd44eb-f381-46e1-bcb0-88416b4ce33d.jpg?1547516928" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/84/preordain"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/1453f92e-df2d-4789-aa1b-a5b5c51567d4.jpg?1608909344" width="300"/></a>
 <a href="https://scryfall.com/card/gvl/53/snuff-out"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/5/75bbe89f-09af-494e-b58e-271f64bde4b5.jpg?1562922833" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -42,15 +40,13 @@
 <a href="https://scryfall.com/card/dka/51/stormbound-geist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/4/040eddb0-fca2-41eb-ab07-c48d49385973.jpg?1562896034" width="300"/></a>
 <a href="https://scryfall.com/card/iko/100/suffocating-fumes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/66b562e4-35df-4aee-848d-ceb4204bbe58.jpg?1591226972" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | 2021-10-08 | Zendikar Rising | 2020-09-25 | ✅ |
-| [Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | 2021-10-08 | War of the Spark | 2019-05-03 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | 2021-10-08   | Zendikar Rising                                 | 2020-09-25   | ✅     |
+| [Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | 2021-10-08   | War of the Spark                                | 2019-05-03   | Ban 🔨 |
 
 

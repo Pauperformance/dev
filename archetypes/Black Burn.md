@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/eve/44/soul-reap"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/2/e2a129e2-bed5-4ee7-b223-851452f72682.jpg?1562942827" width="300"/></a>
 <a href="https://scryfall.com/card/m19/120/sovereigns-bite"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/5326d251-bb91-4653-b1fa-44f14c4e0b88.jpg?1562302173" width="300"/></a>
 <a href="https://scryfall.com/card/vma/143/tyrants-choice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5ed37b1c-7377-40bd-ae98-7f5ce56156b1.jpg?1562914207" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -35,15 +33,13 @@
 <a href="https://scryfall.com/card/mor/74/prickly-boggart"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/5/55121b63-22a6-4923-82e9-c55f66742980.jpg?1562878564" width="300"/></a>
 <a href="https://scryfall.com/card/iko/99/serrated-scorpion"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bc8f0242-35e1-4409-9321-56e742e8fef4.jpg?1591226960" width="300"/></a>
 <a href="https://scryfall.com/card/khm/117/village-rites"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1621304677" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | 2021-10-08 | Historic Anthology 4 | 2021-03-11 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | 2021-10-08   | Historic Anthology 4                            | 2021-03-11   | ✅     |
 
 

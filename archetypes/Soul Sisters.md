@@ -25,9 +25,7 @@
 <a href="https://scryfall.com/card/mor/25/stonybrook-schoolmaster"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69fa2293-f398-4ad8-895e-c739ddea56d0.jpg?1562879054" width="300"/></a>
 <a href="https://scryfall.com/card/mma/34/veteran-armorer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/026aaea6-ed4f-4505-9779-7c28ff6c2284.jpg?1561965991" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/193/winding-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e5d9776-b6ce-4ad6-8acc-69115ba5de76.jpg?1562202277" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -36,15 +34,13 @@
 <a href="https://scryfall.com/card/cmd/223/selesnya-evangel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32a20292-8b19-4386-95b4-85efc903146b.jpg?1592714254" width="300"/></a>
 <a href="https://scryfall.com/card/roe/44/souls-attendant"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/3223c0ac-cc22-4886-8919-11273b477cc7.jpg?1562702613" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| [Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
 
 

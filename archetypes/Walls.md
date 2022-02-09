@@ -25,9 +25,7 @@
 <a href="https://scryfall.com/card/war/182/viviens-grizzly"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/7/37f2571b-6756-462c-9e71-3121fa458160.jpg?1557577044" width="300"/></a>
 <a href="https://scryfall.com/card/ima/190/wall-of-roots"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b65cb901-bfb0-454a-97ef-138021e524ff.jpg?1562853421" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/193/winding-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e5d9776-b6ce-4ad6-8acc-69115ba5de76.jpg?1562202277" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -43,16 +41,14 @@
 <a href="https://scryfall.com/card/me1/166/shield-sphere"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/a/7a76a97e-a857-4593-ae7c-e393d8a868ac.jpg?1559592340" width="300"/></a>
 <a href="https://scryfall.com/card/znr/173/tuktuk-rubblefort"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/02eedf9d-e26c-405c-aee5-1b3493dc5e9b.jpg?1604198284" width="300"/></a>
 <a href="https://scryfall.com/card/ima/153/vent-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b6f563e-4f94-4caf-83b9-bfc64e18bc9c.jpg?1562849931" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
-| [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
+| [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | 2021-10-08   | Theros Beyond Death                             | 2020-01-24   | ✅     |
 
 
 

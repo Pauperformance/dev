@@ -23,25 +23,21 @@
 <a href="https://scryfall.com/card/fut/138/sprout-swarm"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b915355-4e98-44df-81bd-961a3d3c86b8.jpg?1562897338" width="300"/></a>
 <a href="https://scryfall.com/card/mor/25/stonybrook-schoolmaster"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69fa2293-f398-4ad8-895e-c739ddea56d0.jpg?1562879054" width="300"/></a>
 <a href="https://scryfall.com/card/mma/34/veteran-armorer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/026aaea6-ed4f-4505-9779-7c28ff6c2284.jpg?1561965991" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
 <a href="https://scryfall.com/card/a25/182/nettle-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
-| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08   | Modern Masters 2017                             | 2017-03-17   | ✅     |
+| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08   | Modern Masters 2017                             | 2017-03-17   | ✅     |
 
 
 

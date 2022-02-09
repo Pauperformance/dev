@@ -27,9 +27,7 @@
 <a href="https://scryfall.com/card/mma/65/spellstutter-sprite"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.jpg?1561966876" width="300"/></a>
 <a href="https://scryfall.com/card/iko/100/suffocating-fumes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/66b562e4-35df-4aee-848d-ceb4204bbe58.jpg?1591226972" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -38,15 +36,13 @@
 <a href="https://scryfall.com/card/cmr/58/azure-fleet-admiral"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/0/c0889e22-deab-48ba-bbd6-f0d49bee5d9c.jpg?1608909111" width="300"/></a>
 <a href="https://scryfall.com/card/uma/89/chainers-edict"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a36a583a-d4be-4589-a43c-a2854de062c6.jpg?1547516797" width="300"/></a>
 <a href="https://scryfall.com/card/bfz/76/dispel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.jpg?1562939587" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | 2021-10-09 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | 2021-10-09   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
 
 

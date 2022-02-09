@@ -22,9 +22,7 @@
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/scg/72/reaping-the-graves"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -42,16 +40,14 @@
 <a href="https://scryfall.com/card/znr/254/spare-supplies"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/5/a53baf25-1782-427b-a9dd-fc9b8dc6444f.jpg?1604201030" width="300"/></a>
 <a href="https://scryfall.com/card/iko/100/suffocating-fumes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/66b562e4-35df-4aee-848d-ceb4204bbe58.jpg?1591226972" width="300"/></a>
 <a href="https://scryfall.com/card/c20/231/terminate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a2ba191-f11c-47d3-8459-34b0e0e56fd9.jpg?1591321484" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
-| [Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
-| [Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | Ban 🔨 |
+| [Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | Ban 🔨 |
+| [Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | Ban 🔨 |
 
 

@@ -21,9 +21,7 @@
 <a href="https://scryfall.com/card/dvd/36/stinkweed-imp"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/a/2ab08d69-210b-4b06-88a2-45281a1a4e1e.jpg?1561771088" width="300"/></a>
 <a href="https://scryfall.com/card/c20/231/terminate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a2ba191-f11c-47d3-8459-34b0e0e56fd9.jpg?1591321484" width="300"/></a>
 <a href="https://scryfall.com/card/sth/74/tortured-existence"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/7/1754b92b-d6f9-4503-af01-dee03f72a048.jpg?1562595922" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -39,16 +37,14 @@
 <a href="https://scryfall.com/card/m21/165/thrill-of-possibility"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/4/f4af156d-0fbf-4a4e-b0c1-db7e95be4903.jpg?1594736817" width="300"/></a>
 <a href="https://scryfall.com/card/znr/172/tormenting-voice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268" width="300"/></a>
 <a href="https://scryfall.com/card/me2/185/whiteout"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee7bb29a-daf4-42d3-9404-c9f25d72a648.jpg?1562870960" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | 2021-10-09 | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
-| [Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | 2021-10-09 | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
-| [Rakdos TortEx 518.001.Fran Blanco](https://www.mtggoldfish.com/deck/4351049) | 2021-10-08 | Iconic Masters | 2017-11-17 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Rakdos TortEx 683.002.Shika93](https://www.mtggoldfish.com/deck/4351759) | 2021-10-09   | Adventures in the Forgotten Realms              | 2021-07-23   | ✅     |
+| [Rakdos TortEx 683.001.Shika93](https://www.mtggoldfish.com/deck/4351758) | 2021-10-09   | Adventures in the Forgotten Realms              | 2021-07-23   | ✅     |
+| [Rakdos TortEx 518.001.Fran Blanco](https://www.mtggoldfish.com/deck/4351049) | 2021-10-08   | Iconic Masters                                  | 2017-11-17   | ✅     |
 
 

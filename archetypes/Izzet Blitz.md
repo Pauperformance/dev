@@ -22,9 +22,7 @@
 <a href="https://scryfall.com/card/c21/125/ponder"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cee2eb1-f60e-4626-ba4a-b543142ca950.jpg?1617910474" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/84/preordain"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/1453f92e-df2d-4789-aa1b-a5b5c51567d4.jpg?1608909344" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/417/temur-battle-rage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d344f38d-0ef2-434b-914c-934c639e7e18.jpg?1608912292" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -37,15 +35,13 @@
 <a href="https://scryfall.com/card/ogw/47/slip-through-space"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/d/2dee6dca-9c7e-4347-bea7-7fecc69e5827.jpg?1562904364" width="300"/></a>
 <a href="https://scryfall.com/card/xln/81/spell-pierce"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6bf4dfc0-c58b-4535-b660-54ceaa6e0217.jpg?1562557054" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/66/vapor-snag"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59f26d0a-e9f3-442f-b5c6-8016cf736432.jpg?1562262639" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | 2021-10-08 | Treasure Chest | 2016-11-16 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | 2021-10-08   | Treasure Chest                                  | 2016-11-16   | Ban 🔨 |
 
 

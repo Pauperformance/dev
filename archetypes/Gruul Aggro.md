@@ -12,22 +12,18 @@
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Gruul Aggro 501.001.Shika93](https://www.mtggoldfish.com/deck/4351743) | 2021-10-09 | Hour of Devastation | 2017-07-14 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Gruul Aggro 501.001.Shika93](https://www.mtggoldfish.com/deck/4351743) | 2021-10-09   | Hour of Devastation                             | 2017-07-14   | ✅     |
 
 

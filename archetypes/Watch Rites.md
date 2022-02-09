@@ -21,9 +21,7 @@
 <a href="https://scryfall.com/card/mm2/159/scatter-the-seeds"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b28c2a8-ee7d-4eea-8046-a47e81ddd28d.jpg?1562263313" width="300"/></a>
 <a href="https://scryfall.com/card/fut/138/sprout-swarm"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/b/0b915355-4e98-44df-81bd-961a3d3c86b8.jpg?1562897338" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/435/sylvan-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -39,17 +37,15 @@
 <a href="https://scryfall.com/card/a25/186/rancor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" width="300"/></a>
 <a href="https://scryfall.com/card/tpr/231/skyshaper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bfebe9f6-9915-47d2-8565-ca9132ee29ff.jpg?1562431290" width="300"/></a>
 <a href="https://scryfall.com/card/xln/81/spell-pierce"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6bf4dfc0-c58b-4535-b660-54ceaa6e0217.jpg?1562557054" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
-| [Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
-| [Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | 2021-10-08 | Fate Reforged | 2015-01-23 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
+| [Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | 2021-10-09   | Modern Masters 2017                             | 2017-03-17   | Ban 🔨 |
+| [Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | 2021-10-08   | Fate Reforged                                   | 2015-01-23   | ✅     |
 
 
 

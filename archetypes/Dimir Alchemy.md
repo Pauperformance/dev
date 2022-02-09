@@ -21,9 +21,7 @@
 <a href="https://scryfall.com/card/cma/58/evincars-justice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0fffc6-4395-441e-95a9-c9cf33af7907.jpg?1592672652" width="300"/></a>
 <a href="https://scryfall.com/card/uma/56/forbidden-alchemy"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e70dcc0d-aaa2-4815-be83-daafe441ceb4.jpg?1547516271" width="300"/></a>
 <a href="https://scryfall.com/card/uma/102/gurmag-angler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/cedd44eb-f381-46e1-bcb0-88416b4ce33d.jpg?1547516928" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -43,16 +41,14 @@
 <a href="https://scryfall.com/card/znc/100/soul-manipulation"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/c/8c052464-0e9c-4ac6-af50-ef81711972c8.jpg?1604195253" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/92/think-twice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/0/50e1d85b-f094-40e2-8811-640076d7d546.jpg?1619394830" width="300"/></a>
 <a href="https://scryfall.com/card/ema/109/tragic-slip"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3140bf5-9846-47ae-8142-b013aac14609.jpg?1580014388" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Dimir Alchemy 612.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351767) | 2021-10-09 | Theros Beyond Death | 2020-01-24 | ✅ |
-| [Dimir Alchemy 560.001.Simone Capuzzi](https://www.mtggoldfish.com/deck/4351083) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
-| [Dimir Alchemy 529.001.The Professor (Brian Lewis)](https://www.mtggoldfish.com/deck/4351133) | 2021-10-08 | Rivals of Ixalan | 2018-01-19 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Dimir Alchemy 612.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351767) | 2021-10-09   | Theros Beyond Death                             | 2020-01-24   | ✅     |
+| [Dimir Alchemy 560.001.Simone Capuzzi](https://www.mtggoldfish.com/deck/4351083) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
+| [Dimir Alchemy 529.001.The Professor (Brian Lewis)](https://www.mtggoldfish.com/deck/4351133) | 2021-10-08   | Rivals of Ixalan                                | 2018-01-19   | ✅     |
 
 

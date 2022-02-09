@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/a25/34/squadron-hawk"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e81806d-5d87-4032-ad94-c2cdeabecdbf.jpg?1562439058" width="300"/></a>
 <a href="https://scryfall.com/card/som/209/sylvok-lifestaff"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/abbc5ae5-8e8b-4106-844f-2d49d2a51ed9.jpg?1562821604" width="300"/></a>
 <a href="https://scryfall.com/card/ddu/41/trinket-mage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a7800f7-95cd-4f5c-b054-4afad8924367.jpg?1561759331" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -41,16 +39,14 @@
 <a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/106/warden-of-evos-isle"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6bfc5cef-aa9b-45d4-a9c3-4b157e4ed193.jpg?1608909550" width="300"/></a>
 <a href="https://scryfall.com/card/jud/57/wormfang-drake"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b6afd312-6448-4bd1-8539-0910cefead0d.jpg?1562631614" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | 2021-10-08 | Rivals of Ixalan | 2018-01-19 | ✅ |
-| [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | 2021-10-08 | Amonkhet | 2017-04-28 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | 2021-10-08   | Rivals of Ixalan                                | 2018-01-19   | ✅     |
+| [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | 2021-10-08   | Amonkhet                                        | 2017-04-28   | ✅     |
 
 
 

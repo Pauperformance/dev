@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/m14/189/predatory-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/2/a2e37de8-66a1-4afa-aa6f-1151f849dfa8.jpg?1562833161" width="300"/></a>
 <a href="https://scryfall.com/card/m14/157/striking-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4ee9254b-3d98-4477-a82e-1450cf3ee96e.jpg?1562829076" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/246/virulent-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5082a2a-e8b1-4799-ad29-a632d95ae1da.jpg?1619403749" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -37,16 +35,14 @@
 <a href="https://scryfall.com/card/tsr/230/spinneret-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f86e30d-d9e8-48f7-8bd1-f2645f0ab3f4.jpg?1619398674" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/235/universal-automaton"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/3/53c682e2-c90f-4f4b-9010-00b099e85518.jpg?1592137189" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/193/winding-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e5d9776-b6ce-4ad6-8acc-69115ba5de76.jpg?1562202277" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | 2021-10-08 | Core Set 2020 | 2019-07-12 | ✅ |
-| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | 2021-10-08   | Core Set 2020                                   | 2019-07-12   | ✅     |
+| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
 
 

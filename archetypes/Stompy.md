@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/a25/186/rancor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/168/vines-of-vastwood"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/6203e3d4-8998-41d6-9f7e-b68af0f1f8b5.jpg?1562263070" width="300"/></a>
 <a href="https://scryfall.com/card/dka/134/young-wolf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -36,15 +34,13 @@
 <a href="https://scryfall.com/card/dds/50/skarrgan-pit-skulk"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/30991c55-f39d-41f3-b584-f535f5f70f5a.jpg?1592761812" width="300"/></a>
 <a href="https://scryfall.com/card/mm3/136/slaughterhorn"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4010a419-8291-4c8b-8cda-38c35fbd7b88.jpg?1593813908" width="300"/></a>
 <a href="https://scryfall.com/card/nph/76/vault-skirge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | 2021-10-09 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | 2021-10-09   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | 2021-10-09   | Dominaria                                       | 2018-04-27   | ✅     |
 
 

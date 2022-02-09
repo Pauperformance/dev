@@ -25,9 +25,7 @@
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
 <a href="https://scryfall.com/card/me2/184/tinder-wall"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1e62598f-0a91-4cfd-9a28-c3bda61c9ead.jpg?1562867846" width="300"/></a>
 <a href="https://scryfall.com/card/gpt/149/wild-cantor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1593272918" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -48,17 +46,15 @@
 <a href="https://scryfall.com/card/tsr/130/pit-keeper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5f731d16-d969-40a8-a002-4d40eb8f6bac.jpg?1619395876" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/291/springleaf-drum"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f3b3869b-6da1-4b01-a2e7-2018d478b6e5.jpg?1599709959" width="300"/></a>
 <a href="https://scryfall.com/card/scg/132/wirewood-guardian"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e8676b1f-e37c-4ae1-9dbe-d000369fa422.jpg?1562536268" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
-| [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | 2021-10-08 | Dominaria | 2018-04-27 | Ban 🔨 |
-| [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | 2021-10-08 | Modern Masters 2015 | 2015-05-22 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
+| [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | 2021-10-08   | Dominaria                                       | 2018-04-27   | Ban 🔨 |
+| [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | 2021-10-08   | Modern Masters 2015                             | 2015-05-22   | Ban 🔨 |
 
 
 

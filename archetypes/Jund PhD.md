@@ -23,24 +23,20 @@
 <a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
 <a href="https://scryfall.com/card/khm/192/sarulfs-packmate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/6061113e-7dd8-4739-b4dd-55bb7f9e39a2.jpg?1614989599" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
-| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
-| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
+| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
+| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
 
 

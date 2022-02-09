@@ -24,9 +24,7 @@
 <a href="https://scryfall.com/card/c21/179/seething-song"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/4/f493ce26-005c-4ddc-80f0-47bea4fd013a.jpg?1617911018" width="300"/></a>
 <a href="https://scryfall.com/card/me2/184/tinder-wall"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1e62598f-0a91-4cfd-9a28-c3bda61c9ead.jpg?1562867846" width="300"/></a>
 <a href="https://scryfall.com/card/gpt/149/wild-cantor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1593272918" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -38,16 +36,14 @@
 <a href="https://scryfall.com/card/uma/127/desperate-ritual"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/3825b85d-07df-43b9-a8d8-930863262d83.jpg?1547517210" width="300"/></a>
 <a href="https://scryfall.com/card/ema/100/nights-whisper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4638720-a55d-4c3b-b57d-2d028db5894d.jpg?1580014319" width="300"/></a>
 <a href="https://scryfall.com/card/ths/174/satyr-hedonist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c67e15-833c-406a-b75f-8de97fbacf5a.jpg?1562821024" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | 2021-10-08   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
+| [Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | 2021-10-08   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
+| [Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | 2021-10-08   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
 
 

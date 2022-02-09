@@ -18,9 +18,7 @@
 <a href="https://scryfall.com/card/mh1/101/putrid-goblin"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/3/333406d5-abcc-4629-a33b-395d0662ba1b.jpg?1562201696" width="300"/></a>
 <a href="https://scryfall.com/card/dom/144/skirk-prospector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/6/1636d138-aa63-476f-a930-41b1be988032.jpg?1562731846" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/113/unearth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -42,16 +40,14 @@
 <a href="https://scryfall.com/card/evg/49/skirk-drill-sergeant"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/da50d139-bf87-4fae-a41a-d2c343b7992b.jpg?1562938905" width="300"/></a>
 <a href="https://scryfall.com/card/ons/235/sparksmith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15a4460d-3fe8-4b1f-9990-0a19c3345367.jpg?1562900172" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
 
 

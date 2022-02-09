@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/khc/43/sea-gate-oracle"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/498743ce-0ca5-488a-ae5e-d348b274bf3b.jpg?1620529675" width="300"/></a>
 <a href="https://scryfall.com/card/dds/10/snap"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/1959f078-4b7b-4df2-a256-d43b2d97e853.jpg?1592761565" width="300"/></a>
 <a href="https://scryfall.com/card/pls/17/sunscape-familiar"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/9621f341-bf85-4b77-bf19-2fb013b4c955.jpg?1562926745" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -45,18 +43,16 @@
 <a href="https://scryfall.com/card/scg/72/reaping-the-graves"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/760a66bd-2821-4710-8f02-3c30772dd884.jpg?1562530700" width="300"/></a>
 <a href="https://scryfall.com/card/shm/175/scarscale-ritual"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/71d3f64a-ffb9-4f66-91c0-463b5d2d381b.jpg?1562831612" width="300"/></a>
 <a href="https://scryfall.com/card/gvl/20/serrated-arrows"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/1519b17c-9003-43e0-958f-1fcd20ab2d70.jpg?1562900072" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | 2021-10-08 | Masters 25 | 2018-03-16 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | 2021-10-08   | Masters 25                                      | 2018-03-16   | Ban 🔨 |
 
 
 

@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/cmr/84/preordain"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/1453f92e-df2d-4789-aa1b-a5b5c51567d4.jpg?1608909344" width="300"/></a>
 <a href="https://scryfall.com/card/csp/97/skred"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b3d6d42a-7607-4361-acc4-7f3cb956bfc9.jpg?1593275323" width="300"/></a>
 <a href="https://scryfall.com/card/mma/65/spellstutter-sprite"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/3899605d-2203-4ab6-9ff5-69490382eea4.jpg?1561966876" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -38,17 +36,15 @@
 <a href="https://scryfall.com/card/mh2/290/fire-ice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1633332980" width="300"/></a>
 <a href="https://scryfall.com/card/jvc/27/gush"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d4a3a921-3b7f-474c-b8c3-67a1a6ba5cc1.jpg?1562378488" width="300"/></a>
 <a href="https://scryfall.com/card/c21/125/ponder"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/c/9cee2eb1-f60e-4626-ba4a-b543142ca950.jpg?1617910474" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | 2021-10-08 | War of the Spark | 2019-05-03 | Ban 🔨 |
-| [Izzet Faeries 584.001.Mengucci](https://www.mtggoldfish.com/deck/4351059) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | ✅     |
+| [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | ✅     |
+| [Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | 2021-10-08   | War of the Spark                                | 2019-05-03   | Ban 🔨 |
+| [Izzet Faeries 584.001.Mengucci](https://www.mtggoldfish.com/deck/4351059) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
 
 

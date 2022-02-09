@@ -12,22 +12,18 @@
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | 2021-10-09 | Battlebond | 2018-06-08 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | 2021-10-09   | Battlebond                                      | 2018-06-08   | ✅     |
 
 

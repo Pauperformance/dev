@@ -22,9 +22,7 @@
 <a href="https://scryfall.com/card/tsr/184/rift-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a3459a44-0c26-4ee1-ad7f-67be7cd7d80a.jpg?1619397474" width="300"/></a>
 <a href="https://scryfall.com/card/ddi/67/searing-blaze"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f659d464-13dd-49e2-a842-098dcba49659.jpg?1581708594" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/365/thermo-alchemist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b37c1b56-621a-4908-89b2-21622d195223.jpg?1601078635" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -32,16 +30,14 @@
   <summary>Click here to expand</summary>
 <a href="https://scryfall.com/card/mh2/278/flame-rift"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/6/e63ed449-d249-4639-85d2-f8fe75496d5c.jpg?1622389933" width="300"/></a>
 <a href="https://scryfall.com/card/rna/115/skewer-the-critics"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97295660-6bea-46ae-9a3b-0fc6abba407f.jpg?1584831035" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | 2021-10-09 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | ✅     |
+| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | 2021-10-09   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
 
 

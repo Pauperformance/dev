@@ -20,9 +20,7 @@
 <a href="https://scryfall.com/card/tsr/76/mystical-teachings"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1619394406" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/c21/202/pulse-of-murasa"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b9f8f4-d704-4f16-8495-cf8185285859.jpg?1618251902" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -54,19 +52,17 @@
 <a href="https://scryfall.com/card/uma/8/ulamogs-crusher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.jpg?1547515341" width="300"/></a>
 <a href="https://scryfall.com/card/dom/72/unwind"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97da6607-9131-4f8b-8af3-63439a59b78b.jpg?1562739909" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/191/weather-the-storm"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6a9fa51-78c3-42e6-8c2e-39658f59ed87.jpg?1562202265" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | 2021-10-08 | Commander Legends | 2020-11-20 | Ban 🔨 |
-| [Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
-| [Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
-| [Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
-| [Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | Ban 🔨 |
-| [Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Flicker Tron 651.001.Milkk](https://www.mtggoldfish.com/deck/4351122) | 2021-10-08   | Commander Legends                               | 2020-11-20   | Ban 🔨 |
+| [Flicker Tron 612.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351075) | 2021-10-08   | Theros Beyond Death                             | 2020-01-24   | Ban 🔨 |
+| [Flicker Tron 576.001.Patrick](https://www.mtggoldfish.com/deck/4351070) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | Ban 🔨 |
+| [Flicker Tron 576.001.Mathonical](https://www.mtggoldfish.com/deck/4351069) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | Ban 🔨 |
+| [Flicker Tron 576.001.Birbman263](https://www.mtggoldfish.com/deck/4351068) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | Ban 🔨 |
+| [Flicker Tron 560.001.Birbman263](https://www.mtggoldfish.com/deck/4351051) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | Ban 🔨 |
 
 

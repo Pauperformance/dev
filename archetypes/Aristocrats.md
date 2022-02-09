@@ -18,9 +18,7 @@
 <a href="https://scryfall.com/card/a25/186/rancor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/113/unearth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767" width="300"/></a>
 <a href="https://scryfall.com/card/dka/134/young-wolf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -40,15 +38,13 @@
 <a href="https://scryfall.com/card/mh2/95/nested-shambler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/9851f290-f502-49f8-9b48-67f7966d4e34.jpg?1622651477" width="300"/></a>
 <a href="https://scryfall.com/card/ema/109/tragic-slip"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3140bf5-9846-47ae-8142-b013aac14609.jpg?1580014388" width="300"/></a>
 <a href="https://scryfall.com/card/khm/117/village-rites"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1621304677" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | 2021-10-09 | Hour of Devastation | 2017-07-14 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | ✅     |
+| [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | 2021-10-09   | Hour of Devastation                             | 2017-07-14   | ✅     |
 
 

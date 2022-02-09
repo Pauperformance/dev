@@ -16,9 +16,7 @@
 <a href="https://scryfall.com/card/zen/125/goblin-bushwhacker"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4085a5bf-a71b-4c73-9b39-0dcc328fe11b.jpg?1562611583" width="300"/></a>
 <a href="https://scryfall.com/card/ddt/45/goblin-grenade"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/0/b0e0ef27-3db2-4976-b9db-13e3d7cd795d.jpg?1592764817" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -46,16 +44,14 @@
 <a href="https://scryfall.com/card/vma/182/rites-of-initiation"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/1/f17d9c60-5f81-4b65-8af1-9c5bb757bd7d.jpg?1562943547" width="300"/></a>
 <a href="https://scryfall.com/card/ons/235/sparksmith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15a4460d-3fe8-4b1f-9990-0a19c3345367.jpg?1562900172" width="300"/></a>
 <a href="https://scryfall.com/card/ktk/125/valley-dasher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/5/8543adbd-0dd1-47d3-ac41-2ec72d6a5d35.jpg?1562789625" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
 
 

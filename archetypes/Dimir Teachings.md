@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/jmp/152/exclude"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/1455f59e-f487-4195-ab25-8fc7695903e4.jpg?1600724914" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/76/mystical-teachings"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1619394406" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/64/prohibit"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0ae544bf-7229-4b82-99ad-32c3af36e30f.jpg?1562201457" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -54,16 +52,14 @@
 <a href="https://scryfall.com/card/mm3/52/spire-monitor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/3/f30ed6e1-d713-40ae-81f6-d2d66914bbb9.jpg?1593813152" width="300"/></a>
 <a href="https://scryfall.com/card/ema/109/tragic-slip"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3140bf5-9846-47ae-8142-b013aac14609.jpg?1580014388" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/111/twisted-abomination"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ffae38ec-7712-4701-b072-9f962ec9c259.jpg?1599706072" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
-| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08   | Oath of the Gatewatch                           | 2016-01-22   | ✅     |
+| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08   | Oath of the Gatewatch                           | 2016-01-22   | ✅     |
 
 
 

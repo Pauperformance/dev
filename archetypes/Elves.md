@@ -28,24 +28,20 @@
 <a href="https://scryfall.com/card/khc/76/timberwatch-elf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38807f17-1cf2-4736-ad10-df6c8b1a9f55.jpg?1620530473" width="300"/></a>
 <a href="https://scryfall.com/card/mrd/270/viridian-longbow"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be892d73-d1f4-4c36-b674-01ae21ff1484.jpg?1562156693" width="300"/></a>
 <a href="https://scryfall.com/card/cma/166/wellwisher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/19dbbecb-b4d0-49d2-b36e-58279e051c5c.jpg?1592673305" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
 <a href="https://scryfall.com/card/cma/106/essence-warden"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31ca84d1-30a6-432b-966c-089fb6652a89.jpg?1592672942" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
-| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅     |
+| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
 
 

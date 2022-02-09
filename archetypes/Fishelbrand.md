@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/2xm/208/manamorphose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/a/faf9070e-14be-4ce5-a19a-6addc79359c1.jpg?1599708170" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/66/rush-of-knowledge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccca07a9-5c24-490f-8871-b125cb337e2c.jpg?1598304240" width="300"/></a>
 <a href="https://scryfall.com/card/ktk/89/shambling-attendants"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/5/459ca25c-775f-4110-8d70-59720692ab27.jpg?1562785839" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -44,16 +42,14 @@
 <a href="https://scryfall.com/card/c21/129/serum-visions"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/b/fbff5161-ed36-429a-b06a-a1c5a6afd9bc.jpg?1617910503" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/191/weather-the-storm"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/6/f6a9fa51-78c3-42e6-8c2e-39658f59ed87.jpg?1562202265" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| [Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
 
 

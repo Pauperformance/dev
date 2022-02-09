@@ -15,9 +15,7 @@
 <a href="https://scryfall.com/card/c18/139/dawns-reflection"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/3/1366d406-4539-408f-93c1-f940327c1ba2.jpg?1592710857" width="300"/></a>
 <a href="https://scryfall.com/card/jou/130/market-festival"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3a70329-ecae-4647-b912-75d936a6c8c5.jpg?1593096239" width="300"/></a>
 <a href="https://scryfall.com/card/chk/80/psychic-puppetry"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e341d6b-f4b0-4347-8055-f5fab756334c.jpg?1562762997" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -43,15 +41,13 @@
 <a href="https://scryfall.com/card/mh1/71/stream-of-thought"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/b/8b75bef5-a039-4edf-8e43-56b8d089605e.jpg?1562201515" width="300"/></a>
 <a href="https://scryfall.com/card/apc/125/temporal-spring"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b584dfd1-a56c-406e-8504-47ea136dc102.jpg?1562937762" width="300"/></a>
 <a href="https://scryfall.com/card/con/56/wretched-banquet"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3bdaf55b-2de3-4c8a-90ae-9c88c9d00fd7.jpg?1562800483" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
 
 

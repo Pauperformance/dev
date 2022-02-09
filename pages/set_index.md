@@ -632,7 +632,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 615       | und           | Unsanctioned                                    | 2020-02-29   |
 | 616       | fmb1          | Mystery Booster Retail Edition Foils            | 2020-03-08   |
 | 617       | ha2           | Historic Anthology 2                            | 2020-03-12   |
-| **618**   | **c20**       | **Commander 2020**                              | **2020-04-17** |
+| 618       | c20           | Commander 2020                                  | 2020-04-17   |
 | 619       | oc20          | Commander 2020 Oversized                        | 2020-04-17   |
 | 620       | pc20          | Commander 2020 Promos                           | 2020-04-17   |
 | 621       | tc20          | Commander 2020 Tokens                           | 2020-04-17   |
@@ -663,7 +663,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 646       | znc           | Zendikar Rising Commander                       | 2020-09-25   |
 | 647       | zne           | Zendikar Rising Expeditions                     | 2020-09-25   |
 | **648**   | **znr**       | **Zendikar Rising**                             | **2020-09-25** |
-| **649**   | **plist**     | **The List**                                    | **2020-09-26** |
+| 649       | plist         | The List                                        | 2020-09-26   |
 | 650       | klr           | Kaladesh Remastered                             | 2020-11-12   |
 | **651**   | **cmr**       | **Commander Legends**                           | **2020-11-20** |
 | 652       | tcmr          | Commander Legends Tokens                        | 2020-11-20   |
@@ -715,7 +715,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 698       | smid          | Innistrad: Midnight Hunt Substitute Cards       | 2021-09-24   |
 | 699       | tmic          | Midnight Hunt Commander Tokens                  | 2021-09-24   |
 | 700       | tmid          | Innistrad: Midnight Hunt Tokens                 | 2021-09-24   |
-| 701       | vow           | Innistrad: Crimson Vow                          | 2021-11-19   |
+| **701**   | **vow**       | **Innistrad: Crimson Vow**                      | **2021-11-19** |
 | 702       | cc2           | Commander Collection: Black                     | 2021-12-31   |
 | 703       | q06           | Pioneer Challenge Decks 2021                    | 2021-10-15   |
 | 704       | pw09          | Wizards Play Network 2009                       | 2009-01-01   |
@@ -733,12 +733,13 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 716       | tvow          | Innistrad: Crimson Vow Tokens                   | 2021-11-19   |
 | 717       | voc           | Crimson Vow Commander                           | 2021-11-19   |
 | 718       | y22           | Alchemy: Innistrad                              | 2021-12-09   |
-| **719**   | **dbl**       | **Innistrad: Double Feature**                   | **2022-01-28** |
-| 720       | nec           | Neon Dynasty Commander                          | 2022-02-18   |
-| 721       | neo           | Kamigawa: Neon Dynasty                          | 2022-02-18   |
-| 722       | tnec          | Neon Dynasty Commander Tokens                   | 2022-02-18   |
-| 723       | tneo          | Kamigawa: Neon Dynasty Tokens                   | 2022-02-18   |
-| 724       | pw22          | Wizards Play Network 2022                       | 2022-03-05   |
-| 725       | tunf          | Unfinity Tokens                                 | 2022-04-01   |
-| 726       | unf           | Unfinity                                        | 2022-04-01   |
+| 719       | p22           | Judge Gift Cards 2022                           | 2022-01-01   |
+| 720       | dbl           | Innistrad: Double Feature                       | 2022-01-28   |
+| 721       | nec           | Neon Dynasty Commander                          | 2022-02-18   |
+| 722       | neo           | Kamigawa: Neon Dynasty                          | 2022-02-18   |
+| 723       | tnec          | Neon Dynasty Commander Tokens                   | 2022-02-18   |
+| 724       | tneo          | Kamigawa: Neon Dynasty Tokens                   | 2022-02-18   |
+| 725       | pw22          | Wizards Play Network 2022                       | 2022-03-05   |
+| 726       | tunf          | Unfinity Tokens                                 | 2022-12-31   |
+| 727       | unf           | Unfinity                                        | 2022-12-31   |
 

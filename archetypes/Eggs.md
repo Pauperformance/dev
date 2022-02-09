@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/som/160/golem-foundry"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/c/3cef2e6a-e46b-4425-b507-3213cfd1400c.jpg?1562816635" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -40,17 +38,15 @@
 <a href="https://scryfall.com/card/2xm/283/pyrite-spellbomb"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/088c801d-381f-403b-aeb7-fbbfafee99bf.jpg?1599709775" width="300"/></a>
 <a href="https://scryfall.com/card/kld/126/reckless-fireweaver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/3/63ffac51-62c4-4170-85b3-a43d7cfae7d7.jpg?1576382167" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/488/terrarion"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48eda056-e00f-4e28-ad26-9150a4704d21.jpg?1601081087" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | 2021-10-08 | Masters 25 | 2018-03-16 | Ban 🔨 |
-| [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
-| [Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | 2021-10-08   | Masters 25                                      | 2018-03-16   | Ban 🔨 |
+| [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | 2021-10-09   | Iconic Masters                                  | 2017-11-17   | Ban 🔨 |
+| [Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | 2021-10-09   | Iconic Masters                                  | 2017-11-17   | Ban 🔨 |
 
 
 

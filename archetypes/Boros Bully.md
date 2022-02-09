@@ -19,9 +19,7 @@
 <a href="https://scryfall.com/card/ima/29/seeker-of-the-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52d7aafb-969f-4a39-9af3-125f7f5c99f3.jpg?1562848916" width="300"/></a>
 <a href="https://scryfall.com/card/a25/34/squadron-hawk"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e81806d-5d87-4032-ad94-c2cdeabecdbf.jpg?1562439058" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -38,16 +36,14 @@
 <a href="https://scryfall.com/card/jvc/50/seal-of-fire"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/210f4f5a-4a36-4f2f-8821-d04f3f52c8db.jpg?1562378226" width="300"/></a>
 <a href="https://scryfall.com/card/stx/243/thrilling-discovery"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/bac1f45e-1884-490e-a94f-f7d312f0e229.jpg?1624740310" width="300"/></a>
 <a href="https://scryfall.com/card/znr/172/tormenting-voice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
+| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅     |
 
 

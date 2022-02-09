@@ -12,22 +12,18 @@
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Orzhov Pestilence 584.001.Shika93](https://www.mtggoldfish.com/deck/4351746) | 2021-10-09 | War of the Spark | 2019-05-03 | ✅ |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Orzhov Pestilence 584.001.Shika93](https://www.mtggoldfish.com/deck/4351746) | 2021-10-09   | War of the Spark                                | 2019-05-03   | ✅     |
 
 

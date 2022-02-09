@@ -23,9 +23,7 @@
 <a href="https://scryfall.com/card/khc/42/mulldrifter"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/4/345fd005-5052-4500-a260-3649500e21f4.jpg?1620529648" width="300"/></a>
 <a href="https://scryfall.com/card/c21/202/pulse-of-murasa"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b9f8f4-d704-4f16-8495-cf8185285859.jpg?1618251902" width="300"/></a>
 <a href="https://scryfall.com/card/khm/192/sarulfs-packmate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/6061113e-7dd8-4739-b4dd-55bb7f9e39a2.jpg?1614989599" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Frequent cards**
 
@@ -35,15 +33,13 @@
 <a href="https://scryfall.com/card/mid/128/ardent-elementalist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/5/f58592f7-1df5-428d-9dde-e6acd9a5d1d5.jpg?1631298072" width="300"/></a>
 <a href="https://scryfall.com/card/c20/67/bonders-ornament"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/a/5afe425c-50a7-4d29-ac14-0edb094fc770.jpg?1594696192" width="300"/></a>
 <a href="https://scryfall.com/card/m21/193/llanowar-visionary"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.jpg?1594737093" width="300"/></a>
-
-</details>
-
+</details><br/>
 
 ## **Decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
-| [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | Ban 🔨 |
+| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
+| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
+| [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | 2021-10-10   | Innistrad: Midnight Hunt                        | 2021-09-24   | ✅     |
+| [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | 2021-10-10   | Innistrad: Midnight Hunt                        | 2021-09-24   | Ban 🔨 |
 
 
