@@ -10,10 +10,18 @@
 
 ## **Staples**
 
+<details>
+  <summary>Click here to expand</summary>
+
+</details>
 
 
 ## **Frequent cards**
 
+<details>
+  <summary>Click here to expand</summary>
+
+</details>
 
 
 ## **Decks**
