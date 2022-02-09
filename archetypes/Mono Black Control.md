@@ -42,12 +42,12 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | 2021-10-09   | Theros Beyond Death                             | 2020-01-24   | ✅     |
-| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | 2021-10-09   | Commander 2019                                  | 2019-08-23   | ✅     |
-| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | 2021-10-09   | Commander 2019                                  | 2019-08-23   | ✅     |
-| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | 2021-10-09   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | 2021-10-09   | Dominaria                                       | 2018-04-27   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | 2021-10-09 | Theros Beyond Death | 2020-01-24 | ✅ |
+| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
+| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
+| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | 2021-10-09 | War of the Spark | 2019-05-03 | ✅ |
+| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
 
 

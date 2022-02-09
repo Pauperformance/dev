@@ -39,10 +39,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
-| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | 2021-10-08   | Core Set 2020                                   | 2019-07-12   | ✅     |
-| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | 2021-10-08 | Core Set 2020 | 2019-07-12 | ✅ |
+| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
 
 

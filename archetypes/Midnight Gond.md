@@ -34,10 +34,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08   | Modern Masters 2017                             | 2017-03-17   | ✅     |
-| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08   | Modern Masters 2017                             | 2017-03-17   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
 
 
 

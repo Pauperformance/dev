@@ -34,10 +34,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | ✅     |
-| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | 2021-10-09   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | 2021-10-09 | Guilds of Ravnica | 2018-10-05 | ✅ |
 
 

@@ -33,10 +33,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
-| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
-| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
 
 

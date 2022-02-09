@@ -56,10 +56,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08   | Oath of the Gatewatch                           | 2016-01-22   | ✅     |
-| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08   | Oath of the Gatewatch                           | 2016-01-22   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
+| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
 
 
 

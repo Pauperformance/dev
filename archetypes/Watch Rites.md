@@ -41,11 +41,11 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
-| [Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | 2021-10-09   | Modern Masters 2017                             | 2017-03-17   | Ban 🔨 |
-| [Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | 2021-10-08   | Fate Reforged                                   | 2015-01-23   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Watch Rites 560.001.Leonardo Borghi](https://www.mtggoldfish.com/deck/4351081) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| [Watch Rites 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4352004) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+| [Watch Rites 424.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351141) | 2021-10-08 | Fate Reforged | 2015-01-23 | ✅ |
 
 
 

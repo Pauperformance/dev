@@ -22,8 +22,8 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Rakdos Control 540.001.Bruno dos Santos Silva](https://www.mtggoldfish.com/deck/4351050) | 2021-10-08   | Battlebond                                      | 2018-06-08   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Rakdos Control 540.001.Bruno dos Santos Silva](https://www.mtggoldfish.com/deck/4351050) | 2021-10-08 | Battlebond | 2018-06-08 | ✅ |
 
 

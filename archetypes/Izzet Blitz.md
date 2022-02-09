@@ -39,9 +39,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | 2021-10-08   | Treasure Chest                                  | 2016-11-16   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | 2021-10-08 | Treasure Chest | 2016-11-16 | Ban 🔨 |
 
 

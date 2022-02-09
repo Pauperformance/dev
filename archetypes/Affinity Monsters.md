@@ -43,12 +43,12 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
-| [Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
-| [Affinity Monsters 676.001.Shika93](https://www.mtggoldfish.com/deck/4351734) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
-| [Affinity Monsters 600.001.Shika93](https://www.mtggoldfish.com/deck/4351749) | 2021-10-09   | Throne of Eldraine                              | 2019-10-04   | Ban 🔨 |
-| [Affinity Monsters 590.001.Shika93](https://www.mtggoldfish.com/deck/4351752) | 2021-10-09   | Core Set 2020                                   | 2019-07-12   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 676.001.Shika93](https://www.mtggoldfish.com/deck/4351734) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 600.001.Shika93](https://www.mtggoldfish.com/deck/4351749) | 2021-10-09 | Throne of Eldraine | 2019-10-04 | Ban 🔨 |
+| [Affinity Monsters 590.001.Shika93](https://www.mtggoldfish.com/deck/4351752) | 2021-10-09 | Core Set 2020 | 2019-07-12 | Ban 🔨 |
 
 

@@ -40,10 +40,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
-| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
-| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
 
 

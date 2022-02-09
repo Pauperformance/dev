@@ -39,9 +39,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅     |
-| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
+| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
 
 

@@ -35,9 +35,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | 2021-10-08   | Theros Beyond Death                             | 2020-01-24   | Ban 🔨 |
-| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | 2021-10-17   | Theros Beyond Death                             | 2020-01-24   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | 2021-10-17 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
 
 

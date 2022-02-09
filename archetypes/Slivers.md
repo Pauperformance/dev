@@ -22,8 +22,8 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Slivers 600.001.HANSDAMPF](https://www.mtggoldfish.com/deck/4351097) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Slivers 600.001.HANSDAMPF](https://www.mtggoldfish.com/deck/4351097) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
 
 

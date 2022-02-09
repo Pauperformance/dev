@@ -44,10 +44,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | Ban 🔨 |
-| [Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | Ban 🔨 |
-| [Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | 2021-10-08   | Guilds of Ravnica                               | 2018-10-05   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Boros Monarch 658.001.Rsousa](https://www.mtggoldfish.com/deck/4351119) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
+| [Boros Monarch 658.001.Chronicle](https://www.mtggoldfish.com/deck/4351120) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
+| [Boros Monarch 560.001.Thraben27](https://www.mtggoldfish.com/deck/4351053) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | Ban 🔨 |
 
 

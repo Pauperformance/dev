@@ -45,10 +45,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
-| [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | 2021-10-08   | Theros Beyond Death                             | 2020-01-24   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Walls 658.001.Mathonical](https://www.mtggoldfish.com/deck/4351126) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+| [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | ✅ |
 
 
 

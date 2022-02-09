@@ -45,9 +45,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | 2021-10-08   | Strixhaven: School of Mages                     | 2021-04-23   | ✅     |
-| [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
 
 

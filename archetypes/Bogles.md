@@ -41,11 +41,11 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | 2021-10-08   | Zendikar Rising                                 | 2020-09-25   | ✅     |
-| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | 2021-10-08   | Commander 2019                                  | 2019-08-23   | Ban 🔨 |
-| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | 2021-10-08 | Zendikar Rising | 2020-09-25 | ✅ |
+| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | 2021-10-08 | Commander 2019 | 2019-08-23 | Ban 🔨 |
+| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
 
 

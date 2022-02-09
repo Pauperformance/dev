@@ -22,8 +22,8 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
 
 

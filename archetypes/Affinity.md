@@ -45,10 +45,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
-| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | 2021-10-09   | Modern Horizons 2                               | 2021-06-18   | Ban 🔨 |
-| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | 2021-10-09   | Hour of Devastation                             | 2017-07-14   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | 2021-10-09 | Hour of Devastation | 2017-07-14 | Ban 🔨 |
 
 

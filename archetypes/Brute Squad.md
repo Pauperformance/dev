@@ -22,9 +22,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | 2021-10-08   | Kaldheim                                        | 2021-02-05   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
 
 
 

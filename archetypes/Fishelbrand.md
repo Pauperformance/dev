@@ -46,10 +46,10 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
-| [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
-| [Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | 2021-10-08   | Throne of Eldraine                              | 2019-10-04   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
 
 

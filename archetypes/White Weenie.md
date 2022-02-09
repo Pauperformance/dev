@@ -22,9 +22,9 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | 2021-10-08   | Commander 2015                                  | 2015-11-13   | ✅     |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | 2021-10-08 | Commander 2015 | 2015-11-13 | ✅ |
 
 
 

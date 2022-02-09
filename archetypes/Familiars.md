@@ -47,12 +47,12 @@
 
 ## **Decks**
 
-| Name                                           | Upload date  | Set name                                        | Set date     | Legal |
-| -----------------------------------------------| ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | 2021-10-08   | War of the Spark                                | 2019-05-03   | ✅     |
-| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | 2021-10-08   | Masters 25                                      | 2018-03-16   | Ban 🔨 |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | 2021-10-08 | Masters 25 | 2018-03-16 | Ban 🔨 |
 
 
 

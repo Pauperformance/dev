@@ -44,9 +44,9 @@
 
 ## **Decks**
 
-| Name                                                                                      | Upload date  | Set name                                        | Set date     | Legal |
-| ----------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------- | ------------ | ----- |
-| [Acid Trip 576.001.anynewprovince             ](https://www.mtggoldfish.com/deck/4351102) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅    |
-| [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | 2021-10-08   | Ravnica Allegiance                              | 2019-01-25   | ✅    |
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
+| [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
 
 
