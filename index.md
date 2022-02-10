@@ -10,6 +10,10 @@ layout: default
 
 [Format Timeline](./pages/format_timeline.html).
 
+[FAQs](./pages/faq.html).
+
+[Contact](./pages/contact.html).
+
 * * *
 
 [Default index](./default-index.html).
