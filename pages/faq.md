@@ -14,16 +14,14 @@ Table of Contents
 * [What are the next steps?](#what-are-the-next-steps)
 
 ---
-
-[What is Pauperformance?](#what-is-pauperformance)
+### What is Pauperformance?
 
 Pauperformance is a shared journey to optimal [Pauper](https://magic.wizards.com/formats/pauper), a [Magic: The Gathering format](https://magic.wizards.com/).
 
 The project consists of two distinct yet linked parts: the **Academy** and the **Battlefield**.
 
-
 ---
-[What is the Academy?](#what-is-the-academy)
+### What is the Academy?
 
 The Academy is this website.
 It aims to be the online encyclopedia for Pauper, collecting and organising resources for players with varying skill levels.
@@ -34,13 +32,12 @@ They provide information about current and old archetypes, sideboard guides, gam
 To avoid obsolete content, large sections of the website are automatically generated and kept up-to-date by **Myr**, the Pauperformance bot.
 This makes it possible for the Academy to easily follow new Magic releases and events, such as weekly online tournaments.
 
-
 ---
-[What is the Battlefield?](#what-is-the-battlefield)
+### What is the Battlefield?
 
 The Battlefield is where we host our shows.
 
-Live videos are streamed on Twitch at [twitch.tv/pauperformance](https://www.twitch.tv/pauperformance); replays are archived on YouTube at [youtube.com/channel/UCDUiIskNnmuJ3XJ1SdQqs0A](https://www.youtube.com/channel/UCDUiIskNnmuJ3XJ1SdQqs0A).
+Live videos are streamed [here on Twitch](https://www.twitch.tv/pauperformance); replays are archived [here on YouTube](https://www.youtube.com/channel/UCDUiIskNnmuJ3XJ1SdQqs0A).
 
 The primary goal of the channel is to have fun together.
 As a side effect, we also hope to become better Magic players.
@@ -51,18 +48,16 @@ Our goal is to systematically explore the format and test different decks to off
 
 We have a lot of fun while playing together, and we hope it's going to be the same for you!
 
-
 ---
-[Who is Myr?](#who-is-myr)
+### Who is Myr?
 
 Myr is the Pauperformance bot.
 
 It works under the hood to update the Academy and does other magic stuff.
 It is hosted on [GitHub](https://github.com/Pauperformance/pauperformance-bot).
 
-
 ---
-[How can I support Pauperformance?](#how-can-i-support-pauperformance)
+### How can I support Pauperformance?
 
 There are many ways to support the project.
 
@@ -90,9 +85,8 @@ You will probably soon be able to subscribe to Patreon for exclusive content.
 
 Huge thanks for your help!
 
-
 ---
-[Why are you naming decks this way?](#why-are-you-naming-decks-this-way)
+### Why are you naming decks this way?
 
 Pauperformance naming convention for decks lies at the core of the project.
 
@@ -112,7 +106,7 @@ This naming scheme will allow Pauperformance to get a deep understanding of the 
 Please, be patient and trust us.
 
 ---
-[What are the next steps?](#what-are-the-next-steps)
+### What are the next steps?
 
 We have [tons of things to do](https://trello.com/b/EtDX4rhf/roadmap) and it's going to take a while.
 We are sure it's going to be worth it: please, be patient.
@@ -125,4 +119,3 @@ Feel free to immediately contact us if you want to know more about the project.
 We plan to share updates on the status of the project on a bi-weekly basis.
 Follow us for regular updates.
 The journey is long and exciting!
-
