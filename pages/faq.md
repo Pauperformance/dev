@@ -1,8 +1,20 @@
 # FAQs
 
-This page tries to give some answers to the recurring questions about this project.
+This page tries to give some answers to recurring questions about this project.
 
-<hr/>
+---
+Table of Contents
+
+* [What is Pauperformance?](#what-is-pauperformance)
+* [What is the Academy?](#what-is-the-academy)
+* [What is the Battlefield?](#what-is-the-battlefield)
+* [Who is Myr?](#who-is-myr)
+* [How can I support Pauperformance?](#how-can-i-support-pauperformance)
+* [Why are you naming decks this way?](#why-are-you-naming-decks-this-way)
+* [What are the next steps?](#what-are-the-next-steps)
+
+---
+
 [What is Pauperformance?](#what-is-pauperformance)
 
 Pauperformance is a shared journey to optimal [Pauper](https://magic.wizards.com/formats/pauper), a [Magic: The Gathering format](https://magic.wizards.com/).
@@ -10,7 +22,7 @@ Pauperformance is a shared journey to optimal [Pauper](https://magic.wizards.com
 The project consists of two distinct yet linked parts: the **Academy** and the **Battlefield**.
 
 
-<hr/>
+---
 [What is the Academy?](#what-is-the-academy)
 
 The Academy is this website.
@@ -23,7 +35,7 @@ To avoid obsolete content, large sections of the website are automatically gener
 This makes it possible for the Academy to easily follow new Magic releases and events, such as weekly online tournaments.
 
 
-<hr/>
+---
 [What is the Battlefield?](#what-is-the-battlefield)
 
 The Battlefield is where we host our shows.
@@ -37,10 +49,10 @@ We like to play in an unusual, cooperative way.
 It allows us to discuss strategies and share ideas, while making games more engaging for the audience.
 Our goal is to systematically explore the format and test different decks to offer a wide coverage of the meta.
 
-We have a lot of fun while playing together and we hope it's going to be the same for you!
+We have a lot of fun while playing together, and we hope it's going to be the same for you!
 
 
-<hr/>
+---
 [Who is Myr?](#who-is-myr)
 
 Myr is the Pauperformance bot.
@@ -49,7 +61,7 @@ It works under the hood to update the Academy and does other magic stuff.
 It is hosted on [GitHub](https://github.com/Pauperformance/pauperformance-bot).
 
 
-<hr/>
+---
 [How can I support Pauperformance?](#how-can-i-support-pauperformance)
 
 There are many ways to support the project.
@@ -58,6 +70,8 @@ The first and simplest way to support Pauperformance is to follow us/subscribe o
 
 If you are a **Pauper player** and want to help us with the development of the Academy, please join us on [Discord at #feedback](https://discord.gg/2fHG8DTA3R).
 We have a [long roadmap ahead](https://trello.com/b/EtDX4rhf/roadmap) and your support is invaluable.
+We cannot and shouldn't try to address every pending task at the same time.
+On Discord we will be able to coordinate our efforts.
 
 If you are a **content creator** (e.g. Twitch/YouTube streamer, blogger, etc.) we would be happy to link your content in the Academy and hopefully give more visibility to your work.
 Creators that join the Pauperformance network and contribute to the Academy with their work are referred as **PhD** (**Pauper honourable Dignitary**).
@@ -77,17 +91,38 @@ You will probably soon be able to subscribe to Patreon for exclusive content.
 Huge thanks for your help!
 
 
-<hr/>
+---
+[Why are you naming decks this way?](#why-are-you-naming-decks-this-way)
+
+Pauperformance naming convention for decks lies at the core of the project.
+
+Every deck in Pauperformance is uniquely identified by the combination of: `archetype_name`/`magic_set_id`/`revision_id`/`player_id`.
+
+The complete naming scheme is `Archetype_name magic_set_id.revision_id.player_id`.
+Space and dots are relevant.
+
+For example, if the player *MrEvilEye* creates a new *Affinity* deck with the cards available after the release of *Modern Horizons 2 (mh2)*, the deck will be named `Affinity 676.001.MrEvilEye`.
+In this example, `676` is the Pauperformance code associated to mh2 (ref: [Set Index](set_index.html)), while `001` means it's the first list for the deck. 
+Later on, if the player *MrEvilEye* makes a change to the decklist, the new deck will be named `Affinity 676.002.MrEvilEye`. And so on.
+
+The peculiar naming scheme (`Archetype magic_set_id.revision_id.player_id`) makes it possible for Myr to index Pauper content on Internet and automatically link new online resources to the correct archetypes.
+Additionally, several analyses can be also automatically performed, providing insights on the format that cannot be typically found on other popular websites dedicated to Magic.
+
+This naming scheme will allow Pauperformance to get a deep understanding of the format.
+Please, be patient and trust us.
+
+---
 [What are the next steps?](#what-are-the-next-steps)
 
 We have [tons of things to do](https://trello.com/b/EtDX4rhf/roadmap) and it's going to take a while.
 We are sure it's going to be worth it: please, be patient.
 
 Our plan is to include other people in the project.
-We are specifically looking for content creators (streamers, article writers, expert players, etc.), because we wish our Academy could bring more visibility to their awesome work.
+We are specifically looking for content creators (streamers, article writers, expert players, etc.), because we wish the Academy could bring more visibility to their awesome work.
 If you are a creator, there are chances you will be contacted by us in the upcoming weeks/months.
 Feel free to immediately contact us if you want to know more about the project.
 
 We plan to share updates on the status of the project on a bi-weekly basis.
 Follow us for regular updates.
-The journey is long, but we are highly motivated.
+The journey is long and exciting!
+
