@@ -743,4 +743,5 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 725       | pw22          | Wizards Play Network 2022                       | 2022-03-05   |
 | 726       | tunf          | Unfinity Tokens                                 | 2022-12-31   |
 | 727       | unf           | Unfinity                                        | 2022-12-31   |
+| 728       | pl22          | Year of the Tiger 2022                          | 2022-02-25   |
 
