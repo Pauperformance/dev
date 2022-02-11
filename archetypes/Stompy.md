@@ -8,7 +8,7 @@
 **Type**: `Aggro`
 
 **Description**: 
-Stompy is a fast and solid aggro deck, and of the most popular of this type in the format.
+Stompy is a fast and solid aggro deck, and the most popular of this type in the format.
 It takes advantage of cheap and strong creatures, sometimes with [evasion or pseudo-evasion abilities](https://mtg.fandom.com/wiki/Evasion_ability), to immediately put pressure on the board.
 Several efficient pump spells helps Stompy quickly reducing the opponent's life total, allowing players to consistently win games in the fist few turns.
 Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/savage-swipe) from Modern Horizons (mh1) has provided the deck with a powerful option for clearing out blockers while also applying additional pressure.

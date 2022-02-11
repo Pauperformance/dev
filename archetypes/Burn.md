@@ -7,7 +7,12 @@
 
 **Type**: `Aggro`
 
-**Description**: TODO.
+**Description**: 
+Burn is a very aggressive deck trying to optimally chain a series of spells to directly damage the opponent.
+The deck relies on few creatures that often amplify the damage caused by other spells, such as [Thermo-Alchemist](https://scryfall.com/card/mid/164/thermo-alchemist).
+For this reason, they are often played in the early turns of the game.
+Burn looks easy to play, but it requires careful sequencing and sometimes a lot of patience to play around counterspells.
+Tough decisions for Burn players also involve choosing whether to use removals on creatures or directly target the opponent.
 
 ## **Staples**
 
@@ -41,4 +46,11 @@
 | [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
 | [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | 2021-10-09 | Guilds of Ravnica | 2018-10-05 | ✅ |
 
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [A Guide to Mono-Red Burn in Pauper](https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/a-guide-to-mono-red-burn-in-pauper/) | Martin Juza | 2019-11-01   |
 
