@@ -24,7 +24,7 @@ The project consists of two distinct yet linked parts: the **Academy** and the *
 ### What is the Academy?
 
 The Academy is this website.
-It aims to be the online encyclopedia for Pauper, collecting and organising resources for players with varying skill levels.
+It aims to be the online encyclopedia for Pauper, collecting and organising resources for players with different skill levels.
 
 The Academy contains a growing collection of pages, mostly written by the Pauper community.
 They provide information about current and old archetypes, sideboard guides, gameplay videos, meta analysis, and more.

@@ -4,7 +4,7 @@ layout: default
 
 Hello Pauper player, and welcome to the **Academy**!
 
-This website aims to be the online encyclopedia for Pauper, collecting and organising resources for players with varying skill levels.
+This website aims to be the online encyclopedia for Pauper, collecting and organising resources for players with different skill levels.
 
 The Academy is currently under construction, and you can contribute to its development.
 Please, read the [FAQs](./pages/faq.html) to learn more about this project and its (long) roadmap.
