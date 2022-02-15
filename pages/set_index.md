@@ -737,11 +737,12 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 719       | p22           | Judge Gift Cards 2022                           | 2022-01-01   |
 | 720       | dbl           | Innistrad: Double Feature                       | 2022-01-28   |
 | 721       | nec           | Neon Dynasty Commander                          | 2022-02-18   |
-| 722       | neo           | Kamigawa: Neon Dynasty                          | 2022-02-18   |
+| **722**   | **neo**       | **Kamigawa: Neon Dynasty**                      | **2022-02-18** |
 | 723       | tnec          | Neon Dynasty Commander Tokens                   | 2022-02-18   |
 | 724       | tneo          | Kamigawa: Neon Dynasty Tokens                   | 2022-02-18   |
 | 725       | pw22          | Wizards Play Network 2022                       | 2022-03-05   |
 | 726       | tunf          | Unfinity Tokens                                 | 2022-12-31   |
 | 727       | unf           | Unfinity                                        | 2022-12-31   |
 | 728       | pl22          | Year of the Tiger 2022                          | 2022-02-25   |
+| 729       | pneo          | Kamigawa: Neon Dynasty Promos                   | 2022-02-18   |
 

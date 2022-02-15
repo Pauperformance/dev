@@ -10,7 +10,7 @@ This page should be useful for Pauper players that haven't followed the latest r
 
 Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](set_index.html).
 
-The total number of cards in the Pauper pool is: 8213.
+The total number of cards in the Pauper pool is: 8317.
 
 ---
 Table of Contents
@@ -168,6 +168,7 @@ Table of Contents
 * [Adventures in the Forgotten Realms](#adventures-in-the-forgotten-realms-afr) (*release: 2021-07-23 ~ p12e_code: 683*)
 * [Innistrad: Midnight Hunt](#innistrad-midnight-hunt-mid) (*release: 2021-09-24 ~ p12e_code: 696*)
 * [Innistrad: Crimson Vow](#innistrad-crimson-vow-vow) (*release: 2021-11-19 ~ p12e_code: 701*)
+* [Kamigawa: Neon Dynasty](#kamigawa-neon-dynasty-neo) (*release: 2022-02-18 ~ p12e_code: 722*)
 
 ---
 
@@ -9758,6 +9759,119 @@ Table of Contents
 <a href="https://scryfall.com/card/vow/227/witchs-web?utm_source=api">Witch's Web</a><br/>
 <a href="https://scryfall.com/card/vow/228/wolf-strike?utm_source=api">Wolf Strike</a><br/>
 <a href="https://scryfall.com/card/vow/91/wretched-throng?utm_source=api">Wretched Throng</a><br/>
+</details>
+[]()
+
+## Kamigawa: Neon Dynasty (neo)
+*release: 2022-02-18 | p12e_code: 722*
+
+<details>
+  <summary>Click to see 104 new cards</summary>
+
+<a href="https://scryfall.com/card/neo/130/akki-ember-keeper?utm_source=api">Akki Ember-Keeper</a><br/>
+<a href="https://scryfall.com/card/neo/131/akki-ronin?utm_source=api">Akki Ronin</a><br/>
+<a href="https://scryfall.com/card/neo/132/akki-war-paint?utm_source=api">Akki War Paint</a><br/>
+<a href="https://scryfall.com/card/neo/133/ambitious-assault?utm_source=api">Ambitious Assault</a><br/>
+<a href="https://scryfall.com/card/neo/1/ancestral-katana?utm_source=api">Ancestral Katana</a><br/>
+<a href="https://scryfall.com/card/neo/46/armguard-familiar?utm_source=api">Armguard Familiar</a><br/>
+<a href="https://scryfall.com/card/neo/239/automated-artificer?utm_source=api">Automated Artificer</a><br/>
+<a href="https://scryfall.com/card/neo/173/bamboo-grove-archer?utm_source=api">Bamboo Grove Archer</a><br/>
+<a href="https://scryfall.com/card/neo/174/bearer-of-memory?utm_source=api">Bearer of Memory</a><br/>
+<a href="https://scryfall.com/card/neo/4/befriending-the-moths-imperial-moth?utm_source=api">Befriending the Moths // Imperial Moth</a><br/>
+<a href="https://scryfall.com/card/neo/241/brute-suit?utm_source=api">Brute Suit</a><br/>
+<a href="https://scryfall.com/card/neo/178/careful-cultivation?utm_source=api">Careful Cultivation</a><br/>
+<a href="https://scryfall.com/card/neo/90/chainflail-centipede?utm_source=api">Chainflail Centipede</a><br/>
+<a href="https://scryfall.com/card/neo/91/clawing-torment?utm_source=api">Clawing Torment</a><br/>
+<a href="https://scryfall.com/card/neo/179/coiling-stalker?utm_source=api">Coiling Stalker</a><br/>
+<a href="https://scryfall.com/card/neo/180/commune-with-spirits?utm_source=api">Commune with Spirits</a><br/>
+<a href="https://scryfall.com/card/neo/136/crackling-emergence?utm_source=api">Crackling Emergence</a><br/>
+<a href="https://scryfall.com/card/neo/92/debt-to-the-kami?utm_source=api">Debt to the Kami</a><br/>
+<a href="https://scryfall.com/card/neo/51/disruption-protocol?utm_source=api">Disruption Protocol</a><br/>
+<a href="https://scryfall.com/card/neo/94/dokuchi-shadow-walker?utm_source=api">Dokuchi Shadow-Walker</a><br/>
+<a href="https://scryfall.com/card/neo/9/dragonfly-suit?utm_source=api">Dragonfly Suit</a><br/>
+<a href="https://scryfall.com/card/neo/244/dramatists-puppet?utm_source=api">Dramatist's Puppet</a><br/>
+<a href="https://scryfall.com/card/neo/246/ecologists-terrarium?utm_source=api">Ecologist's Terrarium</a><br/>
+<a href="https://scryfall.com/card/neo/10/eiganjo-exemplar?utm_source=api">Eiganjo Exemplar</a><br/>
+<a href="https://scryfall.com/card/neo/11/era-of-enlightenment-hand-of-enlightenment?utm_source=api">Era of Enlightenment // Hand of Enlightenment</a><br/>
+<a href="https://scryfall.com/card/neo/138/experimental-synthesizer?utm_source=api">Experimental Synthesizer</a><br/>
+<a href="https://scryfall.com/card/neo/139/explosive-entry?utm_source=api">Explosive Entry</a><br/>
+<a href="https://scryfall.com/card/neo/183/fang-of-shigeki?utm_source=api">Fang of Shigeki</a><br/>
+<a href="https://scryfall.com/card/neo/184/favor-of-jukai?utm_source=api">Favor of Jukai</a><br/>
+<a href="https://scryfall.com/card/neo/54/futurist-sentinel?utm_source=api">Futurist Sentinel</a><br/>
+<a href="https://scryfall.com/card/neo/186/geothermal-kami?utm_source=api">Geothermal Kami</a><br/>
+<a href="https://scryfall.com/card/neo/143/gift-of-wrath?utm_source=api">Gift of Wrath</a><br/>
+<a href="https://scryfall.com/card/neo/15/golden-tail-disciple?utm_source=api">Golden-Tail Disciple</a><br/>
+<a href="https://scryfall.com/card/neo/188/grafted-growth?utm_source=api">Grafted Growth</a><br/>
+<a href="https://scryfall.com/card/neo/189/greater-tanuki?utm_source=api">Greater Tanuki</a><br/>
+<a href="https://scryfall.com/card/neo/56/guardians-of-oboro?utm_source=api">Guardians of Oboro</a><br/>
+<a href="https://scryfall.com/card/neo/190/harmonious-emergence?utm_source=api">Harmonious Emergence</a><br/>
+<a href="https://scryfall.com/card/neo/191/heir-of-the-ancient-fang?utm_source=api">Heir of the Ancient Fang</a><br/>
+<a href="https://scryfall.com/card/neo/17/imperial-oath?utm_source=api">Imperial Oath</a><br/>
+<a href="https://scryfall.com/card/neo/19/imperial-subduer?utm_source=api">Imperial Subduer</a><br/>
+<a href="https://scryfall.com/card/neo/100/inkrise-infiltrator?utm_source=api">Inkrise Infiltrator</a><br/>
+<a href="https://scryfall.com/card/neo/20/intercessors-arrest?utm_source=api">Intercessor's Arrest</a><br/>
+<a href="https://scryfall.com/card/neo/248/iron-apprentice?utm_source=api">Iron Apprentice</a><br/>
+<a href="https://scryfall.com/card/neo/148/ironhoof-boar?utm_source=api">Ironhoof Boar</a><br/>
+<a href="https://scryfall.com/card/neo/195/jukai-preserver?utm_source=api">Jukai Preserver</a><br/>
+<a href="https://scryfall.com/card/neo/196/jukai-trainee?utm_source=api">Jukai Trainee</a><br/>
+<a href="https://scryfall.com/card/neo/103/kaitos-pursuit?utm_source=api">Kaito's Pursuit</a><br/>
+<a href="https://scryfall.com/card/neo/149/kami-of-industry?utm_source=api">Kami of Industry</a><br/>
+<a href="https://scryfall.com/card/neo/104/kami-of-restless-shadows?utm_source=api">Kami of Restless Shadows</a><br/>
+<a href="https://scryfall.com/card/neo/105/kami-of-terrible-secrets?utm_source=api">Kami of Terrible Secrets</a><br/>
+<a href="https://scryfall.com/card/neo/150/kamis-flare?utm_source=api">Kami's Flare</a><br/>
+<a href="https://scryfall.com/card/neo/22/kitsune-ace?utm_source=api">Kitsune Ace</a><br/>
+<a href="https://scryfall.com/card/neo/107/lethal-exploit?utm_source=api">Lethal Exploit</a><br/>
+<a href="https://scryfall.com/card/neo/24/light-the-way?utm_source=api">Light the Way</a><br/>
+<a href="https://scryfall.com/card/neo/27/lucky-offering?utm_source=api">Lucky Offering</a><br/>
+<a href="https://scryfall.com/card/neo/202/masters-rebuke?utm_source=api">Master's Rebuke</a><br/>
+<a href="https://scryfall.com/card/neo/63/mirrorshell-crab?utm_source=api">Mirrorshell Crab</a><br/>
+<a href="https://scryfall.com/card/neo/64/mnemonic-sphere?utm_source=api">Mnemonic Sphere</a><br/>
+<a href="https://scryfall.com/card/neo/67/moon-circuit-hacker?utm_source=api">Moon-Circuit Hacker</a><br/>
+<a href="https://scryfall.com/card/neo/68/moonfolk-puzzlemaker?utm_source=api">Moonfolk Puzzlemaker</a><br/>
+<a href="https://scryfall.com/card/neo/69/moonsnare-prototype?utm_source=api">Moonsnare Prototype</a><br/>
+<a href="https://scryfall.com/card/neo/70/moonsnare-specialist?utm_source=api">Moonsnare Specialist</a><br/>
+<a href="https://scryfall.com/card/neo/30/mothrider-patrol?utm_source=api">Mothrider Patrol</a><br/>
+<a href="https://scryfall.com/card/neo/112/mukotai-ambusher?utm_source=api">Mukotai Ambusher</a><br/>
+<a href="https://scryfall.com/card/neo/71/network-disruptor?utm_source=api">Network Disruptor</a><br/>
+<a href="https://scryfall.com/card/neo/251/network-terminal?utm_source=api">Network Terminal</a><br/>
+<a href="https://scryfall.com/card/neo/115/nezumi-bladeblesser?utm_source=api">Nezumi Bladeblesser</a><br/>
+<a href="https://scryfall.com/card/neo/252/ninjas-kunai?utm_source=api">Ninja's Kunai</a><br/>
+<a href="https://scryfall.com/card/neo/117/okiba-reckoner-raid-nezumi-road-captain?utm_source=api">Okiba Reckoner Raid // Nezumi Road Captain</a><br/>
+<a href="https://scryfall.com/card/neo/253/papercraft-decoy?utm_source=api">Papercraft Decoy</a><br/>
+<a href="https://scryfall.com/card/neo/156/peerless-samurai?utm_source=api">Peerless Samurai</a><br/>
+<a href="https://scryfall.com/card/neo/72/planar-incision?utm_source=api">Planar Incision</a><br/>
+<a href="https://scryfall.com/card/neo/120/reckoners-bargain?utm_source=api">Reckoner's Bargain</a><br/>
+<a href="https://scryfall.com/card/neo/119/reckoner-shakedown?utm_source=api">Reckoner Shakedown</a><br/>
+<a href="https://scryfall.com/card/neo/32/regents-authority?utm_source=api">Regent's Authority</a><br/>
+<a href="https://scryfall.com/card/neo/33/repel-the-vile?utm_source=api">Repel the Vile</a><br/>
+<a href="https://scryfall.com/card/neo/121/return-to-action?utm_source=api">Return to Action</a><br/>
+<a href="https://scryfall.com/card/neo/77/saiba-trespassers?utm_source=api">Saiba Trespassers</a><br/>
+<a href="https://scryfall.com/card/neo/160/scrapyard-steelbreaker?utm_source=api">Scrapyard Steelbreaker</a><br/>
+<a href="https://scryfall.com/card/neo/258/searchlight-companion?utm_source=api">Searchlight Companion</a><br/>
+<a href="https://scryfall.com/card/neo/205/season-of-renewal?utm_source=api">Season of Renewal</a><br/>
+<a href="https://scryfall.com/card/neo/36/seven-tail-mentor?utm_source=api">Seven-Tail Mentor</a><br/>
+<a href="https://scryfall.com/card/neo/78/short-circuit?utm_source=api">Short Circuit</a><br/>
+<a href="https://scryfall.com/card/neo/259/shrine-steward?utm_source=api">Shrine Steward</a><br/>
+<a href="https://scryfall.com/card/neo/163/simian-sling?utm_source=api">Simian Sling</a><br/>
+<a href="https://scryfall.com/card/neo/79/skyswimmer-koi?utm_source=api">Skyswimmer Koi</a><br/>
+<a href="https://scryfall.com/card/neo/38/spirited-companion?utm_source=api">Spirited Companion</a><br/>
+<a href="https://scryfall.com/card/neo/81/suit-up?utm_source=api">Suit Up</a><br/>
+<a href="https://scryfall.com/card/neo/39/sunblade-samurai?utm_source=api">Sunblade Samurai</a><br/>
+<a href="https://scryfall.com/card/neo/210/tales-of-master-seshiro-seshiros-living-legacy?utm_source=api">Tales of Master Seshiro // Seshiro's Living Legacy</a><br/>
+<a href="https://scryfall.com/card/neo/83/tamiyos-compleation?utm_source=api">Tamiyo's Compleation</a><br/>
+<a href="https://scryfall.com/card/neo/211/tamiyos-safekeeping?utm_source=api">Tamiyo's Safekeeping</a><br/>
+<a href="https://scryfall.com/card/neo/66/the-modern-age-vector-glider?utm_source=api">The Modern Age // Vector Glider</a><br/>
+<a href="https://scryfall.com/card/neo/162/the-shattered-states-era-nameless-conqueror?utm_source=api">The Shattered States Era // Nameless Conqueror</a><br/>
+<a href="https://scryfall.com/card/neo/261/thundersteel-colossus?utm_source=api">Thundersteel Colossus</a><br/>
+<a href="https://scryfall.com/card/neo/167/towashi-songshaper?utm_source=api">Towashi Songshaper</a><br/>
+<a href="https://scryfall.com/card/neo/125/twisted-embrace?utm_source=api">Twisted Embrace</a><br/>
+<a href="https://scryfall.com/card/neo/281/uncharted-haven?utm_source=api">Uncharted Haven</a><br/>
+<a href="https://scryfall.com/card/neo/126/undercity-scrounger?utm_source=api">Undercity Scrounger</a><br/>
+<a href="https://scryfall.com/card/neo/169/unstoppable-ogre?utm_source=api">Unstoppable Ogre</a><br/>
+<a href="https://scryfall.com/card/neo/128/virus-beetle?utm_source=api">Virus Beetle</a><br/>
+<a href="https://scryfall.com/card/neo/171/voltage-surge?utm_source=api">Voltage Surge</a><br/>
+<a href="https://scryfall.com/card/neo/41/wanderers-intervention?utm_source=api">Wanderer's Intervention</a><br/>
+<a href="https://scryfall.com/card/neo/129/you-are-already-dead?utm_source=api">You Are Already Dead</a><br/>
 </details>
 []()
 
