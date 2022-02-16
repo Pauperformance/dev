@@ -18,7 +18,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Azorius Caw Blade](../archetypes/Azorius%20Caw%20Blade.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Black Burn](../archetypes/Black%20Burn.html) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Bogles](../archetypes/Bogles.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
-[Boros Bully](../archetypes/Boros%20Bully.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange, Combo | [            ](../families/.html) |
+[Boros Bully](../archetypes/Boros%20Bully.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Boros Monarch](../archetypes/Boros%20Monarch.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Brute Squad](../archetypes/Brute%20Squad.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Burn](../archetypes/Burn.html) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           | [            ](../families/.html) |
@@ -48,6 +48,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Jeskai Snow](../archetypes/Jeskai%20Snow.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Jund Cascade](../archetypes/Jund%20Cascade.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [Cascade     ](../families/Cascade.html) |
 [Jund PhD](../archetypes/Jund%20PhD.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [            ](../families/.html) |
+[Kuldotha Rebirth](../archetypes/Kuldotha%20Rebirth.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Midnight Gond](../archetypes/Midnight%20Gond.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Moggwarts](../archetypes/Moggwarts.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Mono Black Control](../archetypes/Mono%20Black%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> | Control         | [            ](../families/.html) |
@@ -58,7 +59,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [MonoU Faeries](../archetypes/MonoU%20Faeries.html) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           | [Faeries     ](../families/Faeries.html) |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.html) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [One Land Spy](../archetypes/One%20Land%20Spy.html) | <img src="../resources/images/mana/B.png" width="25"/> | Combo           | [            ](../families/.html) |
-[Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         | [            ](../families/.html) |
+[Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  | [            ](../families/.html) |
 [Petal Festival](../archetypes/Petal%20Festival.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Rakdos Control](../archetypes/Rakdos%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         | [            ](../families/.html) |
 [Rakdos Madness](../archetypes/Rakdos%20Madness.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [            ](../families/.html) |
@@ -73,5 +74,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Turbofog](../archetypes/Turbofog.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         | [            ](../families/.html) |
 [Walls](../archetypes/Walls.html) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Watch Rites](../archetypes/Watch%20Rites.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
+[Whirlpool Mill](../archetypes/Whirlpool%20Mill.html) | <img src="../resources/images/mana/U.png" width="25"/> | Combo           | [            ](../families/.html) |
 [White Weenie](../archetypes/White%20Weenie.html) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
+[Zubera Storm](../archetypes/Zubera%20Storm.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Combo           | [            ](../families/.html) |
 

@@ -5,7 +5,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Midrange`/`Combo`
+**Type**: `Midrange`
 
 **Description**: TODO.
 
@@ -43,7 +43,7 @@
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |
-| [Boros Bully 669.001.Mirco Ciavatta](https://www.mtggoldfish.com/deck/4351117) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | 2022-02-16 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
 

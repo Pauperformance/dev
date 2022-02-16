@@ -5,20 +5,54 @@
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Control`
+**Type**: `Control`/`Combo`
 
-**Description**: TODO.
+**Description**: 
+Orzhov Pestilence exploits the unique synergy between [Guardian of the Guildpact](https://scryfall.com/card/dis/10/guardian-of-the-guildpact) and [Pestilence](https://scryfall.com/card/mb1/729/pestilence), both to completely stall the board and as a final win condition.
+In several matchups, Guardian of the Guildpact is impossible to remove thanks to its peculiar [protection ability](https://mtg.fandom.com/wiki/Protection), that protects the creature from damage caused by Pestilence effect.
+As result, the player is allowed to activate multiple times per turn Pestilence to wipe the board, while Guardian of the Guildpact will prevent the enchantment from leaving the battlefield.
+Orzhov Pestilence takes control of the board in early game by means of a variety of removal spells, while developing its mana to resolve Pestilence and Guardian of the Guildpact.
+In versions of the deck with a strong focus on the control strategy, a key card is [Pristine Talisman](https://scryfall.com/card/c21/258/pristine-talisman), to [ramp](https://mtg.fandom.com/wiki/Ramp) while keeping up the life total.
+Discard effects are common in this archetype and typically represent the only way to deal with counterspells and strong [enters the battlefield](https://mtg.fandom.com/wiki/Enters_the_battlefield) effects.
+The deck is sometimes considered unstable due to the high number of lands it requires, and to the absence of an efficient card selection and draw engine after [Bonder's Ornament](https://scryfall.com/card/c20/67/bonders-ornament) ban.
 
 ## **Staples**
 
 <details>
   <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/gpt/106/castigate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/1/112c47e4-5ff8-4ea0-ac14-956e4b94119a.jpg?1593272615" width="300"/></a>
+<a href="https://scryfall.com/card/uma/89/chainers-edict"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a36a583a-d4be-4589-a43c-a2854de062c6.jpg?1547516797" width="300"/></a>
+<a href="https://scryfall.com/card/dis/10/guardian-of-the-guildpact"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c8dd004b-01e4-4fe1-a164-9f2ea8d7d88e.jpg?1593272499" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/36/palace-sentinels"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/f/4fd0e9a0-f974-412a-aba1-c4fb68351149.jpg?1608908912" width="300"/></a>
+<a href="https://scryfall.com/card/6ed/149/pestilence"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/9/29d852c4-bd53-4a3b-b1e2-896917cbc27f.jpg?1562815864" width="300"/></a>
 </details><br/>
 
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/tsr/6/aven-riftwatcher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/6/261691c8-371d-49b6-9c9b-50ece5984aa2.jpg?1619392584" width="300"/></a>
+<a href="https://scryfall.com/card/iko/83/dead-weight"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ecf18476-f67b-46e6-905c-e6808981c58a.jpg?1591226721" width="300"/></a>
+<a href="https://scryfall.com/card/mh1/87/diabolic-edict"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4eabbed2-1399-4cf1-9eba-b53c56caced4.jpg?1591104828" width="300"/></a>
+<a href="https://scryfall.com/card/m20/95/disfigure"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18069340-a698-4f75-82cc-cc94fcf82184.jpg?1592516643" width="300"/></a>
+<a href="https://scryfall.com/card/2xm/87/divest"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4494cb6d-1a99-40b6-96cc-0dc2ddec102f.jpg?1598304621" width="300"/></a>
+<a href="https://scryfall.com/card/ima/87/doom-blade"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90699423-2556-40f7-b8f5-c9d82f22d52e.jpg?1562851557" width="300"/></a>
+<a href="https://scryfall.com/card/m21/96/duress"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092" width="300"/></a>
+<a href="https://scryfall.com/card/dst/41/echoing-decay"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566" width="300"/></a>
+<a href="https://scryfall.com/card/cma/58/evincars-justice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0fffc6-4395-441e-95a9-c9cf33af7907.jpg?1592672652" width="300"/></a>
+<a href="https://scryfall.com/card/cmd/17/journey-to-nowhere"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799" width="300"/></a>
+<a href="https://scryfall.com/card/mm3/11/kor-skyfisher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/7/d7501662-1216-4e08-bd2b-e0a459057942.jpg?1593812836" width="300"/></a>
+<a href="https://scryfall.com/card/ema/100/nights-whisper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4638720-a55d-4c3b-b57d-2d028db5894d.jpg?1580014319" width="300"/></a>
+<a href="https://scryfall.com/card/mm2/29/oblivion-ring"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff31eba-8ab3-403e-8d82-37a18b279bec.jpg?1562266919" width="300"/></a>
+<a href="https://scryfall.com/card/pca/35/okiba-gang-shinobi"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/402bbbd8-b490-4a5c-9083-f0103c8712cb.jpg?1562906780" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/142/phyrexian-rager"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac.jpg?1608909883" width="300"/></a>
+<a href="https://scryfall.com/card/c19/69/prismatic-strands"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/f/efd85985-abc1-430a-9210-63109c90a82d.jpg?1568003874" width="300"/></a>
+<a href="https://scryfall.com/card/c21/258/pristine-talisman"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b6307f3-bc63-463c-8ffc-a8b8b829e5d7.jpg?1618252347" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
+<a href="https://scryfall.com/card/c17/122/read-the-bones"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/c/ece1852d-8b7f-4fe6-b9fe-0584a94087ab.jpg?1562627961" width="300"/></a>
+<a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
+<a href="https://scryfall.com/card/ema/109/tragic-slip"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3140bf5-9846-47ae-8142-b013aac14609.jpg?1580014388" width="300"/></a>
+<a href="https://scryfall.com/card/ddk/27/unmake"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6d0dea1b-43dc-4e76-aabd-f12e121a78af.jpg?1592714352" width="300"/></a>
 </details><br/>
 
 ## **Decks**
@@ -26,5 +60,14 @@
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |
 | [Orzhov Pestilence 584.001.Shika93](https://www.mtggoldfish.com/deck/4351746) | 2021-10-09 | War of the Spark | 2019-05-03 | ✅ |
+| [Orzhov Pestilence 572.001.donzauker84](https://www.mtggoldfish.com/deck/4618593) | 2022-02-16 | Ultimate Masters | 2018-12-07 | Ban 🔨 |
+| [Orzhov Pestilence 572.001.Amoras27](https://www.mtggoldfish.com/deck/4618609) | 2022-02-16 | Ultimate Masters | 2018-12-07 | ✅ |
 
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pestilence: What You Have to Endure, What You Have to Put Others Through](https://www.coolstuffinc.com/a/kendrasmith-12262018-pestilence-what-you-have-to-endure-what-you-have-to-put-others-through) | Paige Smith | 2018-12-26   |
 

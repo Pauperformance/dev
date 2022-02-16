@@ -45,3 +45,10 @@
 | [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [A Pauper Primer to Mono W Heroic](https://ravennonest.wordpress.com/2021/10/17/a-pauper-primer-to-mono-w-heroic/) | Raven | 2021-10-17   |
+

@@ -744,5 +744,6 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 726       | tunf          | Unfinity Tokens                                 | 2022-12-31   |
 | 727       | unf           | Unfinity                                        | 2022-12-31   |
 | 728       | pl22          | Year of the Tiger 2022                          | 2022-02-25   |
-| 729       | pneo          | Kamigawa: Neon Dynasty Promos                   | 2022-02-18   |
+| 729       | svow          | Innistrad: Crimson Vow Substitute Cards         | 2021-11-19   |
+| 730       | pneo          | Kamigawa: Neon Dynasty Promos                   | 2022-02-18   |
 
