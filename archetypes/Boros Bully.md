@@ -26,12 +26,14 @@
 
 <details>
   <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/cmr/410/abrade"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/2/d27d5b87-6dfc-4b99-822b-f6f8489ad275.jpg?1608912224" width="300"/></a>
 <a href="https://scryfall.com/card/rtr/93/electrickery"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5ed81ee8-d5e4-4127-876e-9bff81f9c726.jpg?1562787062" width="300"/></a>
 <a href="https://scryfall.com/card/dis/10/guardian-of-the-guildpact"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c8dd004b-01e4-4fe1-a164-9f2ea8d7d88e.jpg?1593272499" width="300"/></a>
 <a href="https://scryfall.com/card/cmd/17/journey-to-nowhere"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/6/4686b51c-e02b-48c1-bafe-e8d08a5407b9.jpg?1592712799" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/29/oblivion-ring"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff31eba-8ab3-403e-8d82-37a18b279bec.jpg?1562266919" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/36/palace-sentinels"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/f/4fd0e9a0-f974-412a-aba1-c4fb68351149.jpg?1608908912" width="300"/></a>
+<a href="https://scryfall.com/card/vis/14/parapet"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/7/a7bbcaa9-edbf-48ad-bcd2-65e8fb9bb938.jpg?1562278169" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/139/pillage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/d/bdd06d55-a40f-4b0e-905b-3cd0ce12eb82.jpg?1562201923" width="300"/></a>
 <a href="https://scryfall.com/card/akh/27/sacred-cat"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08891c78-13c1-4d84-aa9c-78346b3b7d18.jpg?1543674760" width="300"/></a>
 <a href="https://scryfall.com/card/jvc/50/seal-of-fire"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/210f4f5a-4a36-4f2f-8821-d04f3f52c8db.jpg?1562378226" width="300"/></a>
@@ -43,6 +45,7 @@
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |
+| [Boros Bully 722.001.Lollopollo2001](https://www.mtggoldfish.com/deck/4620538) | 2022-02-17 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | 2022-02-16 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
