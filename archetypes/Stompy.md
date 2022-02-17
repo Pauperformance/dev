@@ -57,4 +57,5 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 | 🇬🇧 | [Pauper Stompy Deck Guide](https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/pauper-stompy-deck-guide/) | Alex Ullman | 2020-08-27   |
 | 🇬🇧 | [Bringing Back Pauper Stompy](https://www.coolstuffinc.com/a/kendrasmith-11212018-bringing-back-pauper-stompy) | Paige Smith | 2018-11-21   |
 | 🇬🇧 | [Mono Green Stompy Pauper Guide](https://teamhp555130435.wordpress.com/2018/10/26/mono-green-stompy-pauper-guide/) | airborne17th | 2018-10-26   |
+| 🇬🇧 | [[Primer] Mono Green Aggro (stompy)](https://www.mtgsalvation.com/forums/the-game/pauper/mtgo-pauper/established/189724-primer-mono-green-aggro-stompy) | Psychobabble | 2013-10-17   |
 

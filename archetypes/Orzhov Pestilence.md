@@ -5,7 +5,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Control`/`Combo`
+**Type**: `Control`
 
 **Description**: 
 Orzhov Pestilence exploits the unique synergy between [Guardian of the Guildpact](https://scryfall.com/card/dis/10/guardian-of-the-guildpact) and [Pestilence](https://scryfall.com/card/mb1/729/pestilence), both to completely stall the board and as a final win condition.

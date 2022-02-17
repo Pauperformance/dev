@@ -60,7 +60,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [MonoU Faeries](../archetypes/MonoU%20Faeries.html) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           | [Faeries     ](../families/Faeries.html) |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.html) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [One Land Spy](../archetypes/One%20Land%20Spy.html) | <img src="../resources/images/mana/B.png" width="25"/> | Combo           | [            ](../families/.html) |
-[Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  | [            ](../families/.html) |
+[Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         | [            ](../families/.html) |
 [Petal Festival](../archetypes/Petal%20Festival.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Rakdos Control](../archetypes/Rakdos%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         | [            ](../families/.html) |
 [Rakdos Madness](../archetypes/Rakdos%20Madness.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        | [            ](../families/.html) |
