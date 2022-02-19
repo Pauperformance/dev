@@ -9,28 +9,18 @@
 
 **Description**: TODO.
 
-## **Staples**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Jeskai Ephemerate 722.001.ziofrancone](https://www.mtggoldfish.com/deck/4620539) | 2022-02-17 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Jeskai Ephemerate 722.001.ziofrancone](https://www.mtggoldfish.com/deck/4620539) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+
 
 

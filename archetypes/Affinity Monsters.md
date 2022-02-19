@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/dom/225/navigators-compass"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a283135-7a51-4cf7-82a6-7e50894e64a5.jpg?1562737167" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -42,20 +45,19 @@
 <a href="https://scryfall.com/card/eld/74/witching-well"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity Monsters 676.001.Shika93](https://www.mtggoldfish.com/deck/4351734) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity Monsters 600.001.Shika93](https://www.mtggoldfish.com/deck/4351749) | 2021-10-09 | Throne of Eldraine | 2019-10-04 | Ban 🔨 |
-| [Affinity Monsters 590.001.Shika93](https://www.mtggoldfish.com/deck/4351752) | 2021-10-09 | Core Set 2020 | 2019-07-12 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Affinity Monsters 676.003.Shika93](https://www.mtggoldfish.com/deck/4351736) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 676.002.Shika93](https://www.mtggoldfish.com/deck/4351735) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 676.001.Shika93](https://www.mtggoldfish.com/deck/4351734) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity Monsters 600.001.Shika93](https://www.mtggoldfish.com/deck/4351749) | Throne of Eldraine | 2019-10-04 | Ban 🔨 |
+| [Affinity Monsters 590.001.Shika93](https://www.mtggoldfish.com/deck/4351752) | Core Set 2020 | 2019-07-12 | Ban 🔨 |
+
 
 

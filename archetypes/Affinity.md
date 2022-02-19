@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -44,18 +47,17 @@
 <a href="https://scryfall.com/card/eld/74/witching-well"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | 2021-10-09 | Hour of Devastation | 2017-07-14 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Affinity 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351761) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351762) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Affinity 501.001.Shika93](https://www.mtggoldfish.com/deck/4351744) | Hour of Devastation | 2017-07-14 | Ban 🔨 |
+
 
 

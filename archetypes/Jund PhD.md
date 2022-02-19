@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -26,24 +27,19 @@
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
 </details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
-| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
-| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Jund PhD 669.002.Milkk](https://www.mtggoldfish.com/deck/4351136) | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| [Jund PhD 669.001.Milkk](https://www.mtggoldfish.com/deck/4351135) | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+| [Jund PhD 669.001.CooperTheRed](https://www.mtggoldfish.com/deck/4351134) | Strixhaven: School of Mages | 2021-04-23 | Ban 🔨 |
+
 
 

@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/m14/157/striking-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4ee9254b-3d98-4477-a82e-1450cf3ee96e.jpg?1562829076" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/246/virulent-sliver"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d5082a2a-e8b1-4799-ad29-a632d95ae1da.jpg?1619403749" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -38,18 +41,17 @@
 <a href="https://scryfall.com/card/mh1/193/winding-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e5d9776-b6ce-4ad6-8acc-69115ba5de76.jpg?1562202277" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | 2021-10-08 | Core Set 2020 | 2019-07-12 | ✅ |
-| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Turbo Slivers 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351048) | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Turbo Slivers 590.001.gannoncd](https://www.mtggoldfish.com/deck/4351137) | Core Set 2020 | 2019-07-12 | ✅ |
+| [Turbo Slivers 560.001.frucile](https://www.mtggoldfish.com/deck/4351138) | Guilds of Ravnica | 2018-10-05 | ✅ |
+
 
 

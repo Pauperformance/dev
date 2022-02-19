@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -19,6 +20,8 @@
 <a href="https://scryfall.com/card/thb/99/gray-merchant-of-asphodel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/c/7c1a7dd8-8034-4f59-a351-33666b26ff5a.jpg?1581479807" width="300"/></a>
 <a href="https://scryfall.com/card/cmr/142/phyrexian-rager"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac.jpg?1608909883" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -44,22 +47,21 @@
 <a href="https://scryfall.com/card/ima/115/wrench-mind"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/360a6ada-b257-44b8-b830-aaa122474bce.jpg?1562847480" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Mono Black Control 722.001.John1111](https://www.mtggoldfish.com/deck/4620540) | 2022-02-17 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Mono Black Control 701.001.medvedev](https://www.mtggoldfish.com/deck/4618671) | 2022-02-16 | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
-| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | 2021-10-09 | Theros Beyond Death | 2020-01-24 | ✅ |
-| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
-| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | 2021-10-09 | Commander 2019 | 2019-08-23 | ✅ |
-| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | 2021-10-09 | War of the Spark | 2019-05-03 | ✅ |
-| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | 2021-10-09 | Dominaria | 2018-04-27 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Mono Black Control 722.001.John1111](https://www.mtggoldfish.com/deck/4620540) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Mono Black Control 701.001.medvedev](https://www.mtggoldfish.com/deck/4618671) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
+| [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | Theros Beyond Death | 2020-01-24 | ✅ |
+| [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | Commander 2019 | 2019-08-23 | ✅ |
+| [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | Commander 2019 | 2019-08-23 | ✅ |
+| [Mono Black Control 584.001.Shika93](https://www.mtggoldfish.com/deck/4351747) | War of the Spark | 2019-05-03 | ✅ |
+| [Mono Black Control 537.001.Shika93](https://www.mtggoldfish.com/deck/4351738) | Dominaria | 2018-04-27 | ✅ |
+
 
 

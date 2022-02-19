@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -22,6 +23,8 @@
 <a href="https://scryfall.com/card/som/209/sylvok-lifestaff"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/b/abbc5ae5-8e8b-4106-844f-2d49d2a51ed9.jpg?1562821604" width="300"/></a>
 <a href="https://scryfall.com/card/ddu/41/trinket-mage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a7800f7-95cd-4f5c-b054-4afad8924367.jpg?1561759331" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -42,18 +45,17 @@
 <a href="https://scryfall.com/card/jud/57/wormfang-drake"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b6afd312-6448-4bd1-8539-0910cefead0d.jpg?1562631614" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | 2021-10-08 | Rivals of Ixalan | 2018-01-19 | ✅ |
-| [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | 2021-10-08 | Amonkhet | 2017-04-28 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Azorius Caw Blade 529.001.eternalgathering](https://www.mtggoldfish.com/deck/4351088) | Rivals of Ixalan | 2018-01-19 | ✅ |
+| [Azorius Caw Blade 493.001.gabripo93](https://www.mtggoldfish.com/deck/4351089) | Amonkhet | 2017-04-28 | ✅ |
+
 
 
 

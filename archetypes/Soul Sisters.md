@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -28,6 +29,8 @@
 <a href="https://scryfall.com/card/mh1/193/winding-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4e5d9776-b6ce-4ad6-8acc-69115ba5de76.jpg?1562202277" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -37,17 +40,16 @@
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Soul Sisters 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351090) | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Soul Sisters 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351092) | Throne of Eldraine | 2019-10-04 | ✅ |
+
 
 

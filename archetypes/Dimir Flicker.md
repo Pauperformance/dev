@@ -9,27 +9,11 @@
 
 **Description**: TODO.
 
-## **Staples**
-
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
-
-## **Frequent cards**
-
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
-
-## **Reference decks**
-
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
 
 
-## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
+
+
 
 

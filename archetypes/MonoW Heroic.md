@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -20,8 +21,9 @@
 <a href="https://scryfall.com/card/rtr/9/ethereal-armor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/76960e65-e5c7-4414-b9a5-37d7b2ded4a0.jpg?1562788397" width="300"/></a>
 <a href="https://scryfall.com/card/uma/21/hyena-umbra"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/7/87128a82-bcde-4def-9447-0ab8165d6b5e.jpg?1547515597" width="300"/></a>
 <a href="https://scryfall.com/card/jou/14/lagonna-band-trailblazer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38a6f533-6acb-4c24-ae9d-fe4977230156.jpg?1593095258" width="300"/></a>
-<a href="https://scryfall.com/card/mm2/149/mutagenic-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -33,22 +35,31 @@
 <a href="https://scryfall.com/card/m21/15/defiant-strike"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c23869b-c99a-49dd-9e29-fcc0eb63fad1.jpg?1594734879" width="300"/></a>
 <a href="https://scryfall.com/card/m20/19/gods-willing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90883bac-bcd8-4fa9-a17c-c2402fb0714e.jpg?1592516061" width="300"/></a>
 <a href="https://scryfall.com/card/thb/26/karametras-blessing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156" width="300"/></a>
+<a href="https://scryfall.com/card/mm2/149/mutagenic-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231" width="300"/></a>
 <a href="https://scryfall.com/card/ima/29/seeker-of-the-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52d7aafb-969f-4a39-9af3-125f7f5c99f3.jpg?1562848916" width="300"/></a>
 <a href="https://scryfall.com/card/thb/36/sentinels-eyes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235" width="300"/></a>
+<a href="https://scryfall.com/card/nph/76/vault-skirge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710" width="300"/></a>
 </details><br/>
+
+
 
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [MonoW Heroic 696.001.Raven094](https://www.mtggoldfish.com/deck/4624436) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | 2021-10-08 | Commander Legends | 2020-11-20 | ✅ |
-| [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [MonoW Heroic 696.001.Raven094](https://www.mtggoldfish.com/deck/4624436) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | Commander Legends | 2020-11-20 | ✅ |
+| [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | War of the Spark | 2019-05-03 | ✅ |
+
 
 
 

@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -18,6 +19,8 @@
 <a href="https://scryfall.com/card/tsr/81/reality-acid"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/8/a8510381-e05c-4cc4-98aa-c9327e18ec02.jpg?1619394529" width="300"/></a>
 <a href="https://scryfall.com/card/war/72/teferis-time-twist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/8/c878bdc0-d697-4a2f-bba5-758b27f4247a.jpg?1557576342" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -43,17 +46,16 @@
 <a href="https://scryfall.com/card/pls/17/sunscape-familiar"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/9621f341-bf85-4b77-bf19-2fb013b4c955.jpg?1562926745" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
-| [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Acid Trip 576.001.anynewprovince](https://www.mtggoldfish.com/deck/4351102) | Ravnica Allegiance | 2019-01-25 | ✅ |
+| [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://www.mtggoldfish.com/deck/4351103) | Ravnica Allegiance | 2019-01-25 | ✅ |
+
 
 

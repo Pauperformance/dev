@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -19,6 +20,8 @@
 <a href="https://scryfall.com/card/tpr/66/shadow-rift"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/6/06f6d0bd-19b9-45d0-8768-691a6a593d81.jpg?1562428169" width="300"/></a>
 <a href="https://scryfall.com/card/ody/56/tireless-tribe"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d23e47a-21d5-4d7e-8aa0-3b3064da5967.jpg?1562900445" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -52,20 +55,19 @@
 <a href="https://scryfall.com/card/me2/185/whiteout"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee7bb29a-daf4-42d3-9404-c9f25d72a648.jpg?1562870960" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Inside Out 701.001.carvs](https://www.mtggoldfish.com/deck/4618617) | 2022-02-16 | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
-| [Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
-| [Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | 2021-10-08 | Throne of Eldraine | 2019-10-04 | ✅ |
-| [Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | 2021-10-09 | Battlebond | 2018-06-08 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Inside Out 701.001.carvs](https://www.mtggoldfish.com/deck/4618617) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
+| [Inside Out 612.001.Mathonical](https://www.mtggoldfish.com/deck/4351128) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Inside Out 600.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351072) | Throne of Eldraine | 2019-10-04 | ✅ |
+| [Inside Out 584.001.Entropy263](https://www.mtggoldfish.com/deck/4351063) | War of the Spark | 2019-05-03 | ✅ |
+| [Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | Battlebond | 2018-06-08 | Ban 🔨 |
+
 
 

@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,34 +22,48 @@
 <a href="https://scryfall.com/card/iko/163/lead-the-stampede"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e76b676-c7a3-4de6-a78d-3059a0df83f2.jpg?1591227752" width="300"/></a>
 <a href="https://scryfall.com/card/m19/314/llanowar-elves"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/73542493-cd0b-4bb7-a5b8-8f889c76e4d6.jpg?1605281272" width="300"/></a>
 <a href="https://scryfall.com/card/khc/67/lys-alana-huntmaster"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/0849f67b-da5d-49f7-840f-f87f48518156.jpg?1620530259" width="300"/></a>
-<a href="https://scryfall.com/card/a25/182/nettle-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" width="300"/></a>
 <a href="https://scryfall.com/card/cma/136/priest-of-titania"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/19fc5956-286c-4e1d-bc4a-2974fc0f4dbc.jpg?1592673130" width="300"/></a>
 <a href="https://scryfall.com/card/mh2/285/quirion-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/320fdf89-e158-41c5-b0bf-fee9dec36a75.jpg?1623189455" width="300"/></a>
-<a href="https://scryfall.com/card/ddg/32/spidersilk-armor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e55202a1-c246-4b5b-94d6-43c86a69d61a.jpg?1562943415" width="300"/></a>
-<a href="https://scryfall.com/card/jmp/435/sylvan-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165" width="300"/></a>
 <a href="https://scryfall.com/card/khc/76/timberwatch-elf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38807f17-1cf2-4736-ad10-df6c8b1a9f55.jpg?1620530473" width="300"/></a>
 <a href="https://scryfall.com/card/mrd/270/viridian-longbow"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be892d73-d1f4-4c36-b674-01ae21ff1484.jpg?1562156693" width="300"/></a>
 <a href="https://scryfall.com/card/cma/166/wellwisher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/19dbbecb-b4d0-49d2-b36e-58279e051c5c.jpg?1592673305" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
   <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/bfz/76/dispel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/c/bceab6b3-6b64-4964-a501-ce806a6c13ad.jpg?1562939587" width="300"/></a>
 <a href="https://scryfall.com/card/cma/106/essence-warden"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31ca84d1-30a6-432b-966c-089fb6652a89.jpg?1592672942" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/236/ivy-lane-denizen"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/78bea375-8af3-4425-a418-bb5503e2dfb7.jpg?1608910737" width="300"/></a>
+<a href="https://scryfall.com/card/khm/178/jaspera-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a68615d-9808-479d-aa80-50651246954e.jpg?1631050453" width="300"/></a>
+<a href="https://scryfall.com/card/a25/182/nettle-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" width="300"/></a>
+<a href="https://scryfall.com/card/ddg/32/spidersilk-armor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e55202a1-c246-4b5b-94d6-43c86a69d61a.jpg?1562943415" width="300"/></a>
+<a href="https://scryfall.com/card/jmp/435/sylvan-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165" width="300"/></a>
 </details><br/>
+
+
 
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Elves 696.001.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4624413) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | Ravnica Allegiance | 2019-01-25 | ✅ |
+| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | Guilds of Ravnica | 2018-10-05 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
-| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | 2021-10-08 | Guilds of Ravnica | 2018-10-05 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Elves 696.001.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4624413) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | Ravnica Allegiance | 2019-01-25 | ✅ |
+| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | Guilds of Ravnica | 2018-10-05 | ✅ |
+
 
 

@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -25,6 +26,8 @@
 <a href="https://scryfall.com/card/cmr/417/temur-battle-rage"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d344f38d-0ef2-434b-914c-934c639e7e18.jpg?1608912292" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -38,17 +41,16 @@
 <a href="https://scryfall.com/card/mm2/66/vapor-snag"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59f26d0a-e9f3-442f-b5c6-8016cf736432.jpg?1562262639" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | 2021-10-08 | Treasure Chest | 2016-11-16 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Izzet Blitz 584.001.Amoras27](https://www.mtggoldfish.com/deck/4351062) | War of the Spark | 2019-05-03 | ✅ |
+| [Izzet Blitz 479.001.gabripo93](https://www.mtggoldfish.com/deck/4351123) | Treasure Chest | 2016-11-16 | Ban 🔨 |
+
 
 

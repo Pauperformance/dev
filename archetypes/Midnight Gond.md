@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -26,6 +27,8 @@
 <a href="https://scryfall.com/card/mma/34/veteran-armorer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/2/026aaea6-ed4f-4505-9779-7c28ff6c2284.jpg?1561965991" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -33,18 +36,17 @@
 <a href="https://scryfall.com/card/a25/182/nettle-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
-| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Midnight Gond 488.002.eternalgathering](https://www.mtggoldfish.com/deck/4351087) | Modern Masters 2017 | 2017-03-17 | ✅ |
+| [Midnight Gond 488.001.eternalgathering](https://www.mtggoldfish.com/deck/4351086) | Modern Masters 2017 | 2017-03-17 | ✅ |
+
 
 
 

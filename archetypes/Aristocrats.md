@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -20,6 +21,8 @@
 <a href="https://scryfall.com/card/mh1/113/unearth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b62abd0c-ec3e-45d7-989d-da269812aeef.jpg?1562201767" width="300"/></a>
 <a href="https://scryfall.com/card/dka/134/young-wolf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -34,24 +37,33 @@
 <a href="https://scryfall.com/card/cmr/112/cast-down"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/1/21c8426e-476a-45e4-b3a9-841da54d966c.jpg?1608909602" width="300"/></a>
 <a href="https://scryfall.com/card/uma/102/gurmag-angler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/cedd44eb-f381-46e1-bcb0-88416b4ce33d.jpg?1547516928" width="300"/></a>
 <a href="https://scryfall.com/card/wth/71/haunting-misery"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/3/939b83ba-8ba8-4b98-8a13-a037ba7805e9.jpg?1562802204" width="300"/></a>
+<a href="https://scryfall.com/card/cns/168/hunger-of-the-howlpack"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/3/23676697-2b84-4e9f-9e38-4fd58085a698.jpg?1562864492" width="300"/></a>
 <a href="https://scryfall.com/card/iko/163/lead-the-stampede"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e76b676-c7a3-4de6-a78d-3059a0df83f2.jpg?1591227752" width="300"/></a>
 <a href="https://scryfall.com/card/pca/69/nest-invader"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/3085f5b1-d2e3-4dd4-8263-024b2b5da4b4.jpg?1562903981" width="300"/></a>
 <a href="https://scryfall.com/card/mh2/95/nested-shambler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/9851f290-f502-49f8-9b48-67f7966d4e34.jpg?1622651477" width="300"/></a>
+<a href="https://scryfall.com/card/frf/85/sultai-emissary"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/2/12421e1c-5144-4391-abf2-a2fb864920e9.jpg?1562822584" width="300"/></a>
 <a href="https://scryfall.com/card/ema/109/tragic-slip"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3140bf5-9846-47ae-8142-b013aac14609.jpg?1580014388" width="300"/></a>
 <a href="https://scryfall.com/card/khm/117/village-rites"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1621304677" width="300"/></a>
 </details><br/>
 
+
+
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Aristocrats 658.001.Gandalf_the_Magician](https://www.mtggoldfish.com/deck/4624331) | Kaldheim | 2021-02-05 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | 2021-10-09 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | 2021-10-09 | Hour of Devastation | 2017-07-14 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Aristocrats 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351760) | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Aristocrats 658.001.Gandalf_the_Magician](https://www.mtggoldfish.com/deck/4624331) | Kaldheim | 2021-02-05 | ✅ |
+| [Aristocrats 501.001.Shika93](https://www.mtggoldfish.com/deck/4351745) | Hour of Devastation | 2017-07-14 | ✅ |
+
 
 

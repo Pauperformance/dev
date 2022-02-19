@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -27,6 +28,8 @@
 <a href="https://scryfall.com/card/me2/184/tinder-wall"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/e/1e62598f-0a91-4cfd-9a28-c3bda61c9ead.jpg?1562867846" width="300"/></a>
 <a href="https://scryfall.com/card/gpt/149/wild-cantor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1593272918" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -49,19 +52,25 @@
 <a href="https://scryfall.com/card/scg/132/wirewood-guardian"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/8/e8676b1f-e37c-4ae1-9dbe-d000369fa422.jpg?1562536268" width="300"/></a>
 </details><br/>
 
+
+
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4624301) | Kaldheim | 2021-02-05 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4351113) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
-| [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | 2021-10-08 | Dominaria | 2018-04-27 | Ban 🔨 |
-| [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | 2021-10-08 | Modern Masters 2015 | 2015-05-22 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4624301) | Kaldheim | 2021-02-05 | ✅ |
+| [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | Dominaria | 2018-04-27 | Ban 🔨 |
+| [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | Modern Masters 2015 | 2015-05-22 | Ban 🔨 |
+
 
 
 

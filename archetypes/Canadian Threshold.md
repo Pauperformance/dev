@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -18,6 +19,8 @@
 <a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/174/nimble-mongoose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a6374ad-71be-422e-bd76-4f08fbf43048.jpg?1562202145" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -48,20 +51,19 @@
 <a href="https://scryfall.com/card/ema/191/werebear"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/224ea635-b95b-4803-8716-edd4cb655923.jpg?1580014964" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | 2021-10-08 | Iconic Masters | 2017-11-17 | Ban 🔨 |
-| [Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
-| [Canadian Threshold 488.001.alwayshalfchub](https://www.mtggoldfish.com/deck/4351076) | 2021-10-08 | Modern Masters 2017 | 2017-03-17 | ✅ |
-| [Canadian Threshold 488.001.Federico Vaglio](https://www.mtggoldfish.com/deck/4351949) | 2021-10-09 | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Canadian Threshold 518.001.eternalgathering](https://www.mtggoldfish.com/deck/4351079) | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| [Canadian Threshold 488.002.Federico Vaglio](https://www.mtggoldfish.com/deck/4351957) | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+| [Canadian Threshold 488.001.alwayshalfchub](https://www.mtggoldfish.com/deck/4351076) | Modern Masters 2017 | 2017-03-17 | ✅ |
+| [Canadian Threshold 488.001.Federico Vaglio](https://www.mtggoldfish.com/deck/4351949) | Modern Masters 2017 | 2017-03-17 | Ban 🔨 |
+
 
 
 

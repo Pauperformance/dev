@@ -9,28 +9,18 @@
 
 **Description**: TODO.
 
-## **Staples**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | 2021-10-09 | Battlebond | 2018-06-08 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [MonoB Ponza 540.001.Shika93](https://www.mtggoldfish.com/deck/4351754) | Battlebond | 2018-06-08 | ✅ |
+
 
 

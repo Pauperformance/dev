@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -24,6 +25,8 @@
 <a href="https://scryfall.com/card/apc/35/whirlpool-rider"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/d/0de47f44-8c5e-4114-9064-145d2d8813c6.jpg?1562898184" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -36,18 +39,17 @@
 <a href="https://scryfall.com/card/jvc/16/spire-golem"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b299c599-1a10-4122-ac0b-8f52a9cec7b6.jpg?1562378478" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Whirlpool Mill 518.001.JherjamesB](https://www.mtggoldfish.com/deck/4618672) | 2022-02-16 | Iconic Masters | 2017-11-17 | Ban 🔨 |
-| [Whirlpool Mill 442.001.Milkk](https://www.mtggoldfish.com/deck/4620518) | 2022-02-17 | Battle for Zendikar | 2015-10-02 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Whirlpool Mill 518.001.JherjamesB](https://www.mtggoldfish.com/deck/4618672) | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| [Whirlpool Mill 442.001.Milkk](https://www.mtggoldfish.com/deck/4620518) | Battle for Zendikar | 2015-10-02 | Ban 🔨 |
+
 
 
 

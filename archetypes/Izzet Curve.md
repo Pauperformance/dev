@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -23,6 +24,8 @@
 <a href="https://scryfall.com/card/stx/52/serpentine-curve"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d651b9e9-d723-4340-a010-d71b2a697e73.jpg?1624590386" width="300"/></a>
 <a href="https://scryfall.com/card/csp/97/skred"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/3/b3d6d42a-7607-4361-acc4-7f3cb956bfc9.jpg?1593275323" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -41,17 +44,16 @@
 <a href="https://scryfall.com/card/jmp/185/thought-scour"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/142944d5-1b11-4ec4-b6b4-b5c03e682cd3.jpg?1600732539" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Izzet Curve 676.001.killersuv](https://www.mtggoldfish.com/deck/4351129) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Izzet Curve 676.001._INVISIBLEKID_](https://www.mtggoldfish.com/deck/4351130) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Izzet Curve 676.001.killersuv](https://www.mtggoldfish.com/deck/4351129) | Modern Horizons 2 | 2021-06-18 | ✅ |
+| [Izzet Curve 676.001._INVISIBLEKID_](https://www.mtggoldfish.com/deck/4351130) | Modern Horizons 2 | 2021-06-18 | ✅ |
+
 
 

@@ -9,29 +9,19 @@
 
 **Description**: TODO.
 
-## **Staples**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | 2021-10-08 | Commander 2015 | 2015-11-13 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [White Weenie 447.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351101) | Commander 2015 | 2015-11-13 | ✅ |
+
 
 
 

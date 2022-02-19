@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -23,6 +24,8 @@
 <a href="https://scryfall.com/card/vma/143/tyrants-choice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/e/5ed37b1c-7377-40bd-ae98-7f5ce56156b1.jpg?1562914207" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -36,17 +39,16 @@
 <a href="https://scryfall.com/card/khm/117/village-rites"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/f/0fab9ee8-776a-48e5-b309-bcd381e67bf7.jpg?1621304677" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | 2021-10-08 | Historic Anthology 4 | 2021-03-11 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Black Burn 669.001.Ditoo](https://www.mtggoldfish.com/deck/4351116) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Black Burn 662.001.Grakon](https://www.mtggoldfish.com/deck/4351115) | Historic Anthology 4 | 2021-03-11 | ✅ |
+
 
 

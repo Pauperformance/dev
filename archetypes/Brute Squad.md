@@ -9,29 +9,19 @@
 
 **Description**: TODO.
 
-## **Staples**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | 2021-10-08 | Kaldheim | 2021-02-05 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Brute Squad 658.001.Luiz0211](https://www.mtggoldfish.com/deck/4351093) | Kaldheim | 2021-02-05 | ✅ |
+
 
 
 

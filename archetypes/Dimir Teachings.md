@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/tsr/76/mystical-teachings"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7cb51cd-8418-43ee-bf4f-6b959cc5b131.jpg?1619394406" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/64/prohibit"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/a/0ae544bf-7229-4b82-99ad-32c3af36e30f.jpg?1562201457" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -55,18 +58,17 @@
 <a href="https://scryfall.com/card/2xm/111/twisted-abomination"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ffae38ec-7712-4701-b072-9f962ec9c259.jpg?1599706072" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
-| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | 2021-10-08 | Oath of the Gatewatch | 2016-01-22 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Dimir Teachings 454.001.Jake Stiles](https://www.mtggoldfish.com/deck/4351084) | Oath of the Gatewatch | 2016-01-22 | ✅ |
+| [Dimir Teachings 454.001.Caiusthethief](https://www.mtggoldfish.com/deck/4351085) | Oath of the Gatewatch | 2016-01-22 | ✅ |
+
 
 
 

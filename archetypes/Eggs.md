@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/cmr/334/prophetic-prism"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/4/14602fed-8666-4884-8fca-13529578f9e2.jpg?1608911644" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/64/thoughtcast"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/9/895485a4-06b6-449d-8cf1-db08e52790e4.jpg?1562264739" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -41,19 +44,18 @@
 <a href="https://scryfall.com/card/jmp/488/terrarion"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48eda056-e00f-4e28-ad26-9150a4704d21.jpg?1601081087" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | 2021-10-08 | Masters 25 | 2018-03-16 | Ban 🔨 |
-| [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
-| [Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | 2021-10-09 | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Eggs 533.001.fedetoro](https://www.mtggoldfish.com/deck/4351104) | Masters 25 | 2018-03-16 | Ban 🔨 |
+| [Eggs 518.002.Shika93](https://www.mtggoldfish.com/deck/4351757) | Iconic Masters | 2017-11-17 | Ban 🔨 |
+| [Eggs 518.001.Shika93](https://www.mtggoldfish.com/deck/4351755) | Iconic Masters | 2017-11-17 | Ban 🔨 |
+
 
 
 

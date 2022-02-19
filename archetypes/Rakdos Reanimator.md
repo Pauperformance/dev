@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/rav/105/shred-memory"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e38192e5-814f-4269-bae8-13867a73e7fa.jpg?1598915176" width="300"/></a>
 <a href="https://scryfall.com/card/uma/8/ulamogs-crusher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/eda0fd38-38e6-4e9b-9c17-4d855e01b1e1.jpg?1547515341" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -40,17 +43,16 @@
 <a href="https://scryfall.com/card/m21/165/thrill-of-possibility"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/4/f4af156d-0fbf-4a4e-b0c1-db7e95be4903.jpg?1594736817" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Rakdos Reanimator 669.001.OlavoJusMTM](https://www.mtggoldfish.com/deck/4351132) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Rakdos Reanimator 669.001.Gorlewski](https://www.mtggoldfish.com/deck/4351131) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Rakdos Reanimator 669.001.OlavoJusMTM](https://www.mtggoldfish.com/deck/4351132) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Rakdos Reanimator 669.001.Gorlewski](https://www.mtggoldfish.com/deck/4351131) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+
 
 

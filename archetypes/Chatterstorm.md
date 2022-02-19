@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -27,6 +28,8 @@
 <a href="https://scryfall.com/card/gpt/149/wild-cantor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/4/242dc29e-d8f5-4207-abbf-cf5425f08551.jpg?1593272918" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -39,18 +42,17 @@
 <a href="https://scryfall.com/card/ths/174/satyr-hedonist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c67e15-833c-406a-b75f-8de97fbacf5a.jpg?1562821024" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
-| [Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | 2021-10-08 | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Chatterstorm 676.003.gannoncd](https://www.mtggoldfish.com/deck/4351145) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Chatterstorm 676.002.gannoncd](https://www.mtggoldfish.com/deck/4351144) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+| [Chatterstorm 676.001.gannoncd](https://www.mtggoldfish.com/deck/4351143) | Modern Horizons 2 | 2021-06-18 | Ban 🔨 |
+
 
 

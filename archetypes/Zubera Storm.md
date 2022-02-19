@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -27,6 +28,8 @@
 <a href="https://scryfall.com/card/cmr/158/viscera-seer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/4/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8.jpg?1608910025" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -36,17 +39,16 @@
 <a href="https://scryfall.com/card/soi/78/pieces-of-the-puzzle"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69204c83-2e43-4ca1-a4cd-d75399a7d6dd.jpg?1576384174" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Zubera Storm 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4618707) | 2022-02-16 | Kaldheim | 2021-02-05 | ✅ |
-| [Zubera Storm 529.001.Størm](https://www.mtggoldfish.com/deck/4618698) | 2022-02-16 | Rivals of Ixalan | 2018-01-19 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Zubera Storm 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4618707) | Kaldheim | 2021-02-05 | ✅ |
+| [Zubera Storm 529.001.Størm](https://www.mtggoldfish.com/deck/4618698) | Rivals of Ixalan | 2018-01-19 | ✅ |
+
 
 

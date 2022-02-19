@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -26,6 +27,8 @@
 <a href="https://scryfall.com/card/khm/192/sarulfs-packmate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/6061113e-7dd8-4739-b4dd-55bb7f9e39a2.jpg?1614989599" width="300"/></a>
 </details><br/>
 
+
+
 ## **Frequent cards**
 
 <details>
@@ -36,17 +39,16 @@
 <a href="https://scryfall.com/card/m21/193/llanowar-visionary"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.jpg?1594737093" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
-| [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | 2021-10-10 | Innistrad: Midnight Hunt | 2021-09-24 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Temur Cascade 696.001.Shika93](https://www.mtggoldfish.com/deck/4353988) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Temur Cascade 696.001.CooperTheRed](https://www.mtggoldfish.com/deck/4353987) | Innistrad: Midnight Hunt | 2021-09-24 | Ban 🔨 |
+
 
 

@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -23,6 +24,8 @@
 <a href="https://scryfall.com/card/c21/202/pulse-of-murasa"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/4/a4b9f8f4-d704-4f16-8495-cf8185285859.jpg?1618251902" width="300"/></a>
 <a href="https://scryfall.com/card/khm/192/sarulfs-packmate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/0/6061113e-7dd8-4739-b4dd-55bb7f9e39a2.jpg?1614989599" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -40,17 +43,16 @@
 <a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Jund Cascade 701.001.Ixidor29](https://www.mtggoldfish.com/deck/4620537) | 2022-02-17 | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
-| [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | 2021-10-08 | Kaldheim | 2021-02-05 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Jund Cascade 701.001.Ixidor29](https://www.mtggoldfish.com/deck/4620537) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
+| [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | Kaldheim | 2021-02-05 | Ban 🔨 |
+
 
 

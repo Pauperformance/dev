@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -28,23 +29,18 @@
 <a href="https://scryfall.com/card/eld/74/witching-well"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62d3132f-f897-4a7a-9de4-c6388e83f5ad.jpg?1615508418" width="300"/></a>
 </details><br/>
 
-## **Frequent cards**
 
-<details>
-  <summary>Click here to expand</summary>
-</details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | 2021-10-08 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
-| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | 2021-10-17 | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+
 
 

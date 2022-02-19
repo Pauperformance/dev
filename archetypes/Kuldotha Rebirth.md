@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -36,19 +39,24 @@
 <a href="https://scryfall.com/card/uma/28/rally-the-peasants"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3b300df0-c867-41e6-a1fd-fe547ed3dc51.jpg?1547515738" width="300"/></a>
 </details><br/>
 
+
+
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | 2022-02-16 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | 2022-02-16 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Kuldotha Rebirth 459.001.JakeStiles](https://www.mtggoldfish.com/deck/4618615) | 2022-02-16 | Shadows over Innistrad | 2016-04-08 | Ban 🔨 |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Kuldotha Rebirth 459.001.JakeStiles](https://www.mtggoldfish.com/deck/4618615) | Shadows over Innistrad | 2016-04-08 | Ban 🔨 |
+
 
 
 

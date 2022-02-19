@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -21,6 +22,8 @@
 <a href="https://scryfall.com/card/a25/34/squadron-hawk"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/e/9e81806d-5d87-4032-ad94-c2cdeabecdbf.jpg?1562439058" width="300"/></a>
 <a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -41,19 +44,18 @@
 <a href="https://scryfall.com/card/znr/172/tormenting-voice"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6da46103-a14c-4aa2-92fc-fd758335caf4.jpg?1604198268" width="300"/></a>
 </details><br/>
 
-## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Boros Bully 722.001.Lollopollo2001](https://www.mtggoldfish.com/deck/4620538) | 2022-02-17 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | 2022-02-16 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | 2021-10-08 | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | 2021-10-08 | Ravnica Allegiance | 2019-01-25 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Boros Bully 722.001.Lollopollo2001](https://www.mtggoldfish.com/deck/4620538) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | Ravnica Allegiance | 2019-01-25 | ✅ |
+
 
 

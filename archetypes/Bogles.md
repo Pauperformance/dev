@@ -9,6 +9,7 @@
 
 **Description**: TODO.
 
+
 ## **Staples**
 
 <details>
@@ -22,6 +23,8 @@
 <a href="https://scryfall.com/card/uma/223/slippery-bogle"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c4e4bbea-7e3f-4de0-bb01-dfd67f21c254.jpg?1547518325" width="300"/></a>
 <a href="https://scryfall.com/card/a25/192/utopia-sprawl"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15625580-3cbd-459c-a667-87efdcdaf2b2.jpg?1562433020" width="300"/></a>
 </details><br/>
+
+
 
 ## **Frequent cards**
 
@@ -40,19 +43,29 @@
 <a href="https://scryfall.com/card/aer/126/unbridled-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/9/393fc419-a6ce-447d-9994-744cf41f9a27.jpg?1576382093" width="300"/></a>
 </details><br/>
 
+
+
 ## **Reference decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Bogles 683.001.SanPop](https://www.mtggoldfish.com/deck/4624393) | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
+| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | Zendikar Rising | 2020-09-25 | ✅ |
+| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | Commander 2019 | 2019-08-23 | Ban 🔨 |
+| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | War of the Spark | 2019-05-03 | ✅ |
+
+
 
 
 ## **All decks**
 
-| Name | Upload date | Set name | Set date | Legal |
-| -----| ----------- | -------- | -------- | ----- |
-| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | 2021-10-08 | Zendikar Rising | 2020-09-25 | ✅ |
-| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | 2021-10-08 | Commander 2019 | 2019-08-23 | Ban 🔨 |
-| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
-| [Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | 2021-10-08 | War of the Spark | 2019-05-03 | ✅ |
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Bogles 683.001.SanPop](https://www.mtggoldfish.com/deck/4624393) | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
+| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | Zendikar Rising | 2020-09-25 | ✅ |
+| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | Commander 2019 | 2019-08-23 | Ban 🔨 |
+| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | War of the Spark | 2019-05-03 | ✅ |
+| [Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | War of the Spark | 2019-05-03 | ✅ |
+
 
 
