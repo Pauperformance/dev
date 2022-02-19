@@ -44,7 +44,13 @@
 <a href="https://scryfall.com/card/ima/153/vent-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/b/6b6f563e-4f94-4caf-83b9-bfc64e18bc9c.jpg?1562849931" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

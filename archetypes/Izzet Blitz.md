@@ -38,7 +38,13 @@
 <a href="https://scryfall.com/card/mm2/66/vapor-snag"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/9/59f26d0a-e9f3-442f-b5c6-8016cf736432.jpg?1562262639" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

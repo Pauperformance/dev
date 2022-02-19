@@ -44,7 +44,13 @@
 <a href="https://scryfall.com/card/con/56/wretched-banquet"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3bdaf55b-2de3-4c8a-90ae-9c88c9d00fd7.jpg?1562800483" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

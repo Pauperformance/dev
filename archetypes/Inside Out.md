@@ -52,7 +52,13 @@
 <a href="https://scryfall.com/card/me2/185/whiteout"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee7bb29a-daf4-42d3-9404-c9f25d72a648.jpg?1562870960" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

@@ -41,7 +41,13 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 <a href="https://scryfall.com/card/nph/76/vault-skirge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

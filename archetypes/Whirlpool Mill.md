@@ -36,7 +36,13 @@
 <a href="https://scryfall.com/card/jvc/16/spire-golem"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/2/b299c599-1a10-4122-ac0b-8f52a9cec7b6.jpg?1562378478" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

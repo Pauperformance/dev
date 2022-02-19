@@ -48,7 +48,13 @@
 <a href="https://scryfall.com/card/ema/191/werebear"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/224ea635-b95b-4803-8716-edd4cb655923.jpg?1580014964" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

@@ -38,7 +38,13 @@ Tough decisions for Burn players also involve choosing whether to use removals o
 <a href="https://scryfall.com/card/rna/115/skewer-the-critics"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/7/97295660-6bea-46ae-9a3b-0fc6abba407f.jpg?1584831035" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

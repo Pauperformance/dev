@@ -55,7 +55,13 @@ The deck is sometimes considered unstable due to the high number of lands it req
 <a href="https://scryfall.com/card/ddk/27/unmake"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/d/6d0dea1b-43dc-4e76-aabd-f12e121a78af.jpg?1592714352" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

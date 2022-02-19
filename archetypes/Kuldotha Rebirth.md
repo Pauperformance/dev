@@ -36,7 +36,14 @@
 <a href="https://scryfall.com/card/uma/28/rally-the-peasants"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3b300df0-c867-41e6-a1fd-fe547ed3dc51.jpg?1547515738" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | 2022-02-16 | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

@@ -55,7 +55,13 @@
 <a href="https://scryfall.com/card/2xm/111/twisted-abomination"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/f/ffae38ec-7712-4701-b072-9f962ec9c259.jpg?1599706072" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

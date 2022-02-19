@@ -44,7 +44,13 @@
 <a href="https://scryfall.com/card/ima/115/wrench-mind"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/6/360a6ada-b257-44b8-b830-aaa122474bce.jpg?1562847480" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

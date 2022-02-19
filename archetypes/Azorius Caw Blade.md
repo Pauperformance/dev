@@ -42,7 +42,13 @@
 <a href="https://scryfall.com/card/jud/57/wormfang-drake"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/6/b6afd312-6448-4bd1-8539-0910cefead0d.jpg?1562631614" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

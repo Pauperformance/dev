@@ -38,7 +38,13 @@
 <a href="https://scryfall.com/card/cma/106/essence-warden"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/1/31ca84d1-30a6-432b-966c-089fb6652a89.jpg?1592672942" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

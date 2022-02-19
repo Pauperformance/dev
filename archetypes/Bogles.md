@@ -40,7 +40,13 @@
 <a href="https://scryfall.com/card/aer/126/unbridled-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/9/393fc419-a6ce-447d-9994-744cf41f9a27.jpg?1576382093" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

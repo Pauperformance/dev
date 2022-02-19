@@ -46,7 +46,13 @@
 <a href="https://scryfall.com/card/gvl/20/serrated-arrows"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/1519b17c-9003-43e0-958f-1fcd20ab2d70.jpg?1562900072" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |

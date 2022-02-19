@@ -39,7 +39,13 @@
 <a href="https://scryfall.com/card/ths/174/satyr-hedonist"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c67e15-833c-406a-b75f-8de97fbacf5a.jpg?1562821024" width="300"/></a>
 </details><br/>
 
-## **Decks**
+## **Reference decks**
+
+| Name | Upload date | Set name | Set date | Legal |
+| -----| ----------- | -------- | -------- | ----- |
+
+
+## **All decks**
 
 | Name | Upload date | Set name | Set date | Legal |
 | -----| ----------- | -------- | -------- | ----- |
