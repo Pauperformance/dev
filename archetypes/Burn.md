@@ -48,17 +48,16 @@ Tough decisions for Burn players also involve choosing whether to use removals o
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Burn 696.001.PRGJJAR](https://www.mtggoldfish.com/deck/4624409) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | War of the Spark | 2019-05-03 | ✅ |
 
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Burn 696.001.PRGJJAR](https://www.mtggoldfish.com/deck/4624409) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | Modern Horizons 2 | 2021-06-18 | ✅ |
-| [Burn 584.001.SuperCow12653](https://www.mtggoldfish.com/deck/4351060) | War of the Spark | 2019-05-03 | ✅ |
 | [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | Guilds of Ravnica | 2018-10-05 | ✅ |
 
 

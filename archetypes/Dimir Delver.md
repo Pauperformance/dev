@@ -48,13 +48,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Dimir Delver 648.001.Hamuda](https://www.mtggoldfish.com/deck/4351124) | Zendikar Rising | 2020-09-25 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Dimir Delver 584.001.MTGPRO69](https://www.mtggoldfish.com/deck/4351058) | War of the Spark | 2019-05-03 | Ban 🔨 |
 
 

@@ -49,13 +49,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Petal Festival 669.001.saidin.rake](https://www.mtggoldfish.com/deck/4351110) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Petal Festival 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4351106) | Kaldheim | 2021-02-05 | ✅ |
 
 

@@ -14,13 +14,13 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Rakdos Control 540.001.Bruno dos Santos Silva](https://www.mtggoldfish.com/deck/4351050) | Battlebond | 2018-06-08 | ✅ |
+
+
 
 
 

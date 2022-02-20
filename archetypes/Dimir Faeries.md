@@ -54,11 +54,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Dimir Faeries 696.001.Beicodegeia](https://www.mtggoldfish.com/deck/4624287) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [Dimir Faeries 669.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351763) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Dimir Faeries 669.001.Matteo Lugli](https://www.mtggoldfish.com/deck/4351114) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 

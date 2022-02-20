@@ -33,13 +33,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
 
 

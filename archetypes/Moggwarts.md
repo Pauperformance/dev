@@ -57,18 +57,17 @@
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Moggwarts 683.001.Hamuda](https://www.mtggoldfish.com/deck/4624432) | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
+| [Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Moggwarts 683.001.Hamuda](https://www.mtggoldfish.com/deck/4624432) | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
 | [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Moggwarts 669.001.Hamuda](https://www.mtggoldfish.com/deck/4351108) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 
 
 

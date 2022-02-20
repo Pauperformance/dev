@@ -54,14 +54,6 @@
 
 
 
-## **All decks**
-
-| Name | Set name | Set date | Legal |
-| -----| -------- | -------- | ----- |
-| [Cycling Storm 701.001.Vivarus](https://www.mtggoldfish.com/deck/4618670) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
-| [Cycling Storm 696.001.Bryant_Cook](https://www.mtggoldfish.com/deck/4624384) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
-
-
 
 
 ## **Resources**

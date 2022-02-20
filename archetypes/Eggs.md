@@ -48,7 +48,7 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |

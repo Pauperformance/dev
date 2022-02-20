@@ -57,14 +57,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Bogles 683.001.SanPop](https://www.mtggoldfish.com/deck/4624393) | Adventures in the Forgotten Realms | 2021-07-23 | ✅ |
-| [Bogles 648.001.Mathonical](https://www.mtggoldfish.com/deck/4351127) | Zendikar Rising | 2020-09-25 | ✅ |
-| [Bogles 597.001.Mathonical](https://www.mtggoldfish.com/deck/4351071) | Commander 2019 | 2019-08-23 | Ban 🔨 |
-| [Bogles 584.001.TheMaverickGirl](https://www.mtggoldfish.com/deck/4351066) | War of the Spark | 2019-05-03 | ✅ |
 | [Bogles 584.001.Jail0Breaker](https://www.mtggoldfish.com/deck/4351056) | War of the Spark | 2019-05-03 | ✅ |
 
 

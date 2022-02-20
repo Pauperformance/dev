@@ -55,11 +55,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Izzet Faeries 696.001.Mogged](https://www.mtggoldfish.com/deck/4624370) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | Modern Horizons 2 | 2021-06-18 | ✅ |
 | [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | Modern Horizons 2 | 2021-06-18 | ✅ |
 | [Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | War of the Spark | 2019-05-03 | Ban 🔨 |

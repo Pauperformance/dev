@@ -63,11 +63,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [One Land Spy 658.001.BluStalker](https://www.mtggoldfish.com/deck/4624301) | Kaldheim | 2021-02-05 | ✅ |
 | [One Land Spy 537.001.Miura Akiyoshi](https://www.mtggoldfish.com/deck/4351112) | Dominaria | 2018-04-27 | Ban 🔨 |
 | [One Land Spy 433.001.Matteo Burello](https://www.mtggoldfish.com/deck/4351111) | Modern Masters 2015 | 2015-05-22 | Ban 🔨 |
 

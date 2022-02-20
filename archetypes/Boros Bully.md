@@ -46,16 +46,22 @@
 
 
 
+## **Reference decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
+| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | Ravnica Allegiance | 2019-01-25 | ✅ |
 
 
-## **All decks**
+
+
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Boros Bully 722.001.Lollopollo2001](https://www.mtggoldfish.com/deck/4620538) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Boros Bully 669.001.Heisen01](https://www.mtggoldfish.com/deck/4618626) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
-| [Boros Bully 576.001.deluxeicoff](https://www.mtggoldfish.com/deck/4351052) | Ravnica Allegiance | 2019-01-25 | ✅ |
 
 
 

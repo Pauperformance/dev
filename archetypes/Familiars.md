@@ -58,19 +58,18 @@
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Familiars 696.001.Finespoo](https://www.mtggoldfish.com/deck/4624361) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | Masters 25 | 2018-03-16 | Ban 🔨 |
 
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Familiars 696.001.Finespoo](https://www.mtggoldfish.com/deck/4624361) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [Familiars 584.003.420Dragon](https://www.mtggoldfish.com/deck/4351067) | War of the Spark | 2019-05-03 | ✅ |
 | [Familiars 584.002.420Dragon](https://www.mtggoldfish.com/deck/4351065) | War of the Spark | 2019-05-03 | ✅ |
 | [Familiars 584.001.420Dragon](https://www.mtggoldfish.com/deck/4351064) | War of the Spark | 2019-05-03 | ✅ |
-| [Familiars 533.001.A_AdeptoTerra](https://www.mtggoldfish.com/deck/4351105) | Masters 25 | 2018-03-16 | Ban 🔨 |
 
 
 

@@ -45,13 +45,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Jund Cascade 701.001.Ixidor29](https://www.mtggoldfish.com/deck/4620537) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Jund Cascade 658.001.Milkk](https://www.mtggoldfish.com/deck/4351121) | Kaldheim | 2021-02-05 | Ban 🔨 |
 
 

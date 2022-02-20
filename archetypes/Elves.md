@@ -57,13 +57,4 @@
 
 
 
-## **All decks**
-
-| Name | Set name | Set date | Legal |
-| -----| -------- | -------- | ----- |
-| [Elves 696.001.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4624413) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
-| [Elves 576.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351055) | Ravnica Allegiance | 2019-01-25 | ✅ |
-| [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | Guilds of Ravnica | 2018-10-05 | ✅ |
-
-
 

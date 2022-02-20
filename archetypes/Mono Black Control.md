@@ -49,14 +49,20 @@
 
 
 
+## **Reference decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Mono Black Control 701.001.medvedev](https://www.mtggoldfish.com/deck/4618671) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
 
 
-## **All decks**
+
+
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Mono Black Control 722.001.John1111](https://www.mtggoldfish.com/deck/4620540) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Mono Black Control 701.001.medvedev](https://www.mtggoldfish.com/deck/4618671) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
 | [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | Theros Beyond Death | 2020-01-24 | ✅ |
 | [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | Commander 2019 | 2019-08-23 | ✅ |
 | [Mono Black Control 597.001.Shika93](https://www.mtggoldfish.com/deck/4351748) | Commander 2019 | 2019-08-23 | ✅ |

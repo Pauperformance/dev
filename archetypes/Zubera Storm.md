@@ -41,13 +41,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Zubera Storm 658.001.MTGDelphi](https://www.mtggoldfish.com/deck/4618707) | Kaldheim | 2021-02-05 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Zubera Storm 529.001.Størm](https://www.mtggoldfish.com/deck/4618698) | Rivals of Ixalan | 2018-01-19 | ✅ |
 
 

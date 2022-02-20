@@ -746,4 +746,8 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 728       | pl22          | Year of the Tiger 2022                          | 2022-02-25   |
 | 729       | svow          | Innistrad: Crimson Vow Substitute Cards         | 2021-11-19   |
 | 730       | pneo          | Kamigawa: Neon Dynasty Promos                   | 2022-02-18   |
+| 731       | skhm          | Kaldheim Substitute Cards                       | 2021-02-05   |
+| 732       | sstx          | Strixhaven: School of Mages Substitute Cards    | 2021-04-23   |
+| 733       | mvow          | Innistrad: Crimson Vow Minigames                | 2021-11-19   |
+| 734       | phed          | Heads I Win, Tails You Lose                     | 2022-04-22   |
 

@@ -53,11 +53,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [MonoU Faeries 696.001.Drugo](https://www.mtggoldfish.com/deck/4624381) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [MonoU Faeries 540.001.Shika93](https://www.mtggoldfish.com/deck/4351740) | Battlebond | 2018-06-08 | Ban 🔨 |
 
 

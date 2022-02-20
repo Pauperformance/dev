@@ -50,13 +50,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Fishelbrand 600.003.gannoncd](https://www.mtggoldfish.com/deck/4351094) | Throne of Eldraine | 2019-10-04 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Fishelbrand 600.002.gannoncd](https://www.mtggoldfish.com/deck/4351096) | Throne of Eldraine | 2019-10-04 | ✅ |
 | [Fishelbrand 600.001.gannoncd](https://www.mtggoldfish.com/deck/4351095) | Throne of Eldraine | 2019-10-04 | ✅ |
 

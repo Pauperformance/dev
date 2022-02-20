@@ -52,12 +52,11 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Azorius Evoke 722.001.Milkk](https://www.mtggoldfish.com/deck/4624451) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Azorius Evoke 696.001.Milkk](https://www.mtggoldfish.com/deck/4624440) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 
 
 

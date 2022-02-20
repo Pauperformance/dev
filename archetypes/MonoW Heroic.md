@@ -48,16 +48,15 @@
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [MonoW Heroic 696.001.Raven094](https://www.mtggoldfish.com/deck/4624436) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
+| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | Commander Legends | 2020-11-20 | ✅ |
 
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [MonoW Heroic 696.001.Raven094](https://www.mtggoldfish.com/deck/4624436) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
-| [MonoW Heroic 651.001.Mathonical](https://www.mtggoldfish.com/deck/4351125) | Commander Legends | 2020-11-20 | ✅ |
 | [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | War of the Spark | 2019-05-03 | ✅ |
 
 

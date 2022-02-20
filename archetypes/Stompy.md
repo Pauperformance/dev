@@ -55,11 +55,10 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Stompy 696.001.Ixidor29](https://www.mtggoldfish.com/deck/4624367) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 | [Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | Dominaria | 2018-04-27 | ✅ |
 

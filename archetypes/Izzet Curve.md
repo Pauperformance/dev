@@ -46,13 +46,19 @@
 
 
 
-
-
-## **All decks**
+## **Reference decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
 | [Izzet Curve 676.001.killersuv](https://www.mtggoldfish.com/deck/4351129) | Modern Horizons 2 | 2021-06-18 | ✅ |
+
+
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
 | [Izzet Curve 676.001._INVISIBLEKID_](https://www.mtggoldfish.com/deck/4351130) | Modern Horizons 2 | 2021-06-18 | ✅ |
 
 

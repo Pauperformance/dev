@@ -49,11 +49,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Slivers 651.001.Esandrad](https://www.mtggoldfish.com/deck/4624340) | Commander Legends | 2020-11-20 | ✅ |
 | [Slivers 600.001.HANSDAMPF](https://www.mtggoldfish.com/deck/4351097) | Throne of Eldraine | 2019-10-04 | ✅ |
 
 

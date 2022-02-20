@@ -61,11 +61,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Goblins 669.001.mosskirin](https://www.mtggoldfish.com/deck/4624419) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Goblins 669.001.ZeMotinha](https://www.mtggoldfish.com/deck/4351140) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Goblins 669.001.Jeremiaa](https://www.mtggoldfish.com/deck/4351139) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Goblins 600.001.walterr25](https://www.mtggoldfish.com/deck/4351073) | Throne of Eldraine | 2019-10-04 | ✅ |

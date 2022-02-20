@@ -50,11 +50,10 @@
 
 
 
-## **All decks**
+## **Other decks**
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Kuldotha Rebirth 722.001.Tarrasque1](https://www.mtggoldfish.com/deck/4618362) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Kuldotha Rebirth 459.001.JakeStiles](https://www.mtggoldfish.com/deck/4618615) | Shadows over Innistrad | 2016-04-08 | Ban 🔨 |
 
 
