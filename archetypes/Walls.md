@@ -79,6 +79,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pauper Walls Discord](https://discord.gg/p4kESAk) | <img src="../resources/images/icons/discord.png" width="32"> | ~            |
+| 🇬🇧 | [Pauper Walls Discord](https://discord.gg/p4kESAk) | <img src="../resources/images/icons/discord.png" class="discord-resource"> | ~            |
 | 🇬🇧 | [Anyway, Here's Wonderwalls](https://www.coolstuffinc.com/a/kendrasmith-02122020-anyway-heres-wonderwalls) | Paige Smith | 2020-02-12   |
 
