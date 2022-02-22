@@ -37,7 +37,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Atog Shift 612.001.Matteo Mazzola](https://www.mtggoldfish.com/deck/4351074) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
+| [Atog Shift 612.001.chumpblocckami](https://www.mtggoldfish.com/deck/4631338) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
 
 
 
@@ -49,4 +49,11 @@
 | [Atog Shift 612.001.Arinaldo Ferreira](https://www.mtggoldfish.com/deck/4367487) | Theros Beyond Death | 2020-01-24 | Ban 🔨 |
 
 
+
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [Report Winner Paupergeddon Milano 2020](http://pauperwave.altervista.org/2109-2/) | Matteo Mazzola | 2020-02-18   |
 
