@@ -68,3 +68,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper Tier] Slivers](http://www.metagame.it/forum/viewtopic.php?f=158&t=5888) | Kuraiden | 2012-05-17   |
+

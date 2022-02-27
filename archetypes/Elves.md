@@ -58,3 +58,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper Tier] Elves](http://www.metagame.it/forum/viewtopic.php?f=158&t=5180) | Kuraiden | 2012-05-17   |
+

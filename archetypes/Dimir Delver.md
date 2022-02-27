@@ -65,3 +65,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper Tier] Dimir Delver](http://www.metagame.it/forum/viewtopic.php?f=158&t=16467) | Siol | 2013-02-05   |
+

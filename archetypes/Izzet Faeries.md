@@ -66,3 +66,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper Tier] Izzet Delver](http://www.metagame.it/forum/viewtopic.php?f=158&t=18321) | Allen | 2013-08-22   |
+

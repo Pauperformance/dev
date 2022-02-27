@@ -17,3 +17,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [[Pauper Tier] Infect](http://www.metagame.it/forum/viewtopic.php?f=158&t=26111) | Dave Space | 2011-12-27   |
+

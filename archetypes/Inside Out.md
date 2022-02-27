@@ -77,3 +77,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇮🇹 | [Pauper Report - UW Tribe @ Paupergeddon](http://www.metagame.it/articoli-pauper/3407-pauper-report-uw-tribe-paupergeddon.html) | Pietro Bragioto | 2018-07-10   |
+
