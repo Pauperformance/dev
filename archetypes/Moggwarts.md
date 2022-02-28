@@ -44,10 +44,12 @@
 <a href="https://scryfall.com/card/ema/100/nights-whisper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4638720-a55d-4c3b-b57d-2d028db5894d.jpg?1580014319" width="300"/></a>
 <a href="https://scryfall.com/card/ddj/20/pyromatics"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/9/795a7929-2c32-4006-bdf1-def0a4400f59.jpg?1592713410" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/103/ransack-the-lab"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/5/b547513d-8b69-41cd-84c9-4b08b6426f1d.jpg?1592137182" width="300"/></a>
+<a href="https://scryfall.com/card/vow/174/reckless-impulse"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/6943c07f-ab0d-4f5a-bbe9-c0a83dc98546.jpg?1643591880" width="300"/></a>
 <a href="https://scryfall.com/card/rav/105/shred-memory"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e38192e5-814f-4269-bae8-13867a73e7fa.jpg?1598915176" width="300"/></a>
 <a href="https://scryfall.com/card/evg/49/skirk-drill-sergeant"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/da50d139-bf87-4fae-a41a-d2c343b7992b.jpg?1562938905" width="300"/></a>
 <a href="https://scryfall.com/card/ons/235/sparksmith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/5/15a4460d-3fe8-4b1f-9990-0a19c3345367.jpg?1562900172" width="300"/></a>
 <a href="https://scryfall.com/card/tsr/141/street-wraith"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7d078cad-7f2b-4bef-b637-46aec9c8ed36.jpg?1619396291" width="300"/></a>
+<a href="https://scryfall.com/card/jmp/488/terrarion"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48eda056-e00f-4e28-ad26-9150a4704d21.jpg?1601081087" width="300"/></a>
 </details><br/>
 
 
@@ -66,6 +68,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Moggwarts 722.001.AMzobud](https://www.mtggoldfish.com/deck/4645828) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 
