@@ -85,6 +85,8 @@ The deck is sometimes considered unstable due to the high number of lands it req
 
 
 
+
+
 ## **Resources**
 
 | 🗣️ | Name | Author | Date |

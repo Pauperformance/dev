@@ -65,6 +65,8 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 
 
+
+
 ## **Resources**
 
 | 🗣️ | Name | Author | Date |

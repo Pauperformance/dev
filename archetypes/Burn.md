@@ -63,6 +63,8 @@ Tough decisions for Burn players also involve choosing whether to use removals o
 
 
 
+
+
 ## **Resources**
 
 | 🗣️ | Name | Author | Date |

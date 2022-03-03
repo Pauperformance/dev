@@ -74,3 +74,12 @@
 
 
 
+
+## **Videos**
+
+| 🗣️ | 📺 | Deck | Author | Date |
+| -- | -- | ---- | ------ | ---- |
+| 🇬🇧 | <i class="fa-brands fa-twitch"></i> | [Moggwarts 722.001.AMzobud](https://www.twitch.tv/videos/1412330983) | Pauperformance | 2022-03-01   |
+
+
+
