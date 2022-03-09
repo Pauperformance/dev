@@ -20,7 +20,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Ping Storm 722.001.Raptor56](https://www.mtggoldfish.com/deck/4643658) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Ping Storm 722.001.Raptor56](https://www.mtggoldfish.com/deck/4643658) | Kamigawa: Neon Dynasty | 2022-02-18 | Ban 🔨 |
 
 
 

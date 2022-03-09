@@ -32,6 +32,9 @@ Enjoy this journey!
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | [MARCH 7, 2022 BANNED AND RESTRICTED ANNOUNCEMENT](https://magic.wizards.com/en/articles/archive/news/march-7-2022-banned-and-restricted-announcement) | Wizards of the Coast | 2022-03-07   |
+| 🇬🇧 | [EXPLANATION OF PAUPER BANS FOR MARCH 7, 2022](https://magic.wizards.com/en/articles/archive/news/explanation-pauper-bans-march-7-2022) | Gavin Verhey | 2022-03-07   |
+| 🇬🇧 | [MTG School Club | Each One Teach One](https://www.youtube.com/watch?v=orMPmImTFN4) | Eisenherz | 2022-03-05   |
 | 🇬🇧 | [JANUARY 20, 2022 BANNED AND RESTRICTED ANNOUNCEMENT](https://magic.wizards.com/en/articles/archive/news/january-20-2022-banned-and-restricted-announcement) | Gavin Verhey | 2022-01-20   |
 | 🇬🇧 | [ANNOUNCING THE PAUPER FORMAT PANEL](https://magic.wizards.com/en/articles/archive/news/announcing-pauper-format-panel-2022-01-10) | Gavin Verhey | 2022-01-10   |
 
