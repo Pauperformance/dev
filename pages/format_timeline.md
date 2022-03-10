@@ -3,6 +3,16 @@
 This page lists the most important events in the Pauper history.
 
 ---
+### March 7, 2022
+* [Galvanic Relay](https://scryfall.com/card/mh2/127/galvanic-relay) and [Disciple of the Vault](Disciple of the Vault
+) are banned.
+* [Expedition Map](https://scryfall.com/card/2xm/255/expedition-map) is unbanned.
+
+ref: [MARCH 7, 2022 BANNED AND RESTRICTED ANNOUNCEMENT](https://magic.wizards.com/en/articles/archive/news/march-7-2022-banned-and-restricted-announcement)
+
+ref: [EXPLANATION OF PAUPER BANS FOR MARCH 7, 2022](https://magic.wizards.com/en/articles/archive/news/explanation-pauper-bans-march-7-2022)
+
+---
 ### January 20, 2022
 * [Atog](https://scryfall.com/card/me4/109/atog), [Bonder's Ornament](https://scryfall.com/card/c20/67/bonders-ornament), and [Prophetic Prism](https://scryfall.com/card/cmr/334/prophetic-prism) are banned.
 
