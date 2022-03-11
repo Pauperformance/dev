@@ -68,13 +68,14 @@ It is canonically formatted as `Archetype_name magic_set_id.revision_id.player_i
 
 The initial part is the `Archetype_name`.
 In the example, it's `Temur Cascade`, highlighted in blue.
-It has to be one of the archetypes in the [Index](./archetypes_index.md).
+It has to be one of those listed in the [Archetypes Index](./archetypes_index.md).
 If the archetype is missing, please contact us: we will be happy to create a new archetype for you in the Academy, if that makes sense.
 We are thrilled by the idea you are creating a new archetype and evolving the format!
 
 Then, there is the `magic_set_id`.
 In the example, it's `696` (immediately after `Temur Cascade`, highlighted in blue).
 You can get the **current** Pauperformance code from the home page.
+At the time of writing, March 2022, it is `722` (associated to Kamigawa: Neon Dynasty).
 However, if you are interested in creating a deck for a past meta, you can get the **old** Pauperformance code from the [Set Index](./set_index.md) (the set number should be in **bold**).
 This is generally useful if you are uploading decks for your old Twitch/YouTube videos (and you are our hero!).
 So, for example, if you want to submit a Burn deck created after the release of Modern Horizons, you will use the code `587	`.
