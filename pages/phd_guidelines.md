@@ -96,7 +96,7 @@ Any change applied to the deck in deckstats will not be reflected in the Academy
 If you want to make a change, please create a new revision (`002`, `003`, ...).
 Please, accept this "read-only feature" for the time being.
 
-Finally, keep in mind any comment you write for your deck in deckstats will be preserved by Myr (it will appear in MTGGoldfish).
+Finally, keep in mind any comment you write for your deck in deckstats **will be preserved** by [Myr](https://pauperformance.com/pages/faq.html#who-is-myr) and **will appear** in MTGGoldfish.
 
 We trust our PhDs to publish content meaningfully and responsibly.
 Thanks a lot!
