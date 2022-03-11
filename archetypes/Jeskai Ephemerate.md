@@ -48,8 +48,8 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Jeskai Ephemerate 722.001.ziofrancone](https://www.mtggoldfish.com/deck/4667111) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
-| [Jeskai Ephemerate 722.001.ziofrancone](https://www.mtggoldfish.com/deck/4620539) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Jeskai Ephemerate 722.002.ziofrancone](https://www.mtggoldfish.com/deck/4667283) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Jeskai Ephemerate 722.001.ziofrancone](https://www.mtggoldfish.com/deck/4667282) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 
 
 
