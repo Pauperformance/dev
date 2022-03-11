@@ -129,11 +129,11 @@ For example, if you want to link a video to the deck `Moggwarts 722.001.AMzobud`
 A visual example is provided with the screenshot below:
 ![How to publish a Twitch video](../resources/images/how_to_publish_a_twitch_video.png)
 
-Please note the line in the description is **case-sensitive**: make sure to correctly use capital letters.
+Please note the line in the description is **case-sensitive**.
 
 It is **not** required to have the line in the beginning of the description.
 You can place it wherever you want.
-In fact, a common choice is to place this line as the final line of the description.
+In fact, a common choice is to place this line as the final line of the description (non-invasive).
 
 We trust our PhDs to publish content meaningfully and responsibly.
 Thanks a lot!
