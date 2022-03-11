@@ -2,7 +2,7 @@
 
 A creator that joins the Pauperformance network and contributes to the Academy with original content is referred as **PhD** (**Pauper honourable Dignitary**).
 
-This page defines the guidelines to become a PhDs and add content to the Academy.
+This page defines the guidelines to become a PhD and add content to the Academy.
 
 ---
 Table of Contents
@@ -16,7 +16,7 @@ Table of Contents
 ---
 ### How to become a PhD
 
-Becoming a Pauper honourable Dignitary is easy.
+Becoming a PhD of Pauperformance is easy, unlike in real life.
 
 If you have a Twitch/YouTube channel with at least 100 followers you can join the network today.
 
@@ -47,12 +47,13 @@ A visual example for the PhD [Shik@93](https://deckstats.net/decks/78813/f88838/
 
 The `Pauperformance` folder is highlighted in red.
 [Myr](https://pauperformance.com/pages/faq.html#who-is-myr) will only search in this **folder** for new Academy decks to retrieve.
+Please, keep out of this folder decks you don't want to publish to the Academy.
 
 Finally, create a new deck in this folder with a valid `PAUPERFORMANCE_DECK_NAME`.
 
-**TIP**: you can save a lot of time by importing your deck into deckstats from a list or a file.
+**TIP**: after having specified your new deck name, you can save a lot of time by importing the card list from a list or a file.
 Supported formats are .cod (Cockatrice), .csv (Deckbox), .dck (XMage), .dec (Apprentice), .dek (MTGO Magic Online), .mwDeck (MWS), .o8d (OCTGN).
-We are lazy and we like this shortcut to create a deck in less than a minute.
+We are lazy and we like this shortcut a lot to create a deck in less than a minute.
 
 That's it.
 The deck will automatically appear in the Academy!
