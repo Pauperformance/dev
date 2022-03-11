@@ -70,7 +70,7 @@ On Discord we will be able to coordinate our efforts.
 
 If you are a **content creator** (e.g. Twitch/YouTube streamer, blogger, etc.) we would be happy to link your content in the Academy and hopefully give more visibility to your work.
 Creators that join the Pauperformance network and contribute to the Academy with their work are referred as **PhD** (**Pauper honourable Dignitary**).
-If you are interested in getting involved in the project, please read the [PhD guidelines](phd_guidelines.html).
+If you are interested in getting involved in the project, please read the [PhD Guidelines](phd_guidelines.html).
 
 If you are a **software developer** with a basic knowledge of Python, JavaScript, HTML, Markdown, git, and Jekyll, please [contact us](contact.html).
 We haven't set up any contribution guidelines for our codebase yet, but you may still help us with some tasks in the [roadmap](https://trello.com/b/EtDX4rhf/roadmap).
