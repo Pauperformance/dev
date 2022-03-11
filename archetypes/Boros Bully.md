@@ -60,6 +60,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Boros Bully 722.001.Lumbalgic](https://www.mtggoldfish.com/deck/4667096) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Boros Bully 722.001.Lollopollo2001](https://www.mtggoldfish.com/deck/4620538) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Boros Bully 669.001.Franco Cicchini](https://www.mtggoldfish.com/deck/4351118) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 

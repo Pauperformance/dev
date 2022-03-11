@@ -68,6 +68,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Moggwarts 722.001.Kiiiittyman](https://www.mtggoldfish.com/deck/4667108) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 722.001.AMzobud](https://www.mtggoldfish.com/deck/4645828) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Moggwarts 669.001.Milkk](https://www.mtggoldfish.com/deck/4351099) | Strixhaven: School of Mages | 2021-04-23 | ✅ |

@@ -59,6 +59,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Izzet Faeries 722.001.Izzet Faeries](https://www.mtggoldfish.com/deck/4667117) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Izzet Faeries 676.002.MrEvilEye](https://www.mtggoldfish.com/deck/4351766) | Modern Horizons 2 | 2021-06-18 | ✅ |
 | [Izzet Faeries 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351764) | Modern Horizons 2 | 2021-06-18 | ✅ |
 | [Izzet Faeries 584.001.PIETART](https://www.mtggoldfish.com/deck/4351057) | War of the Spark | 2019-05-03 | Ban 🔨 |

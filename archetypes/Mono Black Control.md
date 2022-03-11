@@ -30,6 +30,7 @@
 <a href="https://scryfall.com/card/mh1/84/crypt-rats"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/96916db2-5121-4ff1-880c-369744f11ecf.jpg?1562201594" width="300"/></a>
 <a href="https://scryfall.com/card/mh1/86/defile"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/b/5bcb4398-edd1-41a7-a496-b12bce22ceb6.jpg?1562201610" width="300"/></a>
 <a href="https://scryfall.com/card/m20/95/disfigure"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/8/18069340-a698-4f75-82cc-cc94fcf82184.jpg?1592516643" width="300"/></a>
+<a href="https://scryfall.com/card/2xm/87/divest"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/4/4494cb6d-1a99-40b6-96cc-0dc2ddec102f.jpg?1598304621" width="300"/></a>
 <a href="https://scryfall.com/card/m21/96/duress"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092" width="300"/></a>
 <a href="https://scryfall.com/card/dst/41/echoing-decay"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566" width="300"/></a>
 <a href="https://scryfall.com/card/uma/102/gurmag-angler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/cedd44eb-f381-46e1-bcb0-88416b4ce33d.jpg?1547516928" width="300"/></a>
@@ -62,6 +63,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Mono Black Control 722.001.Venancioo](https://www.mtggoldfish.com/deck/4667116) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Mono Black Control 722.001.John1111](https://www.mtggoldfish.com/deck/4620540) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Mono Black Control 612.001.Shika93](https://www.mtggoldfish.com/deck/4351753) | Theros Beyond Death | 2020-01-24 | ✅ |
 | [Mono Black Control 597.002.Shika93](https://www.mtggoldfish.com/deck/4351751) | Commander 2019 | 2019-08-23 | ✅ |

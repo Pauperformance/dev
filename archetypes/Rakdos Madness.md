@@ -16,6 +16,13 @@
 
 
 
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Rakdos Madness 722.001.Cesta](https://www.mtggoldfish.com/deck/4667102) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+
+
 
 
 

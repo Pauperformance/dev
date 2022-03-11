@@ -15,7 +15,7 @@ Feel free to follow us on [Twitch](https://www.twitch.tv/pauperformance), [YouTu
 
 ---
 
-## The current Pauperformance code for decks is: **722**.
+## The current Pauperformance code for decks is **722**.
 It refers to Kamigawa: Neon Dynasty (neo), released on 2022-02-18.
 
 ---

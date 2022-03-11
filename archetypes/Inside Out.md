@@ -51,6 +51,7 @@
 <a href="https://scryfall.com/card/ima/29/seeker-of-the-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52d7aafb-969f-4a39-9af3-125f7f5c99f3.jpg?1562848916" width="300"/></a>
 <a href="https://scryfall.com/card/m12/37/stonehorn-dignitary"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c3797f7f-489d-4735-af56-6359e0fa0a6b.jpg?1562658626" width="300"/></a>
 <a href="https://scryfall.com/card/uma/40/tethmos-high-priest"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/1/51baeea2-a922-4e98-8253-f395546c30c8.jpg?1547515983" width="300"/></a>
+<a href="https://scryfall.com/card/2xm/35/thraben-inspector"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2be39749-ad6f-4160-99eb-c677eee7f1b2.jpg?1599711120" width="300"/></a>
 <a href="https://scryfall.com/card/hou/51/tragic-lesson"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/0/a0f0353c-f1e0-49db-9edc-eea9090de872.jpg?1562808896" width="300"/></a>
 <a href="https://scryfall.com/card/me2/185/whiteout"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/ee7bb29a-daf4-42d3-9404-c9f25d72a648.jpg?1562870960" width="300"/></a>
 </details><br/>
@@ -73,6 +74,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Inside Out 722.001.Inside Out](https://www.mtggoldfish.com/deck/4667115) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | Battlebond | 2018-06-08 | Ban 🔨 |
 
 

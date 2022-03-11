@@ -36,6 +36,7 @@
 <a href="https://scryfall.com/card/m20/19/gods-willing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/0/90883bac-bcd8-4fa9-a17c-c2402fb0714e.jpg?1592516061" width="300"/></a>
 <a href="https://scryfall.com/card/thb/26/karametras-blessing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36.jpg?1581479156" width="300"/></a>
 <a href="https://scryfall.com/card/mm2/149/mutagenic-growth"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231" width="300"/></a>
+<a href="https://scryfall.com/card/akh/27/sacred-cat"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/8/08891c78-13c1-4d84-aa9c-78346b3b7d18.jpg?1543674760" width="300"/></a>
 <a href="https://scryfall.com/card/ima/29/seeker-of-the-way"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/52d7aafb-969f-4a39-9af3-125f7f5c99f3.jpg?1562848916" width="300"/></a>
 <a href="https://scryfall.com/card/thb/36/sentinels-eyes"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/32adc118-b81e-48c2-b7ef-b62e8c3308d6.jpg?1581479235" width="300"/></a>
 <a href="https://scryfall.com/card/nph/76/vault-skirge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/2/f254239c-c07a-4c41-98f7-8f4de539c73e.jpg?1562882710" width="300"/></a>
@@ -57,6 +58,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [MonoW Heroic 722.001.kalko](https://www.mtggoldfish.com/deck/4667109) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [MonoW Heroic 584.001.dhalsinbh1](https://www.mtggoldfish.com/deck/4351061) | War of the Spark | 2019-05-03 | ✅ |
 
 

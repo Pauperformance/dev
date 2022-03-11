@@ -25,7 +25,6 @@
 <a href="https://scryfall.com/card/cma/136/priest-of-titania"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/19fc5956-286c-4e1d-bc4a-2974fc0f4dbc.jpg?1592673130" width="300"/></a>
 <a href="https://scryfall.com/card/mh2/285/quirion-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/320fdf89-e158-41c5-b0bf-fee9dec36a75.jpg?1623189455" width="300"/></a>
 <a href="https://scryfall.com/card/khc/76/timberwatch-elf"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/8/38807f17-1cf2-4736-ad10-df6c8b1a9f55.jpg?1620530473" width="300"/></a>
-<a href="https://scryfall.com/card/mrd/270/viridian-longbow"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be892d73-d1f4-4c36-b674-01ae21ff1484.jpg?1562156693" width="300"/></a>
 <a href="https://scryfall.com/card/cma/166/wellwisher"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/9/19dbbecb-b4d0-49d2-b36e-58279e051c5c.jpg?1592673305" width="300"/></a>
 </details><br/>
 
@@ -42,6 +41,8 @@
 <a href="https://scryfall.com/card/a25/182/nettle-sentinel"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" width="300"/></a>
 <a href="https://scryfall.com/card/ddg/32/spidersilk-armor"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/5/e55202a1-c246-4b5b-94d6-43c86a69d61a.jpg?1562943415" width="300"/></a>
 <a href="https://scryfall.com/card/jmp/435/sylvan-ranger"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/3/e36a5be0-a730-4cb7-9d1e-6ae84b5bc872.jpg?1601080165" width="300"/></a>
+<a href="https://scryfall.com/card/mm2/168/vines-of-vastwood"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/6203e3d4-8998-41d6-9f7e-b68af0f1f8b5.jpg?1562263070" width="300"/></a>
+<a href="https://scryfall.com/card/mrd/270/viridian-longbow"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/e/be892d73-d1f4-4c36-b674-01ae21ff1484.jpg?1562156693" width="300"/></a>
 </details><br/>
 
 
@@ -55,6 +56,13 @@
 | [Elves 560.001.TheMaverickGal](https://www.mtggoldfish.com/deck/4351054) | Guilds of Ravnica | 2018-10-05 | ✅ |
 
 
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Elves 722.001.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4667110) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 
 
 
