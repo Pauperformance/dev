@@ -1,6 +1,6 @@
 # PhD Guidelines
 
-A creator that joins the Pauperformance network and contributes to the Academy with original content is referred as **PhD** (**Pauper honourable Dignitary**).
+A creator that joins the Pauperformance network and contributes to the Academy with original content is referred as **PhD** (**Pauper honorable Dignitary**).
 
 This page defines the guidelines to become a PhD and add content to the Academy.
 

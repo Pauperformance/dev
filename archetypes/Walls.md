@@ -93,6 +93,6 @@ A hybrid version of the two exists, with main deck cascade that can transform in
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
 | 🇬🇧 | [Pauper Walls Discord](https://discord.gg/p4kESAk) | <i class="fa-brands fa-discord"></i> | ~            |
-| 🇬🇧 | [Pauper Walls Combo](https://www.legapauperonline.com/pauper-walls-combo/) | apas72 | 2022-03-11   |
+| 🇬🇧 | [Pauper Walls Combo](https://www.legapauperonline.com/pauper-walls-combo/) | Andrea Passaro | 2022-03-11   |
 | 🇬🇧 | [Anyway, Here's Wonderwalls](https://www.coolstuffinc.com/a/kendrasmith-02122020-anyway-heres-wonderwalls) | Paige Smith | 2020-02-12   |
 
