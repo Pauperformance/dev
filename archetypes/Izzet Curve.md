@@ -65,3 +65,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Storm Discord](https://discord.gg/zrn2N6HT) | <i class="fa-brands fa-discord"></i> | ~            |
+

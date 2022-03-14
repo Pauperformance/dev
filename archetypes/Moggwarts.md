@@ -84,3 +84,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Moggwarts Discord](https://discord.gg/hdFAKcTd) | <i class="fa-brands fa-discord"></i> | ~            |
+

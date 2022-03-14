@@ -72,6 +72,7 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Stompy Discord](https://discord.gg/RzTmb76qjJ) | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇬🇧 | [Pauper Stompy Deck Guide](https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/pauper-stompy-deck-guide/) | Alex Ullman | 2020-08-27   |
 | 🇬🇧 | [Bringing Back Pauper Stompy](https://www.coolstuffinc.com/a/kendrasmith-11212018-bringing-back-pauper-stompy) | Paige Smith | 2018-11-21   |
 | 🇬🇧 | [Mono Green Stompy Pauper Guide](https://teamhp555130435.wordpress.com/2018/10/26/mono-green-stompy-pauper-guide/) | airborne17th | 2018-10-26   |

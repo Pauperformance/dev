@@ -73,5 +73,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Elves Discord](https://discord.gg/JukzE4x4) | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇮🇹 | [[Pauper Tier] Elves](http://www.metagame.it/forum/viewtopic.php?f=158&t=5180) | Kuraiden | 2012-05-17   |
 

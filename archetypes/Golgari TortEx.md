@@ -69,3 +69,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper TortEx Discord](https://discord.gg/fRzwk2TJ) | <i class="fa-brands fa-discord"></i> | ~            |
+

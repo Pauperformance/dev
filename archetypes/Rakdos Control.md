@@ -10,7 +10,35 @@
 **Description**: TODO.
 
 
+## **Staples**
 
+<details>
+  <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/uma/89/chainers-edict"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/3/a36a583a-d4be-4589-a43c-a2854de062c6.jpg?1547516797" width="300"/></a>
+<a href="https://scryfall.com/card/dst/39/chittering-rats"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/8/980135d5-dfaa-4beb-b4b3-1e256bb46e61.jpg?1562638311" width="300"/></a>
+<a href="https://scryfall.com/card/uma/102/gurmag-angler"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/cedd44eb-f381-46e1-bcb0-88416b4ce33d.jpg?1547516928" width="300"/></a>
+<a href="https://scryfall.com/card/jmp/342/lightning-bolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/e/ce711943-c1a1-43a0-8b89-8d169cfb8e06.jpg?1618695786" width="300"/></a>
+<a href="https://scryfall.com/card/ema/100/nights-whisper"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/4/e4638720-a55d-4c3b-b57d-2d028db5894d.jpg?1580014319" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/142/phyrexian-rager"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac.jpg?1608909883" width="300"/></a>
+<a href="https://scryfall.com/card/mma/95/ravens-crime"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/2/7271436b-897a-4b24-a5d2-d29dbea8c1bf.jpg?1561967380" width="300"/></a>
+<a href="https://scryfall.com/card/c20/231/terminate"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/a/1a2ba191-f11c-47d3-8459-34b0e0e56fd9.jpg?1591321484" width="300"/></a>
+</details><br/>
+
+
+
+## **Frequent cards**
+
+<details>
+  <summary>Click here to expand</summary>
+<a href="https://scryfall.com/card/2xm/78/bone-picker"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/7/f7de3d27-f3e0-4aea-a737-6577de1bd1c5.jpg?1598304462" width="300"/></a>
+<a href="https://scryfall.com/card/mh1/84/crypt-rats"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/9/6/96916db2-5121-4ff1-880c-369744f11ecf.jpg?1562201594" width="300"/></a>
+<a href="https://scryfall.com/card/m21/96/duress"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092" width="300"/></a>
+<a href="https://scryfall.com/card/dst/41/echoing-decay"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/8/f8e688e7-8350-4b78-bd49-a6ffdedad556.jpg?1562640566" width="300"/></a>
+<a href="https://scryfall.com/card/mh1/122/firebolt"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/882b8f98-ee51-4c94-a3eb-c79eb2b50d78.jpg?1562201821" width="300"/></a>
+<a href="https://scryfall.com/card/pca/34/lilianas-specter"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/549089f4-1359-49c3-9560-6fe49d1598d0.jpg?1562910526" width="300"/></a>
+<a href="https://scryfall.com/card/cmr/154/thorn-of-the-black-rose"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b7538ad-cc41-4229-8a39-c1db21f2899a.jpg?1608909988" width="300"/></a>
+<a href="https://scryfall.com/card/dka/77/undying-evil"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805" width="300"/></a>
+</details><br/>
 
 
 
@@ -21,6 +49,13 @@
 | [Rakdos Control 540.001.Bruno dos Santos Silva](https://www.mtggoldfish.com/deck/4351050) | Battlebond | 2018-06-08 | ✅ |
 
 
+
+
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Rakdos Control 658.001.Topsy](https://www.mtggoldfish.com/deck/4673158) | Kaldheim | 2021-02-05 | ✅ |
 
 
 

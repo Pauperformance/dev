@@ -16,6 +16,13 @@
 
 
 
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [MonoG Ponza 600.001.Mazurin_Pavel](https://www.mtggoldfish.com/deck/4673161) | Throne of Eldraine | 2019-10-04 | ✅ |
+
+
 
 
 

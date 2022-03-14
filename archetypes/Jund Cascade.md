@@ -64,3 +64,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Cascade Discord](https://discord.gg/2qf7KsVE) | <i class="fa-brands fa-discord"></i> | ~            |
+

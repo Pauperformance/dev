@@ -16,6 +16,13 @@
 
 
 
+## **Other decks**
+
+| Name | Set name | Set date | Legal |
+| -----| -------- | -------- | ----- |
+| [Turbofog 722.001.wisanto](https://www.mtggoldfish.com/deck/4673166) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+
+
 
 
 

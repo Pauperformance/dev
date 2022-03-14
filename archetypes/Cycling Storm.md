@@ -62,5 +62,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Storm Discord](https://discord.gg/zrn2N6HT) | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇬🇧 | [PAUPER CYCLE STORM PRIMER](https://www.theepicstorm.com/pauper-cycle-storm-primer/) | Alex McKinley | 2022-01-30   |
 

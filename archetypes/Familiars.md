@@ -83,5 +83,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | [Pauper Familiars Discord](https://discord.gg/ANYVTjTf) | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇮🇹 | [UW Familiar Pauper League](http://pauperwave.altervista.org/uw-familiar-pauper-league/) | Alessandro Moretti | 2020-04-01   |
 
