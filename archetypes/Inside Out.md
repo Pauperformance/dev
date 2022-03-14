@@ -28,6 +28,7 @@
 <details>
   <summary>Click here to expand</summary>
 <a href="https://scryfall.com/card/a25/40/accumulated-knowledge"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/a/d/ad88e5ee-0eee-47af-a7b4-9bac044e1c8c.jpg?1562439718" width="300"/></a>
+<a href="https://scryfall.com/card/mm2/8/apostles-blessing"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/d/fdfbc07e-d726-4d42-9394-6aa0f5fc3a3a.jpg?1562269765" width="300"/></a>
 <a href="https://scryfall.com/card/uma/45/archaeomancer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/cc258713-6ce3-44e0-9b4b-8fa7d1d093a1.jpg?1547516110" width="300"/></a>
 <a href="https://scryfall.com/card/war/41/augur-of-bolas"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d19fbfe6-69bb-452a-be3c-b9c625e23193.jpg?1557576145" width="300"/></a>
 <a href="https://scryfall.com/card/uma/47/circular-logic"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/7/472de0e2-c15b-49c4-b2fd-74b776daac34.jpg?1547516139" width="300"/></a>
@@ -74,7 +75,8 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
-| [Inside Out 722.001.Inside Out](https://www.mtggoldfish.com/deck/4667115) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Inside Out 722.001.neoweapon](https://www.mtggoldfish.com/deck/4673785) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
+| [Inside Out 722.001.Venancioo](https://www.mtggoldfish.com/deck/4673784) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Inside Out 540.001.Shika93](https://www.mtggoldfish.com/deck/4351737) | Battlebond | 2018-06-08 | Ban 🔨 |
 
 
