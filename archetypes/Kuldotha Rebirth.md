@@ -63,7 +63,7 @@
 
 | 🗣️ | 📺 | Deck | Author | Date |
 | -- | -- | ---- | ------ | ---- |
-| 🇬🇧 | <i class="fa-brands fa-twitch"></i> | [Kuldotha Rebirth 722.001.Tarrasque1](https://www.twitch.tv/videos/1306789817) | Pauperformance | 2022-02-22   |
+| 🇬🇧 | <i class="fa-brands fa-youtube"></i> | [Kuldotha Rebirth 722.001.Tarrasque1](https://www.youtube.com/watch?v=gqPuvf0OzKY) | Pauperformance | 2022-03-16   |
 
 
 
