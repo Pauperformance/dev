@@ -131,9 +131,9 @@ A visual example is provided with the screenshot below:
 
 Please note the line in the description is **case-sensitive**.
 
-It is **not** required to have the line in the beginning of the description.
+It is **not** required to have the line at the beginning of the description.
 You can place it wherever you want.
-In fact, a common choice is to place this line as the final line of the description (non-invasive).
+In fact, a common choice is to place this line as the final part of the description (non-invasive).
 
 We trust our PhDs to publish content meaningfully and responsibly.
 Thanks a lot!
@@ -141,13 +141,47 @@ Thanks a lot!
 ---
 ### How to publish a YouTube video
 
-At the moment, [Myr](https://pauperformance.com/pages/faq.html#who-is-myr) cannot automatically collect YouTube video from PhDs and link them to the Academy.
+If you are a PhD, linking a YouTube video to an Academy deck is straightforward.
 
-This is a top priority for us. We are working hard to implement this feature, and you can expect it to become available in the upcoming weeks.
+Please note you **don't** need to be the owner of the deck you are trying to link your video to.
+This is because it's common for a player to try other players' decks.
 
-However, we can anticipate you we are planning to use the same mechanism already in place for Twitch.
-So, you can already start annotating your YouTube videos as you would do for Twitch.
-As soon as YouTube crawling will be supported, all your videos will immediately become available in the Academy.
+First, make sure the deck is published in the Academy.
+If the deck is not in the Academy yet, please read above [how to publish a deck](#how-to-publish-a-deck).
+
+Finally, write a line in the **description** of your video formatted as:
+
+```Pauperformance: PAUPERFORMANCE_DECK_NAME```
+
+The `PAUPERFORMANCE_DECK_NAME` is the unique identifier of the deck in the Academy.
+It is canonically formatted as `Archetype_name magic_set_id.revision_id.player_id`.
+
+That's it.
+The video will automatically appear in the Academy!
+
+For example, if you want to link a video to the deck `Moggwarts 722.001.AMzobud`, your description will contain:
+
+```Pauperformance: Moggwarts 722.001.AMzobud```
+
+For multi-language channels, **optionally** write a line in the **description** of your video formatted as:
+
+```Pauperformance language: LANGUAGE_CODE```
+
+The `LANGUAGE_CODE` is the 2-letter identifier for a language (e.g. `en`, `it`, `fr`).
+You need to explicitly specify the language **only if** the video you are publishing **is not** in the default language of your channel.
+If your channel is monolingual, you will likely never use this language tag.
+
+A visual example is provided with the screenshot below:
+![How to publish a YouTube video](../resources/images/how_to_publish_a_youtube_video.png)
+
+Please note the lines in the description are **case-sensitive**.
+
+It is **not** required to have the lines at the beginning of the description.
+You can place them wherever you want.
+In fact, a common choice is to place these lines as the final part of the description (non-invasive).
+
+We trust our PhDs to publish content meaningfully and responsibly.
+Thanks a lot!
 
 ---
 ### How to publish a sideboard guide
