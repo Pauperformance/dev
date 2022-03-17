@@ -84,5 +84,7 @@
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
 | 🇬🇧 | [Pauper Familiars Discord](https://discord.gg/ANYVTjTf) | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | [UW Familiars HOW TO and sideboarding guide](https://www.youtube.com/watch?v=aBjW1lKdrYo&t=1s) | kalikaiz | 2021-12-07   |
 | 🇮🇹 | [UW Familiar Pauper League](http://pauperwave.altervista.org/uw-familiar-pauper-league/) | Alessandro Moretti | 2020-04-01   |
+| 🇬🇧 | [Familiar speed tutorial with 420dragon](https://www.youtube.com/watch?v=59P3zGL_54A) | 420dragon | 2017-12-22   |
 
