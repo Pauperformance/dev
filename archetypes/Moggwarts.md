@@ -30,6 +30,7 @@
 <a href="https://scryfall.com/card/tsr/263/chromatic-star"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/2/c2e8d492-2c67-410b-b556-c157a14c4cec.jpg?1619404181" width="300"/></a>
 <a href="https://scryfall.com/card/afr/94/deadly-dispute"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.jpg?1627704524" width="300"/></a>
 <a href="https://scryfall.com/card/m21/96/duress"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.jpg?1594736092" width="300"/></a>
+<a href="https://scryfall.com/card/neo/138/experimental-synthesizer"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/4/c47931c9-685d-4b83-8299-bc347224b4e8.jpg?1643998697" width="300"/></a>
 <a href="https://scryfall.com/card/c21/168/faithless-looting"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/1/d/1d6e5cc9-bd48-41b6-ac20-5a3e38aecdc5.jpg?1617647725" width="300"/></a>
 <a href="https://scryfall.com/card/bbd/178/flamewave-invoker"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d14eb0c1-7709-44da-ba7a-1aa033efb4f8.jpg?1562937061" width="300"/></a>
 <a href="https://scryfall.com/card/zen/125/goblin-bushwhacker"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4085a5bf-a71b-4c73-9b39-0dcc328fe11b.jpg?1562611583" width="300"/></a>
@@ -68,6 +69,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Moggwarts 722.001.Shika93](https://www.mtggoldfish.com/deck/4680046) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 722.001.Kiiiittyman](https://www.mtggoldfish.com/deck/4667108) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 722.001.AMzobud](https://www.mtggoldfish.com/deck/4645828) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Moggwarts 669.001.pepeisra](https://www.mtggoldfish.com/deck/4351109) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
@@ -80,6 +82,7 @@
 
 | 🗣️ | 📺 | Deck | Author | Date |
 | -- | -- | ---- | ------ | ---- |
+| 🇮🇹 | <i class="fa-brands fa-youtube"></i> | [Moggwarts 722.001.Shika93](https://www.youtube.com/watch?v=iTHsl8oBHG8) | Pauperformance | 2022-03-17   |
 | 🇬🇧 | <i class="fa-brands fa-youtube"></i> | [Moggwarts 722.001.AMzobud](https://www.youtube.com/watch?v=7RbDZNvio3M) | Pauperformance | 2022-03-17   |
 
 

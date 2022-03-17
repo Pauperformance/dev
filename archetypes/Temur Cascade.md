@@ -56,6 +56,13 @@
 
 
 
+## **Videos**
+
+| 🗣️ | 📺 | Deck | Author | Date |
+| -- | -- | ---- | ------ | ---- |
+| 🇮🇹 | <i class="fa-brands fa-youtube"></i> | [Temur Cascade 696.002.Shika93](https://www.youtube.com/watch?v=yocuMcUPGBA) | Pauperformance | 2022-03-17   |
+
+
 
 
 ## **Resources**
