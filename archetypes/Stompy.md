@@ -50,6 +50,7 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Stompy 722.001.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4680163) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Stompy 696.001.Ixidor29](https://www.mtggoldfish.com/deck/4624367) | Innistrad: Midnight Hunt | 2021-09-24 | ✅ |
 
 
