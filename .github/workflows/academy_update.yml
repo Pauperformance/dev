@@ -10,21 +10,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
+    - name: Make dir
+      run: |
+        mkdir ../myr
+
+    - name: Clone Myr repository
+      uses: actions/checkout@v2
+      with:
+        repository: 'Pauperformance/pauperformance-bot'
+        ref: 'master'
+        path: '../myr'
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
     - uses: actions/checkout@v2
 #      with:
 #        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
 #        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
     - name: Create local changes
       run: |
         touch foo.txt
+
     - name: Commit files
       run: |
         git add foo.txt
         git config --local user.email "ShadowTemplate@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git commit -m "Add changes" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+
+#    - name: Push changes
+#      uses: ad-m/github-push-action@master
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
+#        branch: ${{ github.ref }}
