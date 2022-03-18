@@ -53,6 +53,35 @@ jobs:
         echo "ls academy"
         ls academy
 
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=today::$(date +'%Y-%m-%d, %H:%M:%S')"
+
+    - name: Update Academy
+      env:
+        DROPBOX_ACCESS_TOKEN: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+        DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
+        DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
+        MTGGOLDFISH_PAUPERFORMANCE_USERNAME: ${{ secrets.MTGGOLDFISH_PAUPERFORMANCE_USERNAME }}
+        MTGGOLDFISH_PAUPERFORMANCE_PASSWORD: ${{ secrets.MTGGOLDFISH_PAUPERFORMANCE_PASSWORD }}
+        MTGGOLDFISH_SHIKA93_USERNAME: ${{ secrets.MTGGOLDFISH_SHIKA93_USERNAME }}
+        MTGGOLDFISH_SHIKA93_PASSWORD: ${{ secrets.MTGGOLDFISH_SHIKA93_PASSWORD }}
+        TELEGRAM_MYR_API_TOKEN: ${{ secrets.TELEGRAM_MYR_API_TOKEN }}
+        TELEGRAM_PAUPERFORMANCE_ID: ${{ secrets.TELEGRAM_PAUPERFORMANCE_ID }}
+        TELEGRAM_SHIKA93_ID: ${{ secrets.TELEGRAM_SHIKA93_ID }}
+        TELEGRAM_MREVILEYE_ID: ${{ secrets.TELEGRAM_MREVILEYE_ID }}
+        TELEGRAM_MIKEOSCAR_ID: ${{ secrets.TELEGRAM_MIKEOSCAR_ID }}
+        TELEGRAM_THRABEN27_ID: ${{ secrets.TELEGRAM_THRABEN27_ID }}
+        TELEGRAM_RIKXVIS_ID: ${{ secrets.TELEGRAM_RIKXVIS_ID }}
+        TELEGRAM_CHUMPBLOCCKAMI_ID: ${{ secrets.TELEGRAM_CHUMPBLOCCKAMI_ID }}
+        TWITCH_APP_CLIENT_ID: ${{ secrets.TWITCH_APP_CLIENT_ID }}
+        TWITCH_APP_CLIENT_SECRET: ${{ secrets.TWITCH_APP_CLIENT_SECRET }}
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+        ACADEMY_PATH: './academy'
+      run: |
+        myr academy update
+
     - name: Push changes
       run: |
         pushd academy
