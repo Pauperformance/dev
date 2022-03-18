@@ -82,8 +82,8 @@
 
 | 🗣️ | 📺 | Deck | Author | Date |
 | -- | -- | ---- | ------ | ---- |
-| 🇬🇧 | <i class="fa-brands fa-youtube"></i> | [Moggwarts 722.001.AMzobud](https://www.youtube.com/watch?v=7RbDZNvio3M) | Pauperformance | 2022-03-17   |
 | 🇮🇹 | <i class="fa-brands fa-youtube"></i> | [Moggwarts 722.001.Shika93](https://www.youtube.com/watch?v=iTHsl8oBHG8) | Pauperformance | 2022-03-17   |
+| 🇬🇧 | <i class="fa-brands fa-youtube"></i> | [Moggwarts 722.001.AMzobud](https://www.youtube.com/watch?v=7RbDZNvio3M) | Pauperformance | 2022-03-17   |
 
 
 
