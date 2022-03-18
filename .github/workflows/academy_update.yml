@@ -85,7 +85,6 @@ jobs:
     - name: Push changes
       run: |
         pushd academy
-        git add foo.txt
         git status
         git --no-pager diff
         git config --local user.email "ShadowTemplate@users.noreply.github.com"
