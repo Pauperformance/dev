@@ -14,9 +14,10 @@ jobs:
     - name: Make dir
       run: |
         mkdir myr
+        mkdir academy
 
     - name: Clone Myr repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: 'Pauperformance/pauperformance-bot'
         ref: 'master'
@@ -24,15 +25,24 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
-    - uses: actions/checkout@v2
+    - name: Clone Academy repository
+      uses: actions/checkout@v3
+      with:
+        ref: 'master'
+        path: './academy'
 #      with:
 #        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
 #        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
     - name: Make dir
       run: |
+        pwd
+        echo "ls ."
         ls .
+        echo "ls myr"
         ls myr
+        echo "ls academy"
+        ls academy
 
     - name: Create local changes
       run: |
