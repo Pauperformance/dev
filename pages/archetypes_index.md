@@ -52,7 +52,6 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Kuldotha Rebirth](../archetypes/Kuldotha%20Rebirth.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Midnight Gond](../archetypes/Midnight%20Gond.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           | [            ](../families/.html) |
 [Moggwarts](../archetypes/Moggwarts.html) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           | [            ](../families/.html) |
-[Mono Black Control](../archetypes/Mono%20Black%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> | Control         | [            ](../families/.html) |
 [MonoB Control](../archetypes/MonoB%20Control.html) | <img src="../resources/images/mana/B.png" width="25"/> | Control         | [            ](../families/.html) |
 [MonoB Ponza](../archetypes/MonoB%20Ponza.html) | <img src="../resources/images/mana/B.png" width="25"/> | Control         | [Ponza       ](../families/Ponza.html) |
 [MonoB Suicide](../archetypes/MonoB%20Suicide.html) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           | [            ](../families/.html) |
