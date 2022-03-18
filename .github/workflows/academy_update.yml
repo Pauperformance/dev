@@ -43,16 +43,6 @@ jobs:
         ref: 'master'
         path: './academy'
 
-    - name: Show dir
-      run: |
-        pwd
-        echo "ls ."
-        ls .
-        echo "ls myr"
-        ls myr
-        echo "ls academy"
-        ls academy
-
     - name: Get current date
       id: date
       run: echo "::set-output name=today::$(date +'%Y-%m-%d, %H:%M:%S')"
