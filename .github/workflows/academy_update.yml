@@ -46,10 +46,12 @@ jobs:
 
     - name: Create local changes
       run: |
+        cd academy
         touch foo.txt
 
     - name: Commit files
       run: |
+        pwd
         git add foo.txt
         git config --local user.email "ShadowTemplate@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
