@@ -57,6 +57,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git commit -m "Add changes" -a
         echo "DONE"
+        git push
 
 #    - name: Push changes
 #      uses: ad-m/github-push-action@master
