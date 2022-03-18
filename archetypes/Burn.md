@@ -58,6 +58,7 @@ Tough decisions for Burn players also involve choosing whether to use removals o
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Burn 722.001.davy2892](https://www.mtggoldfish.com/deck/4682095) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Burn 722.001.John1111](https://www.mtggoldfish.com/deck/4667101) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Burn 676.001.MrEvilEye](https://www.mtggoldfish.com/deck/4351765) | Modern Horizons 2 | 2021-06-18 | ✅ |
 | [Burn 560.001.Shika93](https://www.mtggoldfish.com/deck/4351742) | Guilds of Ravnica | 2018-10-05 | ✅ |
