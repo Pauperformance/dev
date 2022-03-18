@@ -5,6 +5,6 @@
 
 ## **Archetypes**
 
-[Atog Shift](../archetypes/Atog%20Shift.html)  
 [Affinity](../archetypes/Affinity.html)  
+[Atog Shift](../archetypes/Atog%20Shift.html)  
 
