@@ -3,15 +3,15 @@
 name: Academy update
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Make dir
+    - name: Make dirs
       run: |
         mkdir myr
         mkdir academy
@@ -22,8 +22,8 @@ jobs:
         repository: 'Pauperformance/pauperformance-bot'
         ref: 'master'
         path: './myr'
-        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+        persist-credentials: false
+        fetch-depth: 0
 
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
