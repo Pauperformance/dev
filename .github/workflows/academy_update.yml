@@ -89,7 +89,7 @@ jobs:
         git --no-pager diff
         git add pages
         git config --local user.email "ShadowTemplate@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.name "Myr"
         git commit -m "Myr update: ${{ steps.date.outputs.today }}"
         git push
         popd
