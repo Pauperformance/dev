@@ -5,7 +5,7 @@
 **Aliases**: `BR Madness`
 
 
-**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/B.png" class="dominant-mana-icon"/> <img src="../resources/images/mana/R.png" class="dominant-mana-icon"/>
 
 **Type**: `Midrange`
 

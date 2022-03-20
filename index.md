@@ -26,11 +26,11 @@ It refers to Kamigawa: Neon Dynasty (neo), released on 2022-02-18.
 This is the list of available pages in the Academy.
 Enjoy this journey!
 
-[Archetypes Index](./pages/archetypes_index.html). _This page contains a curated list of the most important Pauper archetypes_.
+[Archetypes index](./pages/archetypes_index.html). _This page contains a curated list of the most important Pauper archetypes_.
 
-[Set Index](./pages/set_index.html). _The page contains reference numbers used by Pauperformance to uniquely identify Magic sets_.
+[Set index](./pages/set_index.html). _The page contains reference numbers used by Pauperformance to uniquely identify Magic sets_.
 
-[Pauper Pool](./pages/pauper_pool.html). _This page shows how the pool of legal Pauper cards has increased over time, listing common cards (new or downshifts) that have been introduced in the format with each new expansion_.
+[Pauper pool](./pages/pauper_pool.html). _This page shows how the pool of legal Pauper cards has increased over time, listing common cards (new or downshifts) that have been introduced in the format with each new expansion_.
 
 [Format Timeline](./pages/format_timeline.html). _This page lists the most important events in the Pauper history_.
 

@@ -3,7 +3,7 @@
 <br/>
 
 
-**Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/U.png" class="dominant-mana-icon"/> <img src="../resources/images/mana/W.png" class="dominant-mana-icon"/>
 
 **Type**: `Aggro`
 

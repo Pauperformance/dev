@@ -3,7 +3,7 @@
 <br/>
 
 
-**Dominant mana**: <img src="../resources/images/mana/C.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/C.png" class="dominant-mana-icon"/>
 
 **Type**: `Combo`
 

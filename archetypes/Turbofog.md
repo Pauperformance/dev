@@ -5,7 +5,7 @@
 **Aliases**: `TurboErasure`
 
 
-**Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/U.png" class="dominant-mana-icon"/> <img src="../resources/images/mana/G.png" class="dominant-mana-icon"/>
 
 **Type**: `Control`
 
