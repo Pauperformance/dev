@@ -3,8 +3,8 @@
 name: Academy update
 
 on:
-  push:
-    branches: [ master ]
+  schedule:
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
