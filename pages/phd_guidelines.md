@@ -106,7 +106,7 @@ Thanks a lot!
 
 If you are a PhD, linking a Twitch video to an Academy deck is straightforward.
 
-Please note you **don't** need to be the owner of the deck you are trying to link your video to.
+Please note you **don't need** to be the owner of the deck you are trying to link your video to.
 This is because it's common for a player to try other players' decks.
 
 First, make sure the deck is published in the Academy.
@@ -143,7 +143,7 @@ Thanks a lot!
 
 If you are a PhD, linking a YouTube video to an Academy deck is straightforward.
 
-Please note you **don't** need to be the owner of the deck you are trying to link your video to.
+Please note you **don't need** to be the owner of the deck you are trying to link your video to.
 This is because it's common for a player to try other players' decks.
 
 First, make sure the deck is published in the Academy.
@@ -186,6 +186,25 @@ Thanks a lot!
 ---
 ### How to publish a sideboard guide
 
-At the moment, [Myr](https://pauperformance.com/pages/faq.html#who-is-myr) cannot automatically collect sideboard guides from PhDs and link them to the Academy.
+If you are a PhD, creating or updating a sideboard guide for an archetype is straightforward.
 
-This is a top priority for us. We are working hard to implement this feature, and you can expect it to become available in the upcoming weeks.
+Please note you **need** to be the owner of the deck you are trying to write your sideboard guide for.
+
+Sideboard guides are created via [a common template](https://docs.google.com/spreadsheets/d/1mpVuD2Kl_S5nH5A1B0ZJaCrkUtoSw2A3bpSd7DonyqI/edit#gid=0).
+
+Each archetype of the Academy is linked to **one document** (i.e. a spreadsheet).
+Within the document, each sideboard guide (i.e. for a reference deck) is written in **one sheet**.
+
+To write a sideboard guide, first [contact](contact.html) a Pauperformance admin.
+The preferred way is on Discord, in the #phd channel.
+
+A new sheet will be created for you, it will be **locked**, and you will be the only person authorised to add content there.
+
+There is no need for you to compile every matchup.
+Feel free to take care of the most popular archetypes and hide the remaining columns.
+
+That's it.
+The sideboard will be linked in the Academy by the administrators!
+
+We trust our PhDs to publish content meaningfully and responsibly.
+Thanks a lot!
