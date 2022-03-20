@@ -19,6 +19,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Black Burn](../archetypes/Black%20Burn.html) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Bogles](../archetypes/Bogles.html) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Boros Bully](../archetypes/Boros%20Bully.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
+[Boros Metalcraft](../archetypes/Boros%20Metalcraft.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Boros Monarch](../archetypes/Boros%20Monarch.html) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        | [            ](../families/.html) |
 [Brute Squad](../archetypes/Brute%20Squad.html) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           | [            ](../families/.html) |
 [Burn](../archetypes/Burn.html) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           | [            ](../families/.html) |
