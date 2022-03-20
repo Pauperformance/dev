@@ -66,4 +66,11 @@
 
 
 
+## **Videos**
+
+| 🗣️ | 📺 | Deck | Author | Date |
+| -- | -- | ---- | ------ | ---- |
+| 🇮🇹 | <i class="fa-brands fa-youtube"></i> | [Dimir Faeries 669.001.MrEvilEye](https://www.youtube.com/watch?v=ITlLhzZAjVY) | Pauperformance | 2022-03-20   |
+
+
 
