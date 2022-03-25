@@ -80,6 +80,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Playing Pauper: Dimir Teachings](https://www.mtggoldfish.com/articles/playing-pauper-dimir-teachings) | Jake Stiles | 2016-03-30   |
-| 🇮🇹 | [DECK ANALISI - UB TEACHINGS IN PAUPER](http://www.metagame.it/articoli-pauper/1730-deck-analisi-ub-teachings.html) | Giorgio "Caiusthethief" Iaderosa | 2016-01-31   |
+| 🇬🇧 | <a target="_blank" href="https://www.mtggoldfish.com/articles/playing-pauper-dimir-teachings">Playing Pauper: Dimir Teachings</a> | Jake Stiles | 2016-03-30   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/1730-deck-analisi-ub-teachings.html">DECK ANALISI - UB TEACHINGS IN PAUPER</a> | Giorgio "Caiusthethief" Iaderosa | 2016-01-31   |
 

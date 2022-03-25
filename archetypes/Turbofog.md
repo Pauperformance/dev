@@ -33,5 +33,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [[Primer] Turbo Fog](https://www.mtgnexus.com/viewtopic.php?f=80&t=564) | Spell_Slam | 2019-07-12   |
+| 🇬🇧 | <a target="_blank" href="https://www.mtgnexus.com/viewtopic.php?f=80&t=564">[Primer] Turbo Fog</a> | Spell_Slam | 2019-07-12   |
 

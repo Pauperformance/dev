@@ -94,5 +94,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pauper Moggwarts Discord](https://discord.gg/hdFAKcTd) | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/hdFAKcTd">Pauper Moggwarts Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 

@@ -59,5 +59,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [Report Pauper - Winner @ Paupergeddon 2019 con RDW](http://www.metagame.it/articoli-pauper/3514-report-pauper-winner-paupergeddon-2019-con-rdw.html) | Matteo Mentasti | 2019-02-24   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/3514-report-pauper-winner-paupergeddon-2019-con-rdw.html">Report Pauper - Winner @ Paupergeddon 2019 con RDW</a> | Matteo Mentasti | 2019-02-24   |
 

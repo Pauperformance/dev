@@ -72,5 +72,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [[Pauper Tier] Mono Blue Delver](http://www.metagame.it/forum/viewtopic.php?f=158&t=265) | Scrocchi | 2011-09-27   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=265">[Pauper Tier] Mono Blue Delver</a> | Scrocchi | 2011-09-27   |
 

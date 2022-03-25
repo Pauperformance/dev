@@ -72,5 +72,5 @@ Tough decisions for Burn players also involve choosing whether to use removals o
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [A Guide to Mono-Red Burn in Pauper](https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/a-guide-to-mono-red-burn-in-pauper/) | Martin Juza | 2019-11-01   |
+| 🇬🇧 | <a target="_blank" href="https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/a-guide-to-mono-red-burn-in-pauper/">A Guide to Mono-Red Burn in Pauper</a> | Martin Juza | 2019-11-01   |
 

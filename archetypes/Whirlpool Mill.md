@@ -59,5 +59,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pauper Ponderings: Whirlpool Mill](https://themanabase.com/pauper-ponderings-whirlpool-mill/) | Austen Hoey | 2016-11-03   |
+| 🇬🇧 | <a target="_blank" href="https://themanabase.com/pauper-ponderings-whirlpool-mill/">Pauper Ponderings: Whirlpool Mill</a> | Austen Hoey | 2016-11-03   |
 

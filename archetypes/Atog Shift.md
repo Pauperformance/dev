@@ -57,5 +57,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [Report Winner Paupergeddon Milano 2020](http://pauperwave.altervista.org/2109-2/) | Matteo Mazzola | 2020-02-18   |
+| 🇮🇹 | <a target="_blank" href="http://pauperwave.altervista.org/2109-2/">Report Winner Paupergeddon Milano 2020</a> | Matteo Mazzola | 2020-02-18   |
 

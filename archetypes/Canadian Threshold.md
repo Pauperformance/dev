@@ -73,7 +73,7 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [The Canadian Job, ovvero la grande bellezza](https://eternalgathering.altervista.org/the-canadian-job-ovvero-la-grande-bellezza/) | eternalgathering | 2017-11-17   |
-| 🇬🇧 | [Pauper Ponderings: Canadian Threshold](http://themanabase.wpengine.com/pauper-ponderings-canadian-threshold/) | Austen Hoey | 2017-04-27   |
-| 🇮🇹 | [CANADIAN THRESHOLD](https://paupernexus.wixsite.com/paupernexus/primer-canadian-threshold) | Federico Vaglio | 2016-06-15   |
+| 🇮🇹 | <a target="_blank" href="https://eternalgathering.altervista.org/the-canadian-job-ovvero-la-grande-bellezza/">The Canadian Job, ovvero la grande bellezza</a> | eternalgathering | 2017-11-17   |
+| 🇬🇧 | <a target="_blank" href="http://themanabase.wpengine.com/pauper-ponderings-canadian-threshold/">Pauper Ponderings: Canadian Threshold</a> | Austen Hoey | 2017-04-27   |
+| 🇮🇹 | <a target="_blank" href="https://paupernexus.wixsite.com/paupernexus/primer-canadian-threshold">CANADIAN THRESHOLD</a> | Federico Vaglio | 2016-06-15   |
 

@@ -70,5 +70,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [A Pauper Primer to Mono W Heroic](https://ravennonest.wordpress.com/2021/10/17/a-pauper-primer-to-mono-w-heroic/) | Raven | 2021-10-17   |
+| 🇬🇧 | <a target="_blank" href="https://ravennonest.wordpress.com/2021/10/17/a-pauper-primer-to-mono-w-heroic/">A Pauper Primer to Mono W Heroic</a> | Raven | 2021-10-17   |
 

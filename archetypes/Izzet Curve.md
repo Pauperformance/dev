@@ -81,5 +81,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pauper Storm Discord](https://discord.gg/zrn2N6HT) | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/zrn2N6HT">Pauper Storm Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 

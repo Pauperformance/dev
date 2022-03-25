@@ -75,5 +75,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Playing Pauper: Kuldotha Boros](https://www.mtggoldfish.com/articles/playing-pauper-kuldotha-boros) | Jake Stiles | 2016-11-05   |
+| 🇬🇧 | <a target="_blank" href="https://www.mtggoldfish.com/articles/playing-pauper-kuldotha-boros">Playing Pauper: Kuldotha Boros</a> | Jake Stiles | 2016-11-05   |
 

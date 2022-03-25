@@ -75,5 +75,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [[Pauper Tier] Slivers](http://www.metagame.it/forum/viewtopic.php?f=158&t=5888) | Kuraiden | 2012-05-17   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=5888">[Pauper Tier] Slivers</a> | Kuraiden | 2012-05-17   |
 

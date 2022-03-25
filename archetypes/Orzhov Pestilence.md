@@ -99,6 +99,6 @@ The deck is sometimes considered unstable due to the high number of lands it req
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pestilence: What You Have to Endure, What You Have to Put Others Through](https://www.coolstuffinc.com/a/kendrasmith-12262018-pestilence-what-you-have-to-endure-what-you-have-to-put-others-through) | Paige Smith | 2018-12-26   |
-| 🇮🇹 | [[Pauper Tier] Orzhov Pestilence](http://www.metagame.it/forum/viewtopic.php?f=158&t=26084) | Pentola | 2018-05-21   |
+| 🇬🇧 | <a target="_blank" href="https://www.coolstuffinc.com/a/kendrasmith-12262018-pestilence-what-you-have-to-endure-what-you-have-to-put-others-through">Pestilence: What You Have to Endure, What You Have to Put Others Through</a> | Paige Smith | 2018-12-26   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=26084">[Pauper Tier] Orzhov Pestilence</a> | Pentola | 2018-05-21   |
 

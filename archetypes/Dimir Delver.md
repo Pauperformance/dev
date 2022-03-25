@@ -74,5 +74,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [[Pauper Tier] Dimir Delver](http://www.metagame.it/forum/viewtopic.php?f=158&t=16467) | Siol | 2013-02-05   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=16467">[Pauper Tier] Dimir Delver</a> | Siol | 2013-02-05   |
 

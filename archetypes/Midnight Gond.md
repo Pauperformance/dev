@@ -56,5 +56,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [Midnight combo, gli manca solo la pescata(?)](https://eternalgathering.altervista.org/midnight-combo-gli-manca-solo-la-pescata/) | eternalgathering | 2017-03-19   |
+| 🇮🇹 | <a target="_blank" href="https://eternalgathering.altervista.org/midnight-combo-gli-manca-solo-la-pescata/">Midnight combo, gli manca solo la pescata(?)</a> | eternalgathering | 2017-03-19   |
 

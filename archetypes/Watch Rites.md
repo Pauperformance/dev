@@ -64,7 +64,7 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [[Pauper] Temur Watch Rites by Leonardo Borghi](http://www.magictitans.it/pauper-temur-watch-rites-by-leonardo-borghi/) | Leonardo Borghi | 2018-12-06   |
-| 🇮🇹 | [Watch Rites combo – il lupo travestito da agnello](https://eternalgathering.altervista.org/watch-rites-combo/) | eternalgathering | 2017-04-18   |
-| 🇮🇹 | [Pauper Deck Analisi - RUG Watch Rites](http://www.metagame.it/articoli-pauper/1957-pauper-deck-analisi-rug-watch-rites.html) | Matteo Burello | 2015-02-05   |
+| 🇮🇹 | <a target="_blank" href="http://www.magictitans.it/pauper-temur-watch-rites-by-leonardo-borghi/">[Pauper] Temur Watch Rites by Leonardo Borghi</a> | Leonardo Borghi | 2018-12-06   |
+| 🇮🇹 | <a target="_blank" href="https://eternalgathering.altervista.org/watch-rites-combo/">Watch Rites combo – il lupo travestito da agnello</a> | eternalgathering | 2017-04-18   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/1957-pauper-deck-analisi-rug-watch-rites.html">Pauper Deck Analisi - RUG Watch Rites</a> | Matteo Burello | 2015-02-05   |
 

@@ -65,5 +65,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [PAUPER DECK ANALISI - WHITE WEENIE, OLD BUT GOLD](http://www.metagame.it/articoli-pauper/2543-pauper-deck-analisi-white-weenie.html) | Matteo Burello | 2015-11-27   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/2543-pauper-deck-analisi-white-weenie.html">PAUPER DECK ANALISI - WHITE WEENIE, OLD BUT GOLD</a> | Matteo Burello | 2015-11-27   |
 

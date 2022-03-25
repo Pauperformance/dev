@@ -65,5 +65,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [UW Caw Blade – un midrange atipico](https://eternalgathering.altervista.org/caw-blade/) | eternalgathering | 2018-02-23   |
+| 🇮🇹 | <a target="_blank" href="https://eternalgathering.altervista.org/caw-blade/">UW Caw Blade – un midrange atipico</a> | eternalgathering | 2018-02-23   |
 

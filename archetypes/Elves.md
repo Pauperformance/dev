@@ -73,6 +73,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Pauper Elves Discord](https://discord.gg/JukzE4x4) | <i class="fa-brands fa-discord"></i> | ~            |
-| 🇮🇹 | [[Pauper Tier] Elves](http://www.metagame.it/forum/viewtopic.php?f=158&t=5180) | Kuraiden | 2012-05-17   |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/JukzE4x4">Pauper Elves Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=5180">[Pauper Tier] Elves</a> | Kuraiden | 2012-05-17   |
 

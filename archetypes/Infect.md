@@ -61,5 +61,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [[Pauper Tier] Infect](http://www.metagame.it/forum/viewtopic.php?f=158&t=26111) | Dave Space | 2011-12-27   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=26111">[Pauper Tier] Infect</a> | Dave Space | 2011-12-27   |
 

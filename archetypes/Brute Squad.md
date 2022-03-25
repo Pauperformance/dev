@@ -31,5 +31,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | [Deck Guide: Pauper Brute Squad](https://strategy.channelfireball.com/all-strategy/home/deck-guide-pauper-brute-squad/) | Alex Ullman | 2021-04-09   |
+| 🇬🇧 | <a target="_blank" href="https://strategy.channelfireball.com/all-strategy/home/deck-guide-pauper-brute-squad/">Deck Guide: Pauper Brute Squad</a> | Alex Ullman | 2021-04-09   |
 

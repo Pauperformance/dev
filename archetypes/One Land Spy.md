@@ -81,5 +81,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [PAUPER DECK ANALISI - BALUSTRADE COMBO](http://www.metagame.it/articoli-pauper/2261-pauper-deck-analisi-one-land-one-shot.html) | Matteo Burello | 2015-05-24   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/2261-pauper-deck-analisi-one-land-one-shot.html">PAUPER DECK ANALISI - BALUSTRADE COMBO</a> | Matteo Burello | 2015-05-24   |
 

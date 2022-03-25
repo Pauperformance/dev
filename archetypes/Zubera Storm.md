@@ -65,5 +65,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [Building on a budget: Pauper Dimir Zubera](http://www.metagame.it/articoli-pauper/3378-building-on-a-budget-pauper-dimir-zubera.html) | Roberto Bernocco | 2018-06-07   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/3378-building-on-a-budget-pauper-dimir-zubera.html">Building on a budget: Pauper Dimir Zubera</a> | Roberto Bernocco | 2018-06-07   |
 

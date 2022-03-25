@@ -90,5 +90,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇮🇹 | [Pauper Report - UW Tribe @ Paupergeddon](http://www.metagame.it/articoli-pauper/3407-pauper-report-uw-tribe-paupergeddon.html) | Pietro Bragioto | 2018-07-10   |
+| 🇮🇹 | <a target="_blank" href="http://www.metagame.it/articoli-pauper/3407-pauper-report-uw-tribe-paupergeddon.html">Pauper Report - UW Tribe @ Paupergeddon</a> | Pietro Bragioto | 2018-07-10   |
 
