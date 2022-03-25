@@ -81,6 +81,7 @@ A hybrid version of the two exists, with main deck cascade that can transform in
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Walls 722.002.apas72](https://www.mtggoldfish.com/deck/4697352) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Walls 701.001.Terminus0](https://www.mtggoldfish.com/deck/4667272) | Innistrad: Crimson Vow | 2021-11-19 | ✅ |
 | [Walls 658.001.NotGood](https://www.mtggoldfish.com/deck/4667271) | Kaldheim | 2021-02-05 | ✅ |
 | [Walls 612.001.Diego_Brando](https://www.mtggoldfish.com/deck/4351100) | Theros Beyond Death | 2020-01-24 | ✅ |
