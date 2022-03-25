@@ -755,4 +755,5 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 737       | aneo          | Neon Dynasty Art Series                         | 2022-02-18   |
 | 738       | yneo          | Alchemy: Kamigawa                               | 2022-03-17   |
 | 739       | ymid          | Alchemy: Innistrad                              | 2021-12-09   |
+| 740       | clb           | Commander Legends: Battle for Baldur's Gate     | 2022-06-10   |
 
