@@ -93,6 +93,13 @@ The deck is sometimes considered unstable due to the high number of lands it req
 
 
 
+## **Videos**
+
+| 🗣️ | 📺 | Deck | Author | Date |
+| -- | -- | ---- | ------ | ---- |
+| 🇮🇹 | <i class="fa-brands fa-youtube"></i> | [Orzhov Pestilence 722.001.Antonio1993](https://www.youtube.com/watch?v=q7g8xrRB-RA) | Pauperformance | 2022-03-26   |
+
+
 
 
 ## **Resources**
