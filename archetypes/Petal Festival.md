@@ -70,3 +70,10 @@
 
 
 
+
+## **Resources**
+
+| 🗣️ | Name | Author | Date |
+| -- | ---- | ------ | ---- |
+| 🇬🇧 | <a target="_blank" href="https://discord.com/invite/stormcommunity">MTG Storm Community Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
+

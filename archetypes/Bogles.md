@@ -80,5 +80,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/m7yqNPt">Bogles Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇮🇹 | <a target="_blank" href="http://www.metagame.it/forum/viewtopic.php?f=158&t=24491">[Pauper Tier] Aura Hexproof</a> | DaveSpace | 2011-12-27   |
 
