@@ -37,6 +37,7 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
   <summary>Click here to expand</summary>
 <a href="https://scryfall.com/card/stx/121/bayou-groff"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/a/4a82b032-b1ba-456c-abab-c0f7430b0587.jpg?1617449039" class="archetype-card rounded-image"/></a>
 <a href="https://scryfall.com/card/ema/163/elephant-guide"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/c/9/c997fe6c-cb57-4e0e-9267-42bd12cc3b03.jpg?1580014760" class="archetype-card rounded-image"/></a>
+<a href="https://scryfall.com/card/2xm/256/flayer-husk"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/0/20b394f9-644d-426e-801b-110774092018.jpg?1599709210" class="archetype-card rounded-image"/></a>
 <a href="https://scryfall.com/card/ddm/49/river-boa"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/edfbf056-c3b7-40e9-8e2b-333585978ac9.jpg?1592754684" class="archetype-card rounded-image"/></a>
 <a href="https://scryfall.com/card/mh1/178/savage-swipe"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/eea7e77c-ede5-41bd-b766-9a76ce691607.jpg?1562202180" class="archetype-card rounded-image"/></a>
 <a href="https://scryfall.com/card/pca/77/silhana-ledgewalker"><img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8ad3bdce-c0fa-4b5f-af14-7452b683960f.jpg?1562920729" class="archetype-card rounded-image"/></a>
@@ -62,6 +63,7 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Stompy 722.002.tarmogoyf_ita](https://www.mtggoldfish.com/deck/4706455) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Stompy 722.001.thuriborghez](https://www.mtggoldfish.com/deck/4667104) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Stompy 669.001.Shika93](https://www.mtggoldfish.com/deck/4351732) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Stompy 537.001.Shika93](https://www.mtggoldfish.com/deck/4351739) | Dominaria | 2018-04-27 | ✅ |
