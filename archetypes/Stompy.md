@@ -77,6 +77,7 @@ Since 2019, the addition of [Savage Swipe](https://scryfall.com/card/mh1/178/sav
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
+| 🇬🇧 | <a target="_blank" href="https://docs.google.com/spreadsheets/d/1iBnopoHW5EspnWOvCDVm28eTI581RljyJoJgAZJOhXQ/edit?usp=sharing">**Sideboard Guide**</a> | <i class="fa-solid fa-book"></i> | ~            |
 | 🇬🇧 | <a target="_blank" href="https://discord.gg/RzTmb76qjJ">Pauper Stompy Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇬🇧 | <a target="_blank" href="https://strategy.channelfireball.com/all-strategy/mtg/channelmagic-articles/pauper-stompy-deck-guide/">Pauper Stompy Deck Guide</a> | Alex Ullman | 2020-08-27   |
 | 🇬🇧 | <a target="_blank" href="https://www.coolstuffinc.com/a/kendrasmith-11212018-bringing-back-pauper-stompy">Bringing Back Pauper Stompy</a> | Paige Smith | 2018-11-21   |

@@ -51,6 +51,6 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | <a target="_blank" href="https://discord.gg/zrn2N6HT">Pauper Storm Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/NkzHtj5w5g">Pauper Storm Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 | 🇬🇧 | <a target="_blank" href="https://discord.com/invite/stormcommunity">MTG Storm Community Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 
