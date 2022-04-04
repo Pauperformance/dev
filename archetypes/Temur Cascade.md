@@ -72,5 +72,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | <a target="_blank" href="https://discord.gg/2qf7KsVE">Pauper Cascade Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/wTxNJkpmJS">Pauper Cascade Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 

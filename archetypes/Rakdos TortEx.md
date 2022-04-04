@@ -66,5 +66,5 @@
 
 | 🗣️ | Name | Author | Date |
 | -- | ---- | ------ | ---- |
-| 🇬🇧 | <a target="_blank" href="https://discord.gg/fRzwk2TJ">Pauper TortEx Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
+| 🇬🇧 | <a target="_blank" href="https://discord.gg/Q3sgSkwjWG">Pauper TortEx Discord</a> | <i class="fa-brands fa-discord"></i> | ~            |
 
