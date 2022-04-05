@@ -49,7 +49,7 @@ jobs:
 
     - name: Update Academy
       env:
-        DROPBOX_ACCESS_TOKEN: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
+        DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
         DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
         MTGGOLDFISH_PAUPERFORMANCE_USERNAME: ${{ secrets.MTGGOLDFISH_PAUPERFORMANCE_USERNAME }}
