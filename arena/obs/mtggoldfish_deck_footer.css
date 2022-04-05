@@ -1,9 +1,9 @@
 /*
 
 Type: Browser
-URL: https://www.mtggoldfish.com/deck/popout?id=XXXXXX
-Width: 800
-Height: 50
+URL: https://www.mtggoldfish.com/deck/popout?id=XXXXXXX
+Width: 2160
+Height: 42
 ✓ Use custom frame rate
 FPS: 30
 
@@ -21,6 +21,9 @@ body {
     visibility: visible;
     font-size: 20px !important;
     font-family: 'qavo_personal_useregular';
+    text-align: center;
+    width: 100%;
+    position: fixed;
 }
 
 .popout-deck-container {
