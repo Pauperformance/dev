@@ -61,6 +61,7 @@
 
 | Name | Set name | Set date | Legal |
 | -----| -------- | -------- | ----- |
+| [Golgari TortEx 722.001.Shika93](https://www.mtggoldfish.com/deck/4727490) | Kamigawa: Neon Dynasty | 2022-02-18 | ✅ |
 | [Golgari TortEx 669.001.Shika93](https://www.mtggoldfish.com/deck/4351733) | Strixhaven: School of Mages | 2021-04-23 | ✅ |
 | [Golgari TortEx 600.001.Shika93](https://www.mtggoldfish.com/deck/4351750) | Throne of Eldraine | 2019-10-04 | ✅ |
 | [Golgari TortEx 537.001.Shika93](https://www.mtggoldfish.com/deck/4351741) | Dominaria | 2018-04-27 | ✅ |
